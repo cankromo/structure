@@ -1,0 +1,37 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>TOEFL Practice</title><style>
+:root{--bg:#f4f6fa;--card:#fff;--ink:#111827;--muted:#667085;--line:#d9dee7;--blue:#1d4ed8;--green:#15803d;--red:#b42318}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Arial,sans-serif}
+.app{max-width:820px;margin:0 auto;padding:18px 14px 36px}.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;margin:14px 0}
+h1,h2,h3{margin-top:0}button{border:0;border-radius:12px;padding:12px 14px;font:inherit;font-weight:700;background:var(--blue);color:#fff;cursor:pointer}
+button.secondary{background:#eef2f7;color:#24324a}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.module{background:#fff;color:var(--ink);border:1px solid var(--line);text-align:left}.muted{color:var(--muted)}.small{font-size:13px}
+.option{display:block;border:1px solid var(--line);padding:10px;border-radius:12px;margin:7px 0}.stim{white-space:pre-wrap;background:#f8fafc;padding:14px;border-radius:12px;line-height:1.55}
+.blank{font:inherit;border:0;border-bottom:2px solid #111;background:#fff;text-align:center;outline:none}.answerline{min-height:48px;border:1px solid var(--line);padding:12px;border-radius:12px;margin:10px 0}
+.chip{background:#eaf0ff;color:#1d2a44;margin:4px}.toolbar{display:flex;gap:8px;flex-wrap:wrap}.score{font-size:42px;font-weight:900}.ok{color:var(--green)}.bad{color:var(--red)}
+textarea{width:100%;min-height:160px;padding:12px;font:inherit;border:1px solid var(--line);border-radius:12px}.audio{padding:12px;background:#f8fafc;border-radius:12px;margin:10px 0}
+</style></head>
+<body><div class="app"><h1>TOEFL Practice</h1><p class="muted">Objective modules only. Questions load from <code>../data/questions.json</code>.</p><div id="root"></div></div>
+<script>
+let Q={};
+fetch('../data/questions.json').then(r=>r.json()).then(x=>{Q=x;home()});
+
+const mods=[['complete_words','Complete the Words'],['daily_life','Read in Daily Life'],['academic_passage','Academic Passage'],['choose_response','Choose a Response'],['conversations','Conversation'],['announcements','Announcement'],['academic_talks','Academic Talk'],['build_sentence','Build a Sentence']];
+let st={};
+function root(h){document.getElementById('root').innerHTML=h;scrollTo(0,0)}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function home(){root('<div class="grid">'+mods.map(m=>`<button class="module" onclick="start('${m[0]}')"><b>${m[1]}</b><div class="small muted">${Q[m[0]].length} item(s)</div></button>`).join('')+'</div>')}
+function start(type){st={type,idx:0,score:0,total:0,order:[...Q[type].keys()].sort(()=>Math.random()-.5)};render()}
+function next(){st.idx++; if(st.idx>=st.order.length)finish(); else render()}
+function render(){let item=Q[st.type][st.order[st.idx]]; if(st.type==='complete_words')return cw(item);if(st.type==='build_sentence')return bs(item);if(st.type==='choose_response')return cr(item);return mc(item)}
+function cw(it){let i=0,b=it.text.replace(/([A-Za-z]+)(_+)/g,(m,p,u)=>`${p}<input class="blank" id="b${i++}" maxlength="${u.length}" style="width:${Math.max(28,u.length*14)}px">`);root(`<div class="card"><h2>${esc(it.title)}</h2><p style="line-height:2">${b}</p><button onclick="checkCW()">Check</button></div>`)}
+function checkCW(){let it=Q[st.type][st.order[st.idx]],s=0;it.answers.forEach((a,i)=>{if((document.getElementById('b'+i).value||'').toLowerCase()===a.toLowerCase())s++});st.score+=s;st.total+=it.answers.length;root(`<div class="card"><div class="score">${s}/${it.answers.length}</div><button onclick="next()">Next</button></div>`)}
+function bs(it){let order=[...it.parts.keys()].sort(()=>Math.random()-.5);st.sel=[];root(`<div class="card"><h2>Build a Sentence</h2><div>${order.map(i=>`<button class="chip" onclick="selPart(${i},this)">${esc(it.parts[i])}</button>`).join('')}</div><div id="line" class="answerline"></div><button onclick="checkBS()">Check</button></div>`)}
+function selPart(i,b){if(st.sel.includes(i))return;st.sel.push(i);b.disabled=true;document.getElementById('line').textContent=st.sel.map(j=>Q[st.type][st.order[st.idx]].parts[j]).join(' ')}
+function checkBS(){let it=Q[st.type][st.order[st.idx]],ok=JSON.stringify(st.sel)===JSON.stringify([...it.parts.keys()]);st.score+=ok?1:0;st.total++;root(`<div class="card"><div class="score">${ok?'1/1':'0/1'}</div><p>${ok?'Correct':esc(it.parts.join(' '))}</p><button onclick="next()">Next</button></div>`)}
+function cr(it){root(`<div class="card"><h2>Listen and Choose a Response</h2><button onclick="speak('${encodeURIComponent(it.prompt)}',this)">▶ Play once</button>${it.options.map((o,i)=>`<label class="option"><input type="radio" name="x" value="${i}">${esc(o)}</label>`).join('')}<button onclick="checkCR()">Check</button></div>`)}
+function checkCR(){let it=Q[st.type][st.order[st.idx]],x=document.querySelector('input[name=x]:checked'),ok=x&&+x.value===it.answer;st.score+=ok?1:0;st.total++;root(`<div class="card"><div class="score">${ok?'1/1':'0/1'}</div><p>${ok?'Correct':'Correct: '+esc(it.options[it.answer])}</p><button onclick="next()">Next</button></div>`)}
+function mc(it){let text=it.text||'';if(it.turns)text=it.turns.map(t=>t.join(': ')).join('\n');root(`<div class="card"><h2>${esc(it.title||st.type)}</h2>${st.type.includes('talk')||st.type==='announcements'||st.type==='conversations'?`<button onclick="speak('${encodeURIComponent(text)}',this)">▶ Play once</button>`:`<div class="stim">${esc(text)}</div>`}${it.questions.map((q,qi)=>`<div><b>${esc(q.q)}</b>${q.options.map((o,i)=>`<label class="option"><input type="radio" name="q${qi}" value="${i}">${esc(o)}</label>`).join('')}</div>`).join('')}<button onclick="checkMC()">Check</button></div>`)}
+function checkMC(){let it=Q[st.type][st.order[st.idx]],s=0;it.questions.forEach((q,i)=>{let x=document.querySelector(`input[name=q${i}]:checked`);if(x&&+x.value===q.answer)s++});st.score+=s;st.total+=it.questions.length;root(`<div class="card"><div class="score">${s}/${it.questions.length}</div><button onclick="next()">Next</button></div>`)}
+function finish(){root(`<div class="card"><div class="score">${st.score}/${st.total}</div><button onclick="home()">Home</button></div>`)}
+function speak(enc,b){if(b.dataset.used)return;b.dataset.used=1;b.disabled=true;let u=new SpeechSynthesisUtterance(decodeURIComponent(enc));u.lang='en-US';speechSynthesis.speak(u)}
+</script></body></html>

@@ -1,0 +1,42 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>TOEFL Full Mock</title>
+<style>
+:root{--bg:#f4f6fa;--card:#fff;--ink:#111827;--muted:#667085;--line:#d9dee7;--blue:#1d4ed8;--green:#15803d;--red:#b42318}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Arial,sans-serif}
+.app{max-width:820px;margin:0 auto;padding:18px 14px 36px}.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;margin:14px 0}
+h1,h2,h3{margin-top:0}button{border:0;border-radius:12px;padding:12px 14px;font:inherit;font-weight:700;background:var(--blue);color:#fff;cursor:pointer}
+button.secondary{background:#eef2f7;color:#24324a}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.module{background:#fff;color:var(--ink);border:1px solid var(--line);text-align:left}.muted{color:var(--muted)}.small{font-size:13px}
+.option{display:block;border:1px solid var(--line);padding:10px;border-radius:12px;margin:7px 0}.stim{white-space:pre-wrap;background:#f8fafc;padding:14px;border-radius:12px;line-height:1.55}
+.blank{font:inherit;border:0;border-bottom:2px solid #111;background:#fff;text-align:center;outline:none}.answerline{min-height:48px;border:1px solid var(--line);padding:12px;border-radius:12px;margin:10px 0}
+.chip{background:#eaf0ff;color:#1d2a44;margin:4px}.toolbar{display:flex;gap:8px;flex-wrap:wrap}.score{font-size:42px;font-weight:900}.ok{color:var(--green)}.bad{color:var(--red)}
+textarea{width:100%;min-height:160px;padding:12px;font:inherit;border:1px solid var(--line);border-radius:12px}.audio{padding:12px;background:#f8fafc;border-radius:12px;margin:10px 0}
+</style><script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script></head>
+<body><div class="app"><h1>TOEFL Full Mock</h1><p class="muted">Reading/Listening auto-score; Writing and Speaking are exported for ChatGPT evaluation.</p><div id="root"></div></div>
+<script>
+let Q,T,test,answers={objective:{},writing:{},speaking:{}},recordings={},stream=null;
+Promise.all([fetch('../data/questions.json').then(r=>r.json()),fetch('../data/tests.json').then(r=>r.json())]).then(([q,t])=>{Q=q;T=t;home()})
+function root(h){document.getElementById('root').innerHTML=h;scrollTo(0,0)}function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function home(){root(`<div class="grid">${T.tests.map(x=>`<button class="module" onclick="start('${x.id}')"><b>${x.name}</b><div class="small muted">Full mock</div></button>`).join('')}</div>`)}
+function find(type,id){return Q[type].find(x=>x.id===id)}
+function start(id){test=T.tests.find(x=>x.id===id);answers={objective:{},writing:{},speaking:{}};recordings={};renderOverview()}
+function renderOverview(){root(`<div class="card"><h2>${test.name}</h2><p>Use the buttons below. For this starter build, sections are completed one by one.</p><div class="grid"><button onclick="runObjective('reading')">Reading</button><button onclick="runObjective('listening')">Listening</button><button onclick="runWriting()">Writing</button><button onclick="runSpeaking()">Speaking</button></div><div style="margin-top:14px"><button class="secondary" onclick="exportZip()">Export for ChatGPT</button></div></div>`)}
+
+let seq=[],idx=0,secName='';
+function runObjective(sec){secName=sec;seq=[];test.sections[sec].forEach(g=>g.ids.forEach(id=>seq.push([g.type,id])));idx=0;renderObj()}
+function renderObj(){if(idx>=seq.length)return renderOverview();let [type,id]=seq[idx],it=find(type,id);if(type==='complete_words')return cw(type,it);if(type==='choose_response')return cr(type,it);if(type==='build_sentence')return;return mc(type,it)}
+function cw(type,it){let n=0,b=it.text.replace(/([A-Za-z]+)(_+)/g,(m,p,u)=>`${p}<input class="blank" id="b${n++}" maxlength="${u.length}" style="width:${Math.max(28,u.length*14)}px">`);root(`<div class="card"><h2>${esc(it.title)}</h2><p style="line-height:2">${b}</p><button onclick="checkCW('${type}','${it.id}')">Check</button></div>`)}
+function checkCW(type,id){let it=find(type,id),s=0;it.answers.forEach((a,i)=>{if((document.getElementById('b'+i).value||'').toLowerCase()===a.toLowerCase())s++});answers.objective[id]={score:s,total:it.answers.length};idx++;renderObj()}
+function cr(type,it){root(`<div class="card"><button onclick="speak('${encodeURIComponent(it.prompt)}',this)">▶ Play once</button>${it.options.map((o,i)=>`<label class="option"><input type="radio" name="x" value="${i}">${esc(o)}</label>`).join('')}<button onclick="checkCR('${type}','${it.id}')">Check</button></div>`)}
+function checkCR(type,id){let it=find(type,id),x=document.querySelector('input[name=x]:checked'),ok=x&&+x.value===it.answer;answers.objective[id]={score:ok?1:0,total:1};idx++;renderObj()}
+function mc(type,it){let text=it.text||'';if(it.turns)text=it.turns.map(t=>t.join(': ')).join('\n');root(`<div class="card"><h2>${esc(it.title||type)}</h2>${['conversations','announcements','academic_talks'].includes(type)?`<button onclick="speak('${encodeURIComponent(text)}',this)">▶ Play once</button>`:`<div class="stim">${esc(text)}</div>`}${it.questions.map((q,qi)=>`<div><b>${esc(q.q)}</b>${q.options.map((o,i)=>`<label class="option"><input type="radio" name="q${qi}" value="${i}">${esc(o)}</label>`).join('')}</div>`).join('')}<button onclick="checkMC('${type}','${it.id}')">Check</button></div>`)}
+function checkMC(type,id){let it=find(type,id),s=0;it.questions.forEach((q,i)=>{let x=document.querySelector(`input[name=q${i}]:checked`);if(x&&+x.value===q.answer)s++});answers.objective[id]={score:s,total:it.questions.length};idx++;renderObj()}
+
+function runWriting(){let email=find('email',test.sections.writing.find(x=>x.type==='email').ids[0]),disc=find('discussion',test.sections.writing.find(x=>x.type==='discussion').ids[0]);root(`<div class="card"><h2>Write an Email</h2><div class="stim">${esc(email.prompt)}</div><textarea id="email"></textarea></div><div class="card"><h2>Academic Discussion</h2><div class="stim">${esc(disc.prompt)}</div><textarea id="disc"></textarea></div><button onclick="saveWriting()">Save Writing</button>`)}
+function saveWriting(){answers.writing.email=document.getElementById('email').value;answers.writing.discussion=document.getElementById('disc').value;renderOverview()}
+
+function runSpeaking(){let reps=test.sections.speaking.find(x=>x.type==='repeat').ids,ints=test.sections.speaking.find(x=>x.type==='interview').ids;root(`<div class="card"><h2>Speaking</h2><p class="muted">Play each prompt once, then record.</p>${reps.map((id,i)=>{let q=find('repeat',id);return `<div class="audio"><button onclick="speak('${encodeURIComponent(q.text)}',this)">▶ Repeat ${i+1}</button><button class="secondary" onclick="record('${id}',12,this)">● Record</button></div>`}).join('')}${ints.map((id,i)=>{let q=find('interview',id);return `<div class="audio"><button onclick="speak('${encodeURIComponent(q.prompt)}',this)">▶ Interview ${i+1}</button><button class="secondary" onclick="record('${id}',45,this)">● Record</button></div>`}).join('')}<button onclick="renderOverview()">Done</button></div>`)}
+async function record(id,sec,b){try{stream=await navigator.mediaDevices.getUserMedia({audio:true});let r=new MediaRecorder(stream),chunks=[];r.ondataavailable=e=>chunks.push(e.data);r.onstop=()=>{recordings[id]=new Blob(chunks,{type:'audio/webm'});stream.getTracks().forEach(t=>t.stop());b.textContent='Recorded ✓';b.disabled=true};r.start();b.textContent='Recording…';setTimeout(()=>r.stop(),sec*1000)}catch(e){alert(e.message)}}
+function speak(enc,b){if(b.dataset.used)return;b.dataset.used=1;b.disabled=true;let u=new SpeechSynthesisUtterance(decodeURIComponent(enc));u.lang='en-US';speechSynthesis.speak(u)}
+
+async function exportZip(){let zip=new JSZip();let obj={test_id:test.id,test_name:test.name,objective:answers.objective,writing:answers.writing,speaking_files:Object.keys(recordings),exported_at:new Date().toISOString()};zip.file('result.json',JSON.stringify(obj,null,2));zip.file('writing/email.txt',answers.writing.email||'');zip.file('writing/academic_discussion.txt',answers.writing.discussion||'');for(let [id,blob] of Object.entries(recordings))zip.file('speaking/'+id+'.webm',blob);let blob=await zip.generateAsync({type:'blob'});let a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=test.id+'_result.zip';a.click()}
+</script></body></html>

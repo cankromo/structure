@@ -1,0 +1,95 @@
+{
+  "tests": [
+    {
+      "id": "mock_001",
+      "name": "Mock 001",
+      "sections": {
+        "reading": [
+          {
+            "type": "complete_words",
+            "ids": [
+              "cw_001",
+              "cw_002"
+            ]
+          },
+          {
+            "type": "daily_life",
+            "ids": [
+              "rdl_001"
+            ]
+          },
+          {
+            "type": "academic_passage",
+            "ids": [
+              "rap_001"
+            ]
+          }
+        ],
+        "listening": [
+          {
+            "type": "choose_response",
+            "ids": [
+              "lcr_001",
+              "lcr_002"
+            ]
+          },
+          {
+            "type": "conversations",
+            "ids": [
+              "conv_001"
+            ]
+          },
+          {
+            "type": "announcements",
+            "ids": [
+              "ann_001"
+            ]
+          },
+          {
+            "type": "academic_talks",
+            "ids": [
+              "talk_001"
+            ]
+          }
+        ],
+        "writing": [
+          {
+            "type": "build_sentence",
+            "ids": [
+              "bs_001",
+              "bs_002"
+            ]
+          },
+          {
+            "type": "email",
+            "ids": [
+              "we_001"
+            ]
+          },
+          {
+            "type": "discussion",
+            "ids": [
+              "ad_001"
+            ]
+          }
+        ],
+        "speaking": [
+          {
+            "type": "repeat",
+            "ids": [
+              "rep_001",
+              "rep_002"
+            ]
+          },
+          {
+            "type": "interview",
+            "ids": [
+              "int_001",
+              "int_002"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

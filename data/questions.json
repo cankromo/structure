@@ -1,0 +1,284 @@
+{
+  "complete_words": [
+    {
+      "id": "cw_001",
+      "title": "Coastal Wetlands",
+      "topic": "environment",
+      "difficulty": "B2-C1",
+      "text": "Coastal wetlands provide habitat for many species and help protect shorelines from storms and erosion. These eco_______ can ab____ large amo____ of water, redu____ the for__ of waves and flooding. They al__ trap sediment and pollutants, which can improve water quality.",
+      "answers": [
+        "systems",
+        "sorb",
+        "unts",
+        "cing",
+        "ce",
+        "so"
+      ]
+    },
+    {
+      "id": "cw_002",
+      "title": "Early Agriculture",
+      "topic": "history",
+      "difficulty": "B2-C1",
+      "text": "The development of agriculture transformed human societies by allowing communities to produce food in more predictable ways. Early farm___ selected pla___ with useful tra___, such as larger seeds or easier harvesting. Over ti__, repeated selection cha____ crops and encouraged permanent settlements.",
+      "answers": [
+        "ers",
+        "nts",
+        "its",
+        "me",
+        "nged"
+      ]
+    }
+  ],
+  "daily_life": [
+    {
+      "id": "rdl_001",
+      "title": "Library Reservation",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "STUDY ROOM POLICY\nStudy rooms may be reserved for up to two hours per day. Reservations are held for 10 minutes after the scheduled start time. If no member of the group arrives within that period, the room may be assigned to another student.",
+      "questions": [
+        {
+          "q": "How long may a study room be reserved per day?",
+          "options": [
+            "10 minutes",
+            "One hour",
+            "Two hours",
+            "All day"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What may happen if a group is more than 10 minutes late?",
+          "options": [
+            "The reservation may be given to someone else.",
+            "The group must pay a fee.",
+            "The room will be locked.",
+            "The reservation automatically moves later."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "academic_passage": [
+    {
+      "id": "rap_001",
+      "title": "Island Biogeography",
+      "topic": "ecology",
+      "difficulty": "C1",
+      "text": "Ecologists have long observed that islands differ in the number of species they contain. One influential explanation is the theory of island biogeography, which proposes that species richness reflects a balance between immigration and extinction. Islands located closer to a mainland source are more likely to receive new species because organisms can reach them more easily. Larger islands, meanwhile, generally support larger populations and a wider range of habitats, reducing the chance that species will disappear locally.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "Why mainland habitats contain no extinctions",
+            "How island size and isolation can influence species richness",
+            "Why all islands have similar species",
+            "How agriculture creates new islands"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why are islands closer to a mainland likely to receive more species?",
+          "options": [
+            "They are always larger.",
+            "Organisms can reach them more easily.",
+            "They have fewer predators.",
+            "Their climates are warmer."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "choose_response": [
+    {
+      "id": "lcr_001",
+      "prompt": "Did you remember to reserve the conference room?",
+      "options": [
+        "Yes, I booked it this morning.",
+        "The conference was interesting.",
+        "The room has a projector.",
+        "I remember the building."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_002",
+      "prompt": "Would you mind sending me the updated file?",
+      "options": [
+        "Not at all; I'll send it now.",
+        "The file was updated yesterday.",
+        "I don't mind the weather.",
+        "It is in a folder."
+      ],
+      "answer": 0
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_001",
+      "title": "Academic Advising",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi, I wanted to ask whether I can add the data visualization course."
+        ],
+        [
+          "Advisor",
+          "Have you completed the introductory statistics requirement?"
+        ],
+        [
+          "Student",
+          "Yes, I took it last semester."
+        ],
+        [
+          "Advisor",
+          "Then you're eligible, but the course is currently full."
+        ],
+        [
+          "Student",
+          "Is there a waiting list?"
+        ],
+        [
+          "Advisor",
+          "Yes. Add yourself online today."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student meet the advisor?",
+          "options": [
+            "To drop statistics",
+            "To ask about adding a course",
+            "To change majors",
+            "To report a technical problem"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What problem does the advisor mention?",
+          "options": [
+            "The course has been cancelled.",
+            "The course is currently full.",
+            "The student lacks a prerequisite.",
+            "The waiting list is closed."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_001",
+      "title": "Science Building",
+      "text": "Attention students. The east entrance of the science building will be closed tomorrow from 8 a.m. until noon while new doors are installed. During that period, please use the south entrance near the parking area. All classes and laboratories will follow their normal schedules.",
+      "questions": [
+        {
+          "q": "What is the purpose of the announcement?",
+          "options": [
+            "To cancel science classes",
+            "To explain a temporary entrance closure",
+            "To announce a new parking rule",
+            "To move laboratories"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What will remain unchanged?",
+          "options": [
+            "The entrance location",
+            "Class and laboratory schedules",
+            "Parking access",
+            "Installation plans"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "academic_talks": [
+    {
+      "id": "talk_001",
+      "title": "Seed Dispersal",
+      "text": "Plants cannot move from place to place, but their seeds often travel considerable distances. One common method of seed dispersal involves animals. Some fruits are eaten by birds or mammals, and the seeds later pass through the digestive system and are deposited elsewhere. Wind is another important mechanism. Lightweight seeds may have wings or fine hairs that help them remain in the air.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "How plants make fruit",
+            "Different mechanisms of seed dispersal",
+            "Why animals avoid seeds",
+            "How seedlings produce flowers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What characteristic can help wind-dispersed seeds?",
+          "options": [
+            "Heavy shells",
+            "Fine hairs or wings",
+            "Large fruits",
+            "Sticky roots"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "build_sentence": [
+    {
+      "id": "bs_001",
+      "parts": [
+        "the research team",
+        "decided",
+        "to repeat the experiment",
+        "under more controlled conditions"
+      ]
+    },
+    {
+      "id": "bs_002",
+      "parts": [
+        "students who need additional help",
+        "are encouraged",
+        "to visit the instructor",
+        "during office hours"
+      ]
+    }
+  ],
+  "email": [
+    {
+      "id": "we_001",
+      "prompt": "You reserved a university study room for an important group meeting, but another group was using the room. Write an email to library staff explaining what happened, how it affected your group, and asking how to prevent the same problem in the future."
+    }
+  ],
+  "discussion": [
+    {
+      "id": "ad_001",
+      "prompt": "Some universities are considering replacing a portion of final exams with project-based assessment. Do you think this would improve how students are evaluated, or would traditional exams still be better for most courses? Explain your view."
+    }
+  ],
+  "repeat": [
+    {
+      "id": "rep_001",
+      "text": "The campus bookstore closes at six this evening."
+    },
+    {
+      "id": "rep_002",
+      "text": "Students can borrow laboratory equipment from the service desk on the first floor."
+    }
+  ],
+  "interview": [
+    {
+      "id": "int_001",
+      "prompt": "Describe a skill you learned outside a formal classroom. How did you learn it, and why was it useful?"
+    },
+    {
+      "id": "int_002",
+      "prompt": "Some people prefer to make detailed plans before starting a project, while others prefer to adjust as they go. Which approach do you prefer, and why?"
+    }
+  ]
+}
