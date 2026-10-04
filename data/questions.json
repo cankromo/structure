@@ -28,6 +28,60 @@
         "me",
         "nged"
       ]
+    },
+    {
+      "id": "cw_101",
+      "title": "Urban Tree Canopies",
+      "topic": "environment",
+      "difficulty": "B2-C1",
+      "text": "Urban tree canopies influence city life in ways that extend beyond simple beautification. In dense neigh________, mature trees mod_____ summer temperatures, inter____ rainfall before it reaches pavement, and prov___ habitat for birds and insects. Their roots also sta______ soil, while shaded streets enc______ walking and cycling. Because these benefits acc_______ over decades, planners must prot___ existing trees while exp______ canopy cover in underserved districts and mon____ survival after planting.",
+      "answers": [
+        "borhoods",
+        "erate",
+        "cept",
+        "ide",
+        "bilize",
+        "ourage",
+        "umulate",
+        "ect",
+        "anding",
+        "itor"
+      ]
+    },
+    {
+      "id": "cw_102",
+      "title": "Museum Conservation",
+      "topic": "arts",
+      "difficulty": "B2-C1",
+      "text": "Museum conservation combines scientific analysis with careful decisions about cultural value. Before an object is rest____, specialists doc_____ its condition, ident___ the materials used by the maker, and eval____ any previous repairs. Even small interventions can alt__ historical evidence, so conservators pref__ reversible methods. They also lim__ exposure to light and hum_____, because their goal is to pres____ information that future researchers may need and avo__ unnecessary reconstruction.",
+      "answers": [
+        "ored",
+        "ument",
+        "ify",
+        "uate",
+        "er",
+        "er",
+        "it",
+        "idity",
+        "erve",
+        "id"
+      ]
+    },
+    {
+      "id": "cw_103",
+      "title": "Memory and Sleep",
+      "topic": "psychology",
+      "difficulty": "B2-C1",
+      "text": "Sleep is now understood as an active period during which the brain organizes recent experience. During certain sta___ of sleep, neural pathways are react____, allowing fragile memories to become more sta___. This process may expl___ why students who rest after studying often ret___ information more effectively. Sleep loss, by contrast, can imp___ attention, reduce accuracy, and make complex reasoning more diff_____.",
+      "answers": [
+        "ges",
+        "ivated",
+        "ble",
+        "ain",
+        "ain",
+        "air",
+        "icult"
+      ]
     }
   ],
   "daily_life": [
@@ -57,6 +111,153 @@
             "The reservation automatically moves later."
           ],
           "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_101",
+      "title": "Campus Bike Locker Notice",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "BIKE LOCKER UPDATE\nBeginning Monday, students who rent bike lockers must renew their access online before the first day of each month. Lockers that are not renewed by 5 p.m. on the first business day will be released to students on the waiting list. The transportation office will send one reminder email three days before the deadline.",
+      "questions": [
+        {
+          "q": "What is the notice mainly about?",
+          "options": [
+            "A new campus bus route",
+            "A renewal rule for bike lockers",
+            "A change in parking fees",
+            "A safety inspection schedule"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "When must students renew locker access?",
+          "options": [
+            "Before the first day of each month",
+            "Every Monday morning",
+            "Three days after receiving an email",
+            "At the end of each semester"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What may happen if a student misses the deadline?",
+          "options": [
+            "The locker may be assigned to someone else.",
+            "The student will receive a free month.",
+            "The office will repair the locker.",
+            "The waiting list will be canceled."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the office send a reminder email?",
+          "options": [
+            "To confirm a locker repair",
+            "To help students renew on time",
+            "To advertise new bicycles",
+            "To collect feedback on transportation"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_102",
+      "title": "Professor Email About Office Hours",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "Subject: Office Hours This Week\nBecause I will be attending a department meeting on Thursday afternoon, my regular office hours will move to Friday from 10:00 to 11:30 a.m. If you cannot come at that time, send me two possible appointment times, and I will try to meet with you before the assignment is due.",
+      "questions": [
+        {
+          "q": "Why are the professor’s office hours changing?",
+          "options": [
+            "A class has been canceled.",
+            "The professor has a department meeting.",
+            "The assignment deadline changed.",
+            "The office is being renovated."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "When will office hours be held this week?",
+          "options": [
+            "Thursday morning",
+            "Thursday afternoon",
+            "Friday morning",
+            "Friday afternoon"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What should students do if the new time does not work?",
+          "options": [
+            "Submit the assignment late",
+            "Contact another professor",
+            "Send two possible meeting times",
+            "Wait until next week"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about the assignment?",
+          "options": [
+            "It is due soon.",
+            "It has been graded already.",
+            "It no longer requires revision.",
+            "It must be completed in groups."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_103",
+      "title": "Lab Equipment Checkout Message",
+      "topic": "campus",
+      "difficulty": "B2-C1",
+      "text": "LAB EQUIPMENT CHECKOUT\nStudents enrolled in field methods courses may borrow GPS units and water testing kits for approved projects. Equipment must be reserved at least 24 hours in advance and returned clean by noon on the due date. Students are responsible for replacement costs if items are lost or damaged.",
+      "questions": [
+        {
+          "q": "Who is allowed to borrow the equipment?",
+          "options": [
+            "Any visitor to the lab",
+            "Students in approved field methods courses",
+            "Only graduate assistants",
+            "Students who pay a monthly fee"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How far in advance must equipment be reserved?",
+          "options": [
+            "At least 24 hours",
+            "One week",
+            "By noon on the due date",
+            "After the project is finished"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What must students do when returning equipment?",
+          "options": [
+            "Include a written report",
+            "Return it clean by noon",
+            "Pay replacement costs every time",
+            "Leave it outside the lab door"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is implied if a GPS unit is damaged?",
+          "options": [
+            "The course will be canceled.",
+            "The student may have to pay for it.",
+            "The lab will ignore the problem.",
+            "The project receives extra time."
+          ],
+          "answer": 1
         }
       ]
     }
@@ -90,6 +291,213 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "rap_101",
+      "title": "The Spread of Printing",
+      "topic": "history",
+      "difficulty": "C1",
+      "text": "The rapid spread of printing in fifteenth-century Europe did more than increase the number of books in circulation. It changed how scholars compared sources, how merchants distributed practical manuals, and how religious debates reached audiences beyond local communities. Printed works were not automatically accurate, but identical copies made it easier for readers in different cities to discuss the same passage. Over time, this shared textual base encouraged more systematic criticism and helped create networks of readers who had never met.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "Why printed books were always inexpensive",
+            "How printing affected communication and scholarship",
+            "Why merchants stopped using manuals",
+            "How local communities rejected books"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, what did identical copies make easier?",
+          "options": [
+            "Preventing religious debate",
+            "Discussing the same passage in different cities",
+            "Eliminating all errors from books",
+            "Teaching people to write by hand"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The word “practical” is closest in meaning to",
+          "options": [
+            "useful",
+            "rare",
+            "decorative",
+            "uncertain"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about handwritten texts?",
+          "options": [
+            "They were never read by scholars.",
+            "They may have varied more from copy to copy.",
+            "They were cheaper than printed books.",
+            "They were mostly used for science fiction."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the author mention merchants?",
+          "options": [
+            "To show that printing influenced everyday professional activity",
+            "To argue that merchants invented printing",
+            "To explain why trade declined",
+            "To contrast books with religious objects"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which outcome developed over time?",
+          "options": [
+            "A shared base for criticism among readers",
+            "A ban on source comparison",
+            "The disappearance of religious audiences",
+            "The end of long-distance communication"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_102",
+      "title": "Coral Reef Symbiosis",
+      "topic": "biology",
+      "difficulty": "C1",
+      "text": "Coral reefs depend on a delicate relationship between coral animals and microscopic algae that live inside their tissues. The algae use sunlight to produce sugars, some of which are transferred to the coral. In return, the algae receive shelter and access to compounds they need for photosynthesis. When ocean temperatures remain unusually high, this relationship can break down, and corals may expel the algae. The resulting bleaching does not always kill the coral immediately, but it leaves the organism with far less energy.",
+      "questions": [
+        {
+          "q": "What relationship is described in the passage?",
+          "options": [
+            "A predator-prey relationship between fish and coral",
+            "A mutually beneficial relationship between coral and algae",
+            "A competition between algae and sunlight",
+            "A process by which coral eats sand"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What do algae provide to coral?",
+          "options": [
+            "Sugars produced through photosynthesis",
+            "Protection from all predators",
+            "Minerals from deep water",
+            "New coral skeletons"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What may cause coral bleaching?",
+          "options": [
+            "Unusually high ocean temperatures",
+            "Too little shelter for fish",
+            "An increase in sand deposits",
+            "The absence of sunlight in all seasons"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “delicate” is closest in meaning to",
+          "options": [
+            "easily disturbed",
+            "fully understood",
+            "recently discovered",
+            "visibly colorful"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is implied about bleached coral?",
+          "options": [
+            "It has lost an important energy source.",
+            "It immediately becomes stronger.",
+            "It can no longer be seen underwater.",
+            "It is no longer affected by temperature."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the author describe what each organism receives?",
+          "options": [
+            "To explain why the relationship benefits both partners",
+            "To show that algae harm coral tissues",
+            "To compare reefs with forests",
+            "To argue that photosynthesis is impossible underwater"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_103",
+      "title": "Urban Archaeology",
+      "topic": "archaeology",
+      "difficulty": "C1",
+      "text": "Urban archaeology often requires researchers to work within active cities, where construction schedules, underground utilities, and public safety rules limit excavation. These constraints can make the work difficult, yet they also provide unusual opportunities. Layers beneath streets may preserve evidence of markets, workshops, and household routines that written records ignored. By combining small excavations with maps, tax documents, and environmental samples, archaeologists can reconstruct how ordinary residents used urban space over long periods.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "How archaeologists study ordinary life in cities",
+            "Why cities prevent all historical research",
+            "How tax documents replaced excavation",
+            "Why markets disappeared from urban areas"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What makes urban archaeology difficult?",
+          "options": [
+            "The absence of underground materials",
+            "Construction schedules and safety rules",
+            "A lack of public interest in cities",
+            "Too many written records"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What may be preserved beneath streets?",
+          "options": [
+            "Evidence of everyday activities",
+            "Only royal monuments",
+            "Modern traffic patterns",
+            "Records of future buildings"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “constraints” is closest in meaning to",
+          "options": [
+            "limitations",
+            "instruments",
+            "discoveries",
+            "explanations"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why are written records mentioned?",
+          "options": [
+            "To show that archaeology can reveal information they omit",
+            "To prove that maps are unreliable",
+            "To argue that documents are useless",
+            "To explain why excavation is unnecessary"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What approach do urban archaeologists use according to the passage?",
+          "options": [
+            "They combine several kinds of evidence.",
+            "They excavate entire cities at once.",
+            "They avoid environmental samples.",
+            "They rely only on public safety rules."
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "choose_response": [
@@ -112,6 +520,138 @@
         "The file was updated yesterday.",
         "I don't mind the weather.",
         "It is in a folder."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_101",
+      "prompt": "Are you still planning to attend the review session tonight?",
+      "options": [
+        "Yes, unless the time changes.",
+        "The review was very detailed.",
+        "I attended the plan yesterday.",
+        "Tonight is usually dark."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_102",
+      "prompt": "Could you let me know when the lab report is ready?",
+      "options": [
+        "Sure, I will message you when it is finished.",
+        "The lab is on the second floor.",
+        "Reports are sometimes difficult.",
+        "I know the laboratory schedule."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_103",
+      "prompt": "Why was the guest lecture moved to a larger room?",
+      "options": [
+        "Because more students registered than expected.",
+        "The guest moved here last year.",
+        "Large rooms are often quiet.",
+        "I lecture on Mondays."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_104",
+      "prompt": "Do we need to bring our own laptops to the workshop?",
+      "options": [
+        "No, computers will be provided.",
+        "The workshop was about laptop design.",
+        "I brought it from home.",
+        "Need is a strong word."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_105",
+      "prompt": "Would you prefer to meet before or after class?",
+      "options": [
+        "After class would be better for me.",
+        "The class prefers new books.",
+        "I met the professor already.",
+        "Before is a common preposition."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_106",
+      "prompt": "How did your presentation go this morning?",
+      "options": [
+        "It went well, although I had to speak quickly.",
+        "The presentation is in the morning.",
+        "I will go to the library.",
+        "Speaking quickly can be useful."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_107",
+      "prompt": "Did the professor explain why the deadline changed?",
+      "options": [
+        "Yes, several students had trouble accessing the database.",
+        "The explanation was due yesterday.",
+        "Deadlines are written in the syllabus.",
+        "I changed my professor last term."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_108",
+      "prompt": "Can I borrow your notes from yesterday’s seminar?",
+      "options": [
+        "Of course, I can send you a copy.",
+        "The seminar borrowed a room.",
+        "Yesterday was busy for everyone.",
+        "Notes are useful in class."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_109",
+      "prompt": "What should we do if the online form does not submit?",
+      "options": [
+        "Take a screenshot and contact the office.",
+        "The form is usually online.",
+        "Submission can happen quickly.",
+        "We did the office yesterday."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_110",
+      "prompt": "Is the museum tour still scheduled for Friday?",
+      "options": [
+        "Yes, but the departure time is earlier now.",
+        "The museum has many tours.",
+        "Friday is after Thursday.",
+        "I scheduled the museum guide."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_111",
+      "prompt": "Who is responsible for reserving the equipment?",
+      "options": [
+        "Maya said she would handle it.",
+        "The equipment is responsible.",
+        "Reservations can be expensive.",
+        "It is stored in a cabinet."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_112",
+      "prompt": "Do you think the article is relevant to our topic?",
+      "options": [
+        "Yes, especially the section on community surveys.",
+        "The topic is on the first page.",
+        "Articles are often relevant.",
+        "I think about it tomorrow."
       ],
       "answer": 0
     }
@@ -169,6 +709,298 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "conv_101",
+      "title": "Changing a Lab Section",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Professor Lee, I wanted to ask whether I can switch to the Tuesday lab section."
+        ],
+        [
+          "Professor",
+          "Possibly. Is there a conflict with your current section?"
+        ],
+        [
+          "Student",
+          "Yes. My work schedule changed, and now I cannot attend on Thursday afternoons."
+        ],
+        [
+          "Professor",
+          "The Tuesday section has space, but you will need to complete the safety quiz before the next meeting."
+        ],
+        [
+          "Student",
+          "I already passed it for the Thursday section."
+        ],
+        [
+          "Professor",
+          "Then email the lab coordinator today, and copy me so I can approve the change."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student want to change lab sections?",
+          "options": [
+            "His work schedule changed.",
+            "He failed the safety quiz.",
+            "The Thursday section was canceled.",
+            "He wants a different professor."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the professor say about the Tuesday section?",
+          "options": [
+            "It has space available.",
+            "It meets online only.",
+            "It requires a different textbook.",
+            "It is already full."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What has the student already done?",
+          "options": [
+            "Passed the safety quiz",
+            "Emailed the coordinator",
+            "Attended the Tuesday lab",
+            "Completed the final project"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will the professor do?",
+          "options": [
+            "Approve the change after being copied on the email",
+            "Teach both lab sections personally",
+            "Cancel the student’s work shift",
+            "Give a new safety lecture"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_102",
+      "title": "Library Source Help",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I am having trouble finding sources for my paper on public transportation."
+        ],
+        [
+          "Librarian",
+          "Are you looking for statistics, scholarly articles, or local policy documents?"
+        ],
+        [
+          "Student",
+          "Mostly local policy documents, because my professor wants us to analyze a real proposal."
+        ],
+        [
+          "Librarian",
+          "In that case, start with the city council archive. The search terms are not obvious, though. Try “mobility plan” instead of “bus expansion.”"
+        ],
+        [
+          "Student",
+          "That explains why I was not finding much. Can I access those documents from home?"
+        ],
+        [
+          "Librarian",
+          "Yes, but use the library portal so the database recognizes your student account."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What kind of sources does the student need?",
+          "options": [
+            "Local policy documents",
+            "Popular travel blogs",
+            "Historical novels",
+            "Laboratory reports"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the librarian recommend searching for?",
+          "options": [
+            "Mobility plan",
+            "Bus expansion only",
+            "Student account",
+            "Library schedule"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why was the student having difficulty?",
+          "options": [
+            "The best search terms were not obvious.",
+            "The assignment was canceled.",
+            "The library portal was closed.",
+            "The database contained no documents."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How can the student access the documents from home?",
+          "options": [
+            "Through the library portal",
+            "By visiting city hall in person",
+            "By emailing the professor",
+            "Through a public social media page"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_103",
+      "title": "Art Exhibit Volunteer",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I saw the notice about volunteers for the student art exhibit. Are you still accepting applications?"
+        ],
+        [
+          "Coordinator",
+          "Yes, especially for installation day. Have you handled artwork before?"
+        ],
+        [
+          "Student",
+          "Only in a class project, but I am careful and I can follow instructions."
+        ],
+        [
+          "Coordinator",
+          "That is fine. Volunteers will not make curatorial decisions, but they will help label pieces and guide visitors."
+        ],
+        [
+          "Student",
+          "Would the training conflict with evening classes?"
+        ],
+        [
+          "Coordinator",
+          "No, the training is Saturday morning, and installation is Sunday afternoon."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student speak with the coordinator?",
+          "options": [
+            "To ask about volunteering for an exhibit",
+            "To submit artwork for a competition",
+            "To complain about a label",
+            "To change an evening class"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What experience does the student have?",
+          "options": [
+            "A class project involving artwork",
+            "Professional museum work",
+            "Curating several exhibits",
+            "No experience following instructions"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will volunteers help do?",
+          "options": [
+            "Label pieces and guide visitors",
+            "Choose which art to display",
+            "Teach evening classes",
+            "Sell artwork to visitors"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "When is the training?",
+          "options": [
+            "Saturday morning",
+            "Sunday afternoon",
+            "An evening during the week",
+            "During the exhibit opening"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_104",
+      "title": "Research Participation Credit",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I signed up for a psychology study, but it was canceled after I arrived. Will I still receive participation credit?"
+        ],
+        [
+          "Assistant",
+          "If you arrived on time and the cancellation was on our side, you can receive credit. Did the researcher scan your student card?"
+        ],
+        [
+          "Student",
+          "No, she wrote down my name because the scanner was not working."
+        ],
+        [
+          "Assistant",
+          "That should be fine. I will check the attendance sheet and update the system by tomorrow."
+        ],
+        [
+          "Student",
+          "Great. I was worried because the deadline for credits is Friday."
+        ],
+        [
+          "Assistant",
+          "You should see the credit before then. If not, email this office on Thursday afternoon."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student describe?",
+          "options": [
+            "A study was canceled after he arrived.",
+            "He missed the credit deadline.",
+            "He lost his student card.",
+            "The psychology course was full."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why was the student’s card not scanned?",
+          "options": [
+            "The scanner was not working.",
+            "The student forgot the card.",
+            "The assistant refused to scan it.",
+            "The study did not require attendance."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will the assistant do?",
+          "options": [
+            "Check the attendance sheet and update the system",
+            "Extend the course deadline",
+            "Ask the student to repeat the study",
+            "Cancel all research credits"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "When should the student email the office if credit does not appear?",
+          "options": [
+            "Thursday afternoon",
+            "Tomorrow morning",
+            "Friday night",
+            "Next semester"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "announcements": [
@@ -196,6 +1028,117 @@
             "Installation plans"
           ],
           "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_101",
+      "title": "Dining Hall Renovation",
+      "text": "Attention students. Starting next Monday, the north dining hall will operate with a reduced seating area while new lighting is installed. Breakfast and lunch will still be served at the usual times, but students are encouraged to use the west entrance to avoid construction barriers. The project is expected to last one week.",
+      "questions": [
+        {
+          "q": "What is the announcement mainly about?",
+          "options": [
+            "A temporary change during dining hall renovation",
+            "A new meal plan requirement",
+            "The opening of a new residence hall",
+            "A cancellation of breakfast service"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will remain the same?",
+          "options": [
+            "Breakfast and lunch times",
+            "The amount of seating",
+            "The entrance students should use",
+            "The length of the project"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What are students encouraged to do?",
+          "options": [
+            "Use the west entrance",
+            "Avoid eating lunch",
+            "Bring their own lighting",
+            "Move construction barriers"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_102",
+      "title": "Campus Shuttle Delay",
+      "text": "This is a transportation update. Due to road repairs on College Avenue, the blue campus shuttle may run up to ten minutes late between 2 p.m. and 5 p.m. today. Riders going to the train station should consider taking the green route, which will follow its regular schedule.",
+      "questions": [
+        {
+          "q": "What is causing the shuttle delay?",
+          "options": [
+            "Road repairs on College Avenue",
+            "A train station closure",
+            "A shortage of drivers",
+            "A change in the academic calendar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "When may the blue shuttle be late?",
+          "options": [
+            "Between 2 p.m. and 5 p.m. today",
+            "All morning tomorrow",
+            "Only after midnight",
+            "Throughout the entire week"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the announcement suggest for train station riders?",
+          "options": [
+            "Take the green route",
+            "Wait for a special bus",
+            "Walk to College Avenue",
+            "Cancel their trip"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_103",
+      "title": "Writing Center Workshops",
+      "text": "The Writing Center will offer three short workshops before midterm week. Monday’s session focuses on thesis statements, Wednesday’s on integrating sources, and Friday’s on revising introductions. No registration is required, but students should bring a draft or assignment prompt so tutors can give practical advice.",
+      "questions": [
+        {
+          "q": "What is the purpose of the announcement?",
+          "options": [
+            "To describe upcoming writing workshops",
+            "To introduce a new grading policy",
+            "To cancel tutoring appointments",
+            "To collect midterm exams"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which topic will be covered on Wednesday?",
+          "options": [
+            "Integrating sources",
+            "Thesis statements",
+            "Revising introductions",
+            "Registering for classes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students bring?",
+          "options": [
+            "A draft or assignment prompt",
+            "A completed midterm exam",
+            "A registration receipt",
+            "A laptop borrowed from the center"
+          ],
+          "answer": 0
         }
       ]
     }
@@ -227,6 +1170,120 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "talk_101",
+      "title": "Mangrove Forests",
+      "text": "Today we will look at mangrove forests, which grow along tropical and subtropical coastlines. Mangroves tolerate salty water partly by filtering salt at their roots and partly by storing or excreting excess salt through their leaves. Their tangled root systems slow waves and trap sediment, creating sheltered areas where young fish can develop. For coastal communities, mangroves can reduce storm damage, but they are often removed for construction or aquaculture. Restoration projects are most successful when they consider water flow, soil conditions, and local use of the shoreline rather than simply planting seedlings in any available muddy area.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "The ecological role and protection of mangrove forests",
+            "The history of tropical agriculture",
+            "The design of inland fish farms",
+            "The chemical composition of ocean salt"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How do mangroves deal with salty water?",
+          "options": [
+            "They filter, store, or excrete salt.",
+            "They grow only in freshwater rivers.",
+            "They avoid contact with seawater.",
+            "They turn salt into sediment."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What benefit do tangled roots provide?",
+          "options": [
+            "They slow waves and trap sediment.",
+            "They make coastlines deeper.",
+            "They prevent all construction.",
+            "They remove oxygen from the water."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why are some restoration projects unsuccessful?",
+          "options": [
+            "They ignore local physical conditions and shoreline use.",
+            "They plant seedlings only in forests.",
+            "They use too much freshwater.",
+            "They focus on fish instead of plants."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about mangrove restoration?",
+          "options": [
+            "Planting seedlings alone may not be enough.",
+            "It is impossible near communities.",
+            "It requires removing all young fish.",
+            "It works best when water flow is blocked."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "talk_102",
+      "title": "Working Memory",
+      "text": "In cognitive psychology, working memory refers to the limited system we use to hold and manipulate information for a short time. It is involved when you calculate a tip in your head, follow complex directions, or compare two ideas while reading. Researchers often distinguish working memory from long-term memory because its capacity is much smaller and its contents change quickly. However, the two systems interact. For example, background knowledge can reduce the load on working memory by allowing a person to group separate details into meaningful patterns. This is one reason experts can solve familiar problems more efficiently than beginners.",
+      "questions": [
+        {
+          "q": "What is working memory used for?",
+          "options": [
+            "Holding and manipulating information briefly",
+            "Storing every life experience permanently",
+            "Controlling muscle growth",
+            "Replacing long-term knowledge"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why is working memory distinguished from long-term memory?",
+          "options": [
+            "It has smaller capacity and changes quickly.",
+            "It stores more information for decades.",
+            "It operates only during sleep.",
+            "It is unrelated to reading."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How can background knowledge help working memory?",
+          "options": [
+            "By grouping details into meaningful patterns",
+            "By eliminating the need for attention",
+            "By making all tasks automatic",
+            "By increasing the number of senses"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why are experts mentioned?",
+          "options": [
+            "To illustrate how knowledge can make problem solving more efficient",
+            "To argue that beginners cannot learn",
+            "To show that memory research is complete",
+            "To explain why calculations are unnecessary"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "The function and limits of working memory",
+            "The history of expert education",
+            "The biology of muscle movement",
+            "The development of permanent storage devices"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "build_sentence": [
@@ -247,18 +1304,116 @@
         "to visit the instructor",
         "during office hours"
       ]
+    },
+    {
+      "id": "bs_101",
+      "parts": [
+        "the committee",
+        "postponed",
+        "the final vote",
+        "until more evidence was available"
+      ]
+    },
+    {
+      "id": "bs_102",
+      "parts": [
+        "students in the seminar",
+        "were asked",
+        "to compare two explanations",
+        "for the same historical event"
+      ]
+    },
+    {
+      "id": "bs_103",
+      "parts": [
+        "the new policy",
+        "will affect",
+        "researchers who collect data",
+        "from human participants"
+      ]
+    },
+    {
+      "id": "bs_104",
+      "parts": [
+        "because the samples were contaminated",
+        "the technician",
+        "repeated the analysis",
+        "the following morning"
+      ]
+    },
+    {
+      "id": "bs_105",
+      "parts": [
+        "many small businesses",
+        "depend on",
+        "reliable public transportation",
+        "for employees and customers"
+      ]
+    },
+    {
+      "id": "bs_106",
+      "parts": [
+        "the article",
+        "suggests",
+        "that climate models are most useful",
+        "when their limits are clearly explained"
+      ]
+    },
+    {
+      "id": "bs_107",
+      "parts": [
+        "after reviewing the budget",
+        "the department chair",
+        "approved the purchase",
+        "of additional lab equipment"
+      ]
+    },
+    {
+      "id": "bs_108",
+      "parts": [
+        "online archives",
+        "allow historians",
+        "to examine documents",
+        "that were once difficult to access"
+      ]
+    },
+    {
+      "id": "bs_109",
+      "parts": [
+        "the instructor",
+        "recommended",
+        "revising the introduction",
+        "before adding more examples"
+      ]
+    },
+    {
+      "id": "bs_110",
+      "parts": [
+        "urban planners",
+        "must consider",
+        "how residents actually use parks",
+        "throughout the day"
+      ]
     }
   ],
   "email": [
     {
       "id": "we_001",
       "prompt": "You reserved a university study room for an important group meeting, but another group was using the room. Write an email to library staff explaining what happened, how it affected your group, and asking how to prevent the same problem in the future."
+    },
+    {
+      "id": "we_101",
+      "prompt": "You signed up for a required workshop, but when you arrived, your name was not on the attendance list. Write an email to the workshop coordinator explaining the situation, describing why the workshop is important for you, and asking what you should do next."
     }
   ],
   "discussion": [
     {
       "id": "ad_001",
       "prompt": "Some universities are considering replacing a portion of final exams with project-based assessment. Do you think this would improve how students are evaluated, or would traditional exams still be better for most courses? Explain your view."
+    },
+    {
+      "id": "ad_101",
+      "prompt": "Your professor is asking students whether universities should require all first-year students to take a course on digital research skills. Do you think such a course should be required? Explain your opinion and support it with reasons."
     }
   ],
   "repeat": [
@@ -269,6 +1424,30 @@
     {
       "id": "rep_002",
       "text": "Students can borrow laboratory equipment from the service desk on the first floor."
+    },
+    {
+      "id": "rep_101",
+      "text": "The deadline for submitting the housing form has been extended until Friday afternoon."
+    },
+    {
+      "id": "rep_102",
+      "text": "Several students volunteered to organize the discussion after the guest lecture."
+    },
+    {
+      "id": "rep_103",
+      "text": "The biology department recently purchased new microscopes for the introductory laboratory."
+    },
+    {
+      "id": "rep_104",
+      "text": "Participants should read the consent form carefully before signing their names."
+    },
+    {
+      "id": "rep_105",
+      "text": "The professor emphasized that clear evidence is more important than a long introduction."
+    },
+    {
+      "id": "rep_106",
+      "text": "Campus buses will stop at the temporary shelter while the main station is repaired."
     }
   ],
   "interview": [
@@ -279,6 +1458,26 @@
     {
       "id": "int_002",
       "prompt": "Some people prefer to make detailed plans before starting a project, while others prefer to adjust as they go. Which approach do you prefer, and why?"
+    },
+    {
+      "id": "int_101",
+      "prompt": "Describe a time when you had to solve an unexpected problem. What happened, and what did you do?"
+    },
+    {
+      "id": "int_102",
+      "prompt": "Some students prefer courses with many short assignments, while others prefer one or two large projects. Which do you prefer and why?"
+    },
+    {
+      "id": "int_103",
+      "prompt": "Talk about a place on campus or in your community where you can study effectively. Why does that place work well for you?"
+    },
+    {
+      "id": "int_104",
+      "prompt": "Do you think students learn more from working alone or from working with classmates? Give reasons and examples."
+    },
+    {
+      "id": "int_105",
+      "prompt": "Describe a book, article, or video that changed the way you thought about a subject. Why was it important to you?"
     }
   ]
 }

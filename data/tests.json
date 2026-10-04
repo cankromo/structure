@@ -14,20 +14,24 @@
           {
             "type": "complete_words",
             "ids": [
-              "cw_001",
-              "cw_002"
+              "cw_101",
+              "cw_102"
             ]
           },
           {
             "type": "daily_life",
             "ids": [
-              "rdl_001"
+              "rdl_101",
+              "rdl_102",
+              "rdl_103"
             ]
           },
           {
             "type": "academic_passage",
             "ids": [
-              "rap_001"
+              "rap_101",
+              "rap_102",
+              "rap_103"
             ]
           }
         ],
@@ -35,26 +39,42 @@
           {
             "type": "choose_response",
             "ids": [
-              "lcr_001",
-              "lcr_002"
+              "lcr_101",
+              "lcr_102",
+              "lcr_103",
+              "lcr_104",
+              "lcr_105",
+              "lcr_106",
+              "lcr_107",
+              "lcr_108",
+              "lcr_109",
+              "lcr_110",
+              "lcr_111",
+              "lcr_112"
             ]
           },
           {
             "type": "conversations",
             "ids": [
-              "conv_001"
+              "conv_101",
+              "conv_102",
+              "conv_103",
+              "conv_104"
             ]
           },
           {
             "type": "announcements",
             "ids": [
-              "ann_001"
+              "ann_101",
+              "ann_102",
+              "ann_103"
             ]
           },
           {
             "type": "academic_talks",
             "ids": [
-              "talk_001"
+              "talk_101",
+              "talk_102"
             ]
           }
         ],
@@ -62,20 +82,28 @@
           {
             "type": "build_sentence",
             "ids": [
-              "bs_001",
-              "bs_002"
+              "bs_101",
+              "bs_102",
+              "bs_103",
+              "bs_104",
+              "bs_105",
+              "bs_106",
+              "bs_107",
+              "bs_108",
+              "bs_109",
+              "bs_110"
             ]
           },
           {
             "type": "email",
             "ids": [
-              "we_001"
+              "we_101"
             ]
           },
           {
             "type": "discussion",
             "ids": [
-              "ad_001"
+              "ad_101"
             ]
           }
         ],
@@ -83,15 +111,22 @@
           {
             "type": "repeat",
             "ids": [
-              "rep_001",
-              "rep_002"
+              "rep_101",
+              "rep_102",
+              "rep_103",
+              "rep_104",
+              "rep_105",
+              "rep_106"
             ]
           },
           {
             "type": "interview",
             "ids": [
-              "int_001",
-              "int_002"
+              "int_101",
+              "int_102",
+              "int_103",
+              "int_104",
+              "int_105"
             ]
           }
         ]
