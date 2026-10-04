@@ -131,6 +131,138 @@
           }
         ]
       }
+    },
+    {
+      "id": "mock_002",
+      "name": "Mock 002",
+      "durations": {
+        "reading": 30,
+        "listening": 29,
+        "writing": 23,
+        "speaking": 8
+      },
+      "sections": {
+        "reading": [
+          {
+            "type": "complete_words",
+            "ids": [
+              "cw_201",
+              "cw_202"
+            ]
+          },
+          {
+            "type": "daily_life",
+            "ids": [
+              "rdl_201",
+              "rdl_202",
+              "rdl_203"
+            ]
+          },
+          {
+            "type": "academic_passage",
+            "ids": [
+              "rap_201",
+              "rap_202",
+              "rap_203"
+            ]
+          }
+        ],
+        "listening": [
+          {
+            "type": "choose_response",
+            "ids": [
+              "lcr_201",
+              "lcr_202",
+              "lcr_203",
+              "lcr_204",
+              "lcr_205",
+              "lcr_206",
+              "lcr_207",
+              "lcr_208",
+              "lcr_209",
+              "lcr_210",
+              "lcr_211",
+              "lcr_212"
+            ]
+          },
+          {
+            "type": "conversations",
+            "ids": [
+              "conv_201",
+              "conv_202",
+              "conv_203",
+              "conv_204"
+            ]
+          },
+          {
+            "type": "announcements",
+            "ids": [
+              "ann_201",
+              "ann_202",
+              "ann_203"
+            ]
+          },
+          {
+            "type": "academic_talks",
+            "ids": [
+              "talk_201",
+              "talk_202"
+            ]
+          }
+        ],
+        "writing": [
+          {
+            "type": "build_sentence",
+            "ids": [
+              "bs_201",
+              "bs_202",
+              "bs_203",
+              "bs_204",
+              "bs_205",
+              "bs_206",
+              "bs_207",
+              "bs_208",
+              "bs_209",
+              "bs_210"
+            ]
+          },
+          {
+            "type": "email",
+            "ids": [
+              "we_201"
+            ]
+          },
+          {
+            "type": "discussion",
+            "ids": [
+              "ad_201"
+            ]
+          }
+        ],
+        "speaking": [
+          {
+            "type": "repeat",
+            "ids": [
+              "rep_201",
+              "rep_202",
+              "rep_203",
+              "rep_204",
+              "rep_205",
+              "rep_206"
+            ]
+          },
+          {
+            "type": "interview",
+            "ids": [
+              "int_201",
+              "int_202",
+              "int_203",
+              "int_204",
+              "int_205"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

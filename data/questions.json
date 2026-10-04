@@ -82,6 +82,44 @@
         "air",
         "icult"
       ]
+    },
+    {
+      "id": "cw_201",
+      "title": "River Restoration",
+      "topic": "environment",
+      "difficulty": "B2-C1",
+      "text": "River restoration projects aim to recover ecological functions without pretending that rivers can simply return to the past. Engineers first ass___ current flow patterns, ident___ sources of sediment, and cons____ how nearby communities use the channel. Removing obsolete barriers may imp____ fish movement, but sudden changes can dis____ wetlands or bridges. Successful plans therefore comb___ scientific models with local knowledge, cont______ monitoring, flex____ management, reg____ public communication, and care___ maintenance after construction.",
+      "answers": [
+        "ess",
+        "ify",
+        "ider",
+        "rove",
+        "turb",
+        "ine",
+        "inuous",
+        "ible",
+        "ular",
+        "ful"
+      ]
+    },
+    {
+      "id": "cw_202",
+      "title": "Peer Review",
+      "topic": "academic skills",
+      "difficulty": "B2-C1",
+      "text": "Peer review helps students revise by giving them an audience before the instructor evaluates the final draft. Effective reviewers do more than corr___ grammar; they exam___ whether claims are supported, whe____ examples are relevant, and how para______ are organized. Writers should expl___ their goals before receiving comments, dec___ which suggestions fit their purpose, rew____ unclear sections, and str_______ transitions. This process enc_______ reflection and produces more coh_____ essays.",
+      "answers": [
+        "ect",
+        "ine",
+        "ther",
+        "graphs",
+        "ain",
+        "ide",
+        "rite",
+        "engthen",
+        "ourages",
+        "erent"
+      ]
     }
   ],
   "daily_life": [
@@ -258,6 +296,153 @@
             "The project receives extra time."
           ],
           "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_201",
+      "title": "Residence Hall Quiet Hours",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "RESIDENCE HALL NOTICE\nDuring final exam week, quiet hours will begin at 8 p.m. instead of 10 p.m. in all residence halls. Group study is still allowed in the first-floor lounge, but music and video calls must be kept at a low volume. Students who need a completely silent space may reserve rooms in the library until midnight.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the notice?",
+          "options": [
+            "To announce a change to quiet hours",
+            "To close all residence halls",
+            "To cancel final exams",
+            "To introduce a new meal plan"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "When will quiet hours begin during exam week?",
+          "options": [
+            "8 p.m.",
+            "10 p.m.",
+            "Midnight",
+            "First thing in the morning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where is group study still allowed?",
+          "options": [
+            "In the first-floor lounge",
+            "In every bedroom",
+            "Only outside the building",
+            "In the dining hall kitchen"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What option is available for students who need silence?",
+          "options": [
+            "Reserve a library room",
+            "Call residence staff",
+            "Use video calls",
+            "Play music at low volume"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_202",
+      "title": "Campus Print Credit Email",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "Subject: Print Credit Reminder\nAll students receive a limited amount of free printing each semester. Unused credit does not transfer to the next semester. If you are preparing a poster for a class presentation, check the print center website before uploading your file because large-format printing requires a separate request form.",
+      "questions": [
+        {
+          "q": "What happens to unused print credit?",
+          "options": [
+            "It does not transfer to the next semester.",
+            "It becomes cash at the bookstore.",
+            "It is doubled automatically.",
+            "It can only be used for posters."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students do before uploading a poster file?",
+          "options": [
+            "Check the print center website",
+            "Ask for a new student ID",
+            "Print several small copies",
+            "Wait until the next semester"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why might a student need a separate form?",
+          "options": [
+            "For large-format printing",
+            "For regular black-and-white pages",
+            "For transferring unused credit",
+            "For using the library computers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the email mainly reminding students about?",
+          "options": [
+            "Printing rules and limits",
+            "A change in presentation topics",
+            "A new library reservation system",
+            "The cost of textbooks"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_203",
+      "title": "Internship Workshop Message",
+      "topic": "career",
+      "difficulty": "B2-C1",
+      "text": "CAREER CENTER MESSAGE\nThe internship workshop scheduled for Tuesday has moved from Room 204 to the auditorium because registration exceeded expectations. Students do not need to register again. Please bring a draft résumé if you want individual feedback after the presentation. The first thirty students to arrive will receive feedback slips.",
+      "questions": [
+        {
+          "q": "Why was the workshop moved?",
+          "options": [
+            "More students registered than expected.",
+            "The auditorium was too small.",
+            "The career center closed.",
+            "The presenter changed the topic."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Do students need to register again?",
+          "options": [
+            "No, they do not.",
+            "Yes, everyone must register again.",
+            "Only first-year students must register.",
+            "Only students with résumés must register."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students bring for individual feedback?",
+          "options": [
+            "A draft résumé",
+            "A course textbook",
+            "A printed map",
+            "A registration fee"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is implied about feedback slips?",
+          "options": [
+            "They may run out if students arrive late.",
+            "They are required for admission.",
+            "They replace the presentation.",
+            "They are mailed after the workshop."
+          ],
+          "answer": 0
         }
       ]
     }
@@ -498,6 +683,213 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "rap_201",
+      "title": "The Development of Maps",
+      "topic": "geography",
+      "difficulty": "C1",
+      "text": "Maps are often treated as neutral representations of space, but every map reflects choices about purpose and audience. A navigation map may emphasize roads and landmarks while ignoring soil type or property ownership. A geological map, by contrast, may show rock formations in great detail while simplifying streets. Because maps select and organize information, historians use them not only to locate places but also to understand how societies valued territory, resources, and movement at particular moments in time.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "How maps reflect choices and social priorities",
+            "Why maps are always inaccurate",
+            "How roads replaced geological features",
+            "Why historians avoid using maps"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "According to the passage, what might a navigation map emphasize?",
+          "options": [
+            "Roads and landmarks",
+            "Rock formations only",
+            "Soil chemistry",
+            "Property taxes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the author imply about maps?",
+          "options": [
+            "They are shaped by their intended use.",
+            "They contain every possible detail.",
+            "They are useful only for drivers.",
+            "They cannot show movement."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “neutral” is closest in meaning to",
+          "options": [
+            "unbiased",
+            "ancient",
+            "decorative",
+            "portable"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why are geological maps mentioned?",
+          "options": [
+            "To contrast different mapping purposes",
+            "To prove streets are unimportant",
+            "To explain how paper is made",
+            "To describe a navigation problem"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How do historians use maps according to the passage?",
+          "options": [
+            "To study values and priorities of societies",
+            "To replace all written documents",
+            "To predict future weather",
+            "To measure classroom attendance"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_202",
+      "title": "Insect Pollination Networks",
+      "topic": "biology",
+      "difficulty": "C1",
+      "text": "Pollination is often described as a simple exchange between one plant and one insect, yet most ecosystems contain complex networks of interactions. A single bee species may visit many kinds of flowers, and a single plant species may depend on several pollinators. This overlap can make communities more resilient when one species declines, but it can also allow disturbances to spread through the network. Researchers study these patterns to predict which plants may be most vulnerable to changes in land use, climate, or pesticide exposure.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "The complexity of pollination networks",
+            "The anatomy of a single bee species",
+            "The process of making pesticides",
+            "The history of flower classification"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can make pollination communities resilient?",
+          "options": [
+            "Overlap among plants and pollinators",
+            "The absence of insects",
+            "A single flower species",
+            "Complete isolation from land use"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What risk can overlap create?",
+          "options": [
+            "Disturbances may spread through the network.",
+            "Plants may stop producing flowers immediately.",
+            "All pollinators become identical.",
+            "Climate becomes easier to predict."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “vulnerable” is closest in meaning to",
+          "options": [
+            "likely to be harmed",
+            "easy to count",
+            "highly colorful",
+            "recently discovered"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why do researchers study interaction patterns?",
+          "options": [
+            "To predict which plants face risks",
+            "To remove every bee species",
+            "To design larger flowers",
+            "To prevent all climate variation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the passage imply about pollination?",
+          "options": [
+            "It usually involves multiple relationships.",
+            "It never changes over time.",
+            "It occurs only in farms.",
+            "It is unrelated to land use."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_203",
+      "title": "Apprenticeship in Medieval Cities",
+      "topic": "history",
+      "difficulty": "C1",
+      "text": "In many medieval European cities, apprenticeship was both an educational arrangement and a social contract. Young people lived with master craftspeople, learned technical skills, and gradually absorbed the customs of a trade. Contracts often specified food, lodging, years of service, and limits on wages. Although apprenticeships could provide opportunities for advancement, they also reinforced hierarchy because masters controlled access to tools, clients, and professional recognition. Surviving contracts therefore reveal not only how skills were taught but also how urban economies organized labor.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "The educational and social role of apprenticeship",
+            "The decline of all medieval cities",
+            "The invention of modern universities",
+            "The design of craft tools"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did apprentices receive according to the passage?",
+          "options": [
+            "Training and often food and lodging",
+            "Immediate professional recognition",
+            "Control over clients",
+            "Guaranteed high wages"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did apprenticeships reinforce hierarchy?",
+          "options": [
+            "Masters controlled access to important resources.",
+            "Apprentices owned all workshops.",
+            "Cities banned trade customs.",
+            "Contracts ignored years of service."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “specified” is closest in meaning to",
+          "options": [
+            "stated clearly",
+            "hid deliberately",
+            "replaced gradually",
+            "criticized publicly"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can surviving contracts reveal?",
+          "options": [
+            "How labor and training were organized",
+            "Why all apprentices became masters",
+            "How cities selected kings",
+            "Why tools were unnecessary"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about master craftspeople?",
+          "options": [
+            "They had significant authority over apprentices.",
+            "They were not involved in training.",
+            "They worked only outside cities.",
+            "They avoided written agreements."
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "choose_response": [
@@ -652,6 +1044,138 @@
         "The topic is on the first page.",
         "Articles are often relevant.",
         "I think about it tomorrow."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_201",
+      "prompt": "Do you know whether the study group is meeting in person today?",
+      "options": [
+        "Yes, they reserved a table in the library.",
+        "The group studied yesterday.",
+        "In person can be difficult.",
+        "The library has many tables."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_202",
+      "prompt": "Why did the professor add another office hour this week?",
+      "options": [
+        "Because many students had questions about the project.",
+        "The office was added last semester.",
+        "This week is on the calendar.",
+        "Professors often have offices."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_203",
+      "prompt": "Could you remind me where the volunteer orientation is?",
+      "options": [
+        "It is in the student center auditorium.",
+        "Orientation reminds everyone.",
+        "I volunteer twice a month.",
+        "The student center opens early."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_204",
+      "prompt": "Did you manage to upload the video before the deadline?",
+      "options": [
+        "Yes, but it took longer than I expected.",
+        "The deadline uploaded the video.",
+        "Videos are due online.",
+        "I managed the camera yesterday."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_205",
+      "prompt": "What did the advisor suggest about your schedule?",
+      "options": [
+        "She suggested taking one fewer course.",
+        "The schedule suggests advising.",
+        "My advisor is in another building.",
+        "Courses are listed online."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_206",
+      "prompt": "Are visitors allowed to attend the student film festival?",
+      "options": [
+        "Yes, but they need free tickets.",
+        "Visitors attended yesterday.",
+        "Films can be very long.",
+        "The festival allows students."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_207",
+      "prompt": "Would it be possible to borrow the camera this weekend?",
+      "options": [
+        "Possibly, if you reserve it by Thursday.",
+        "The weekend borrowed a camera.",
+        "Cameras are possible equipment.",
+        "Thursday is before Friday."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_208",
+      "prompt": "Why is the chemistry lab closing early today?",
+      "options": [
+        "The ventilation system is being inspected.",
+        "Chemistry closes many doors.",
+        "The lab is early today.",
+        "Inspection is a common requirement."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_209",
+      "prompt": "Do you want me to save you a seat at the lecture?",
+      "options": [
+        "Yes, that would be really helpful.",
+        "The lecture saved a seat.",
+        "Seats are usually arranged in rows.",
+        "I want the lecture to start."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_210",
+      "prompt": "How should we divide the work for the report?",
+      "options": [
+        "I can analyze the survey results, and you can write the introduction.",
+        "The report is divided into pages.",
+        "Work should be reported soon.",
+        "Survey results are sometimes useful."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_211",
+      "prompt": "Did the tutor explain how to revise the conclusion?",
+      "options": [
+        "Yes, she said it should connect back to the main claim.",
+        "The conclusion revised the tutor.",
+        "Tutors explain in the writing center.",
+        "Claims can be difficult to prove."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_212",
+      "prompt": "When will the new campus map be available?",
+      "options": [
+        "The office expects to post it next week.",
+        "The map is available on campus.",
+        "New campuses need maps.",
+        "The office is near the entrance."
       ],
       "answer": 0
     }
@@ -1001,6 +1525,298 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "conv_201",
+      "title": "Poster Session Preparation",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I am presenting at the poster session next week, but I am worried my poster has too much text."
+        ],
+        [
+          "Mentor",
+          "That is a common issue. What is the main result you want people to remember?"
+        ],
+        [
+          "Student",
+          "That local wetlands reduced flooding more than the computer model predicted."
+        ],
+        [
+          "Mentor",
+          "Then make that result visually central. Use the methods section only to explain how you measured flooding."
+        ],
+        [
+          "Student",
+          "Should I remove the table with all the rainfall data?"
+        ],
+        [
+          "Mentor",
+          "Keep a simplified graph on the poster and bring the full table as a handout."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the student concerned about?",
+          "options": [
+            "The poster contains too much text.",
+            "The session was canceled.",
+            "The model file was lost.",
+            "The mentor changed the topic."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What main result does the student want to show?",
+          "options": [
+            "Wetlands reduced flooding more than predicted.",
+            "Rainfall data were unavailable.",
+            "The poster session moved online.",
+            "The methods section was unnecessary."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the mentor suggest about the rainfall data?",
+          "options": [
+            "Use a simplified graph and bring the full table separately.",
+            "Remove all data from the project.",
+            "Put every number in the title.",
+            "Replace the graph with a photograph only."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the likely purpose of the conversation?",
+          "options": [
+            "To improve the poster before a presentation",
+            "To register for a new course",
+            "To request a grade change",
+            "To schedule fieldwork equipment"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_202",
+      "title": "Missing Field Trip",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I missed the geology field trip because my train was canceled. Is there any way to make up the assignment?"
+        ],
+        [
+          "Professor",
+          "The trip itself cannot be repeated, but you can complete an alternative observation task."
+        ],
+        [
+          "Student",
+          "Would that involve visiting the same site on my own?"
+        ],
+        [
+          "Professor",
+          "No. For safety reasons, choose one of the approved sites listed on the course page. Take notes on rock layers and upload photographs with your report."
+        ],
+        [
+          "Student",
+          "When is it due?"
+        ],
+        [
+          "Professor",
+          "By next Wednesday, so I have time to grade it with the other field notebooks."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why did the student miss the field trip?",
+          "options": [
+            "His train was canceled.",
+            "He forgot the due date.",
+            "The site was unsafe.",
+            "He changed courses."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the professor offer?",
+          "options": [
+            "An alternative observation task",
+            "A repeated class field trip",
+            "Automatic full credit",
+            "A different textbook assignment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why should the student use an approved site?",
+          "options": [
+            "For safety reasons",
+            "Because photos are not allowed",
+            "Because the same site is closed forever",
+            "To avoid taking notes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What must the student upload?",
+          "options": [
+            "Photographs with the report",
+            "A train ticket only",
+            "A recording of the lecture",
+            "The other students’ notebooks"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_203",
+      "title": "Campus Radio Interview",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I heard the campus radio station interviews students about research projects. How can I apply?"
+        ],
+        [
+          "Producer",
+          "Send us a short summary of your project and explain why listeners would find it interesting."
+        ],
+        [
+          "Student",
+          "My project is about food waste in dining halls. I collected data for three weeks."
+        ],
+        [
+          "Producer",
+          "That could work well. We prefer topics with local impact and clear examples."
+        ],
+        [
+          "Student",
+          "Would I need to speak live?"
+        ],
+        [
+          "Producer",
+          "No, we record interviews in advance and edit them for length."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What does the student want to do?",
+          "options": [
+            "Apply for a radio interview",
+            "Work as a dining hall manager",
+            "Edit live news broadcasts",
+            "Cancel a research project"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should the student send?",
+          "options": [
+            "A short project summary and reason listeners would care",
+            "A complete transcript of every interview",
+            "A list of radio equipment",
+            "A dining hall menu"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why might the student’s topic be suitable?",
+          "options": [
+            "It has local impact and clear examples.",
+            "It requires no data.",
+            "It is unrelated to campus life.",
+            "It must be broadcast live."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the producer say about speaking live?",
+          "options": [
+            "The interview will be recorded in advance.",
+            "The student must speak live tomorrow.",
+            "Live interviews are required for research topics.",
+            "The station never edits interviews."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_204",
+      "title": "Changing a Music Practice Room",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I reserved a practice room with a piano, but the piano in that room is out of tune."
+        ],
+        [
+          "Staff Member",
+          "I am sorry about that. Which room number did you reserve?"
+        ],
+        [
+          "Student",
+          "Room 312. I have a performance exam tomorrow, so I really need a working instrument."
+        ],
+        [
+          "Staff Member",
+          "Room 318 is free for the next hour and has just been tuned. I can move your reservation there."
+        ],
+        [
+          "Student",
+          "That would be great. Should I report the problem with Room 312 separately?"
+        ],
+        [
+          "Staff Member",
+          "No, I will create a maintenance request now."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student report?",
+          "options": [
+            "The piano in the reserved room is out of tune.",
+            "The performance exam was canceled.",
+            "The reservation system is closed.",
+            "Room 318 has no instrument."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why is the problem urgent for the student?",
+          "options": [
+            "She has a performance exam tomorrow.",
+            "She is repairing the piano herself.",
+            "She forgot to reserve a room.",
+            "She works at the music office."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the staff member offer to do?",
+          "options": [
+            "Move the reservation to Room 318",
+            "Cancel the student’s exam",
+            "Tune the piano immediately while she waits",
+            "Ask the student to leave"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who will create the maintenance request?",
+          "options": [
+            "The staff member",
+            "The student",
+            "The examiner",
+            "The piano tuner only"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "announcements": [
@@ -1137,6 +1953,117 @@
             "A completed midterm exam",
             "A registration receipt",
             "A laptop borrowed from the center"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_201",
+      "title": "Bookstore Pickup",
+      "text": "This is a bookstore announcement. Students who ordered custom course packets may pick them up at the service counter beginning tomorrow afternoon. Please bring your student ID and order confirmation. Because the counter is expected to be busy, students are encouraged to come after 3 p.m. if they do not need the packet for a morning class.",
+      "questions": [
+        {
+          "q": "What is the announcement about?",
+          "options": [
+            "Picking up custom course packets",
+            "Returning rented textbooks",
+            "Changing bookstore hours",
+            "Ordering student IDs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students bring?",
+          "options": [
+            "Student ID and order confirmation",
+            "A morning class schedule only",
+            "A printed syllabus and cash",
+            "A library card"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why are some students encouraged to come after 3 p.m.?",
+          "options": [
+            "The counter is expected to be busy.",
+            "Packets are not available before then.",
+            "Morning classes are canceled.",
+            "The bookstore opens at 3 p.m."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_202",
+      "title": "Health Center Vaccination Clinic",
+      "text": "The campus health center will hold a vaccination clinic in the recreation gym on Wednesday from 11 a.m. to 4 p.m. Appointments are recommended but not required. Students who made appointments should arrive no more than ten minutes early because waiting space is limited.",
+      "questions": [
+        {
+          "q": "Where will the clinic be held?",
+          "options": [
+            "In the recreation gym",
+            "At the bookstore",
+            "In the library lobby",
+            "At the train station"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Are appointments required?",
+          "options": [
+            "No, but they are recommended.",
+            "Yes, no walk-ins are allowed.",
+            "Only for faculty members",
+            "Only after 4 p.m."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why should students not arrive too early?",
+          "options": [
+            "Waiting space is limited.",
+            "The gym is closed all day.",
+            "Appointments will be canceled.",
+            "The clinic starts at night."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_203",
+      "title": "Theater Rehearsal Space",
+      "text": "Attention theater students. Rehearsal Room B will be unavailable this weekend while the lighting board is replaced. Groups that reserved Room B have been moved to Studio 4 at the same times. Please check your email for updated access instructions before arriving.",
+      "questions": [
+        {
+          "q": "Why is Rehearsal Room B unavailable?",
+          "options": [
+            "The lighting board is being replaced.",
+            "The theater program ended.",
+            "Studio 4 is closed.",
+            "All rehearsals were canceled."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where have groups been moved?",
+          "options": [
+            "Studio 4",
+            "Room B at a later time",
+            "The auditorium lobby",
+            "The music library"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students check before arriving?",
+          "options": [
+            "Their email for access instructions",
+            "The ticket sales report",
+            "A new audition schedule",
+            "The weather forecast"
           ],
           "answer": 0
         }
@@ -1284,6 +2211,120 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "talk_201",
+      "title": "Glacial Landscapes",
+      "text": "In today’s lecture, we are considering how glaciers shape landscapes. As a glacier moves, it can scrape rock from the valley floor and carry loose material within the ice. This process often leaves valleys with steep sides and broad, flat bottoms. When a glacier melts, it may deposit a mixture of clay, sand, gravel, and boulders known as till. Streams from melting ice can also sort sediment by size, creating layered deposits some distance from the glacier. By examining these features, geologists can reconstruct the direction of ice movement and estimate how far glaciers once extended.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "How glaciers shape and leave evidence in landscapes",
+            "Why all valleys are formed by rivers",
+            "How clay is used in construction",
+            "Why modern glaciers no longer move"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can a moving glacier do?",
+          "options": [
+            "Scrape rock and carry loose material",
+            "Produce volcanic ash",
+            "Prevent all erosion",
+            "Sort every sediment inside the ice"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is till?",
+          "options": [
+            "A mixed deposit left by melting ice",
+            "A type of valley stream",
+            "A tool used by geologists",
+            "A layer of volcanic glass"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How can meltwater streams affect sediment?",
+          "options": [
+            "They can sort it by size.",
+            "They turn it into solid ice.",
+            "They remove all boulders from valleys.",
+            "They make glaciers move uphill."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can geologists infer from glacial features?",
+          "options": [
+            "The direction and extent of past ice movement",
+            "The exact temperature of every winter",
+            "The age of all nearby trees",
+            "The chemical formula of every rock"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "talk_202",
+      "title": "Language Borrowing",
+      "text": "Languages frequently borrow words when speakers come into contact through trade, migration, conquest, or popular culture. Borrowed words often enter a language along with new objects or ideas, but they may change in pronunciation or meaning after adoption. For example, a word associated with a specific food in one language may become a general restaurant term in another. Linguists study borrowing because it reveals historical contact between communities and shows that languages are not closed systems. Even languages with strong literary traditions continue to adapt when speakers need new ways to describe experience.",
+      "questions": [
+        {
+          "q": "What is the main topic of the talk?",
+          "options": [
+            "Why and how languages borrow words",
+            "How restaurants choose menus",
+            "Why literary traditions disappear",
+            "How pronunciation never changes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can cause borrowing?",
+          "options": [
+            "Contact through trade, migration, conquest, or culture",
+            "The complete isolation of speakers",
+            "The end of popular culture",
+            "A refusal to name new objects"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What may happen to borrowed words?",
+          "options": [
+            "Their pronunciation or meaning may change.",
+            "They always keep exactly the same meaning.",
+            "They disappear immediately.",
+            "They become impossible to pronounce."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why do linguists study borrowing?",
+          "options": [
+            "It reveals historical contact between communities.",
+            "It proves languages are closed systems.",
+            "It prevents speakers from adapting.",
+            "It identifies the best restaurants."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the talk imply about languages with literary traditions?",
+          "options": [
+            "They can still change over time.",
+            "They never borrow words.",
+            "They lack everyday speakers.",
+            "They cannot describe new experiences."
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "build_sentence": [
@@ -1394,6 +2435,96 @@
         "how residents actually use parks",
         "throughout the day"
       ]
+    },
+    {
+      "id": "bs_201",
+      "parts": [
+        "the survey results",
+        "indicate",
+        "that many commuters prefer trains",
+        "when service is reliable"
+      ]
+    },
+    {
+      "id": "bs_202",
+      "parts": [
+        "although the theory is widely accepted",
+        "researchers",
+        "continue to test it",
+        "in different contexts"
+      ]
+    },
+    {
+      "id": "bs_203",
+      "parts": [
+        "the museum",
+        "plans to digitize",
+        "rare photographs",
+        "from the early twentieth century"
+      ]
+    },
+    {
+      "id": "bs_204",
+      "parts": [
+        "students who miss the workshop",
+        "must complete",
+        "an online module",
+        "before submitting the form"
+      ]
+    },
+    {
+      "id": "bs_205",
+      "parts": [
+        "the experiment",
+        "was redesigned",
+        "after the first trial",
+        "produced inconsistent results"
+      ]
+    },
+    {
+      "id": "bs_206",
+      "parts": [
+        "community gardens",
+        "can provide",
+        "fresh food and social connections",
+        "in densely populated neighborhoods"
+      ]
+    },
+    {
+      "id": "bs_207",
+      "parts": [
+        "the professor",
+        "asked the class",
+        "to evaluate the evidence",
+        "before choosing a position"
+      ]
+    },
+    {
+      "id": "bs_208",
+      "parts": [
+        "because the archive is fragile",
+        "visitors",
+        "must request permission",
+        "before handling original documents"
+      ]
+    },
+    {
+      "id": "bs_209",
+      "parts": [
+        "the new software",
+        "allows users",
+        "to organize references",
+        "by topic and publication date"
+      ]
+    },
+    {
+      "id": "bs_210",
+      "parts": [
+        "public health campaigns",
+        "are more effective",
+        "when messages are adapted",
+        "to local communities"
+      ]
     }
   ],
   "email": [
@@ -1404,6 +2535,10 @@
     {
       "id": "we_101",
       "prompt": "You signed up for a required workshop, but when you arrived, your name was not on the attendance list. Write an email to the workshop coordinator explaining the situation, describing why the workshop is important for you, and asking what you should do next."
+    },
+    {
+      "id": "we_201",
+      "prompt": "You borrowed a piece of equipment from a campus media center, but it stopped working during an important class project. Write an email to the media center explaining what happened, how it affected your project, and asking what you should do next."
     }
   ],
   "discussion": [
@@ -1414,6 +2549,10 @@
     {
       "id": "ad_101",
       "prompt": "Your professor is asking students whether universities should require all first-year students to take a course on digital research skills. Do you think such a course should be required? Explain your opinion and support it with reasons."
+    },
+    {
+      "id": "ad_201",
+      "prompt": "Your professor is discussing whether university courses should include more assignments completed with artificial intelligence tools. Do you think this would help students learn, or should such tools be limited in most classes? Explain your view with reasons."
     }
   ],
   "repeat": [
@@ -1448,6 +2587,30 @@
     {
       "id": "rep_106",
       "text": "Campus buses will stop at the temporary shelter while the main station is repaired."
+    },
+    {
+      "id": "rep_201",
+      "text": "The research methods workshop will begin fifteen minutes later than originally scheduled."
+    },
+    {
+      "id": "rep_202",
+      "text": "Students should submit their laboratory notebooks before leaving the classroom today."
+    },
+    {
+      "id": "rep_203",
+      "text": "The university museum is displaying photographs from several community history projects."
+    },
+    {
+      "id": "rep_204",
+      "text": "Clear organization can make a complex argument much easier for readers to follow."
+    },
+    {
+      "id": "rep_205",
+      "text": "The environmental club plans to plant trees near the river trail this weekend."
+    },
+    {
+      "id": "rep_206",
+      "text": "Participants may withdraw from the study at any time without losing course credit."
     }
   ],
   "interview": [
@@ -1478,6 +2641,26 @@
     {
       "id": "int_105",
       "prompt": "Describe a book, article, or video that changed the way you thought about a subject. Why was it important to you?"
+    },
+    {
+      "id": "int_201",
+      "prompt": "Describe an academic subject that became more interesting to you after you learned more about it. What changed your opinion?"
+    },
+    {
+      "id": "int_202",
+      "prompt": "Some people prefer to study in quiet places, while others prefer places with background activity. Which environment helps you focus and why?"
+    },
+    {
+      "id": "int_203",
+      "prompt": "Talk about a time when feedback from another person helped you improve your work. What did you learn?"
+    },
+    {
+      "id": "int_204",
+      "prompt": "Do you think universities should encourage students to volunteer in the local community? Give reasons for your answer."
+    },
+    {
+      "id": "int_205",
+      "prompt": "Describe a technology that has made your daily life or studies easier. How do you use it?"
     }
   ]
 }
