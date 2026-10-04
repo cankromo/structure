@@ -23,6 +23,14 @@ Then:
 4. Replace `/data/questions.json` and/or `/data/tests.json` in GitHub
 5. Commit changes
 
+## Agent-maintained data
+Agents should follow `/AGENT_DATA_CONTRACT.md` when adding practice questions or full mock tests.
+Before handing work back, run:
+
+```sh
+python3 tools/validate_data.py
+```
+
 The published sites will use the new data automatically.
 
 ## Full mock results
