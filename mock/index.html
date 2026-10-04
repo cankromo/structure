@@ -16,7 +16,8 @@ textarea{width:100%;min-height:160px;padding:12px;font:inherit;border:1px solid 
 <script>
 let Q,T,test,answers={objective:{},writing:{},speaking:{}},recordings={},stream=null,timer=null,deadline=0,activeSection='',completed={},seq=[],idx=0,secName='',currentItem=null,writingStep='build',voices=[],selectedVoices={},audioPlaying=false;
 const sectionOrder=['reading','listening','writing','speaking'];
-Promise.all([fetch('../data/questions.json').then(r=>r.json()),fetch('../data/tests.json').then(r=>r.json())]).then(([q,t])=>{Q=q;T=t;home()})
+function getJSON(path){return fetch(`${path}?v=${Date.now()}`,{cache:'no-store'}).then(r=>r.json())}
+Promise.all([getJSON('../data/questions.json'),getJSON('../data/tests.json')]).then(([q,t])=>{Q=q;T=t;home()})
 function root(h){document.getElementById('root').innerHTML=(deadline?`<div class="timer"><b>${label(activeSection)}</b><span id="clock">--:--</span></div>`:'')+h;tick();scrollTo(0,0)}function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 function label(s){return ({reading:'Reading',listening:'Listening',writing:'Writing',speaking:'Speaking'}[s]||s)}
 function minutes(s){return test&&test.durations?test.durations[s]:0}
@@ -24,7 +25,8 @@ function timeText(m){return m?`${m} min`:'No time limit'}
 function totalTime(t){return Object.values(t.durations||{}).reduce((a,b)=>a+b,0)}
 function home(){clearSectionTimer();root(`<div class="card"><button class="secondary" onclick="testVoice(this)">Test Voice</button></div><div class="grid">${T.tests.map(x=>`<button class="module" onclick="start('${x.id}')"><b>${x.name}</b><div class="small muted">Full mock${x.durations?` · ${totalTime(x)} min`:''}</div></button>`).join('')}</div>`)}
 function find(type,id){return Q[type].find(x=>x.id===id)}
-function start(id){test=T.tests.find(x=>x.id===id);answers={objective:{},writing:{},speaking:{}};recordings={};completed={};currentItem=null;renderOverview()}
+function missingRefs(t){return Object.values(t.sections).flatMap(groups=>groups.flatMap(g=>g.ids.filter(id=>!find(g.type,id)).map(id=>`${g.type}:${id}`)))}
+function start(id){test=T.tests.find(x=>x.id===id);let missing=missingRefs(test);if(missing.length)return root(`<div class="card"><h2>${test.name}</h2><p class="bad">This mock cannot start because some question data is missing. Refresh the page after deployment finishes.</p><p class="small muted">${esc(missing.slice(0,12).join(', '))}${missing.length>12?'...':''}</p><button onclick="home()">Back</button></div>`);answers={objective:{},writing:{},speaking:{}};recordings={};completed={};currentItem=null;renderOverview()}
 function sectionItems(sec){return test.sections[sec].reduce((sum,g)=>sum+g.ids.reduce((n,id)=>n+itemCount(g.type,find(g.type,id)),0),0)}
 function itemCount(type,it){if(type==='complete_words')return it.answers.length;if(['daily_life','academic_passage','conversations','announcements','academic_talks'].includes(type))return it.questions.length;return 1}
 function sectionButton(sec,i){let done=completed[sec]?' ✓':'';return `<button onclick="${sec==='writing'?'runWriting()':sec==='speaking'?'runSpeaking()':`runObjective('${sec}')`}">${label(sec)}${done}<br><span class="small">${sectionItems(sec)} items · ${timeText(minutes(sec))}</span></button>`}

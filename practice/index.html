@@ -13,7 +13,8 @@ textarea{width:100%;min-height:160px;padding:12px;font:inherit;border:1px solid 
 <body><div class="app"><h1>TOEFL Practice</h1><p class="muted">Objective modules only. Questions load from <code>../data/questions.json</code>.</p><div id="root"></div></div>
 <script>
 let Q={},voices=[],selectedVoices={},audioPlaying=false;
-fetch('../data/questions.json').then(r=>r.json()).then(x=>{Q=x;home()});
+function getJSON(path){return fetch(`${path}?v=${Date.now()}`,{cache:'no-store'}).then(r=>r.json())}
+getJSON('../data/questions.json').then(x=>{Q=x;home()});
 
 const mods=[['complete_words','Complete the Words'],['daily_life','Read in Daily Life'],['academic_passage','Academic Passage'],['choose_response','Choose a Response'],['conversations','Conversation'],['announcements','Announcement'],['academic_talks','Academic Talk'],['build_sentence','Build a Sentence']];
 let st={};
