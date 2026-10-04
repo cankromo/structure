@@ -3,6 +3,12 @@
     {
       "id": "mock_001",
       "name": "Mock 001",
+      "durations": {
+        "reading": 30,
+        "listening": 29,
+        "writing": 23,
+        "speaking": 8
+      },
       "sections": {
         "reading": [
           {
