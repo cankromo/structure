@@ -263,6 +263,138 @@
           }
         ]
       }
+    },
+    {
+      "id": "mock_003",
+      "name": "Mock 003",
+      "durations": {
+        "reading": 30,
+        "listening": 29,
+        "writing": 23,
+        "speaking": 8
+      },
+      "sections": {
+        "reading": [
+          {
+            "type": "complete_words",
+            "ids": [
+              "cw_401",
+              "cw_402"
+            ]
+          },
+          {
+            "type": "daily_life",
+            "ids": [
+              "rdl_401",
+              "rdl_402",
+              "rdl_403"
+            ]
+          },
+          {
+            "type": "academic_passage",
+            "ids": [
+              "rap_401",
+              "rap_402",
+              "rap_403"
+            ]
+          }
+        ],
+        "listening": [
+          {
+            "type": "choose_response",
+            "ids": [
+              "lcr_401",
+              "lcr_402",
+              "lcr_403",
+              "lcr_404",
+              "lcr_405",
+              "lcr_406",
+              "lcr_407",
+              "lcr_408",
+              "lcr_409",
+              "lcr_410",
+              "lcr_411",
+              "lcr_412"
+            ]
+          },
+          {
+            "type": "conversations",
+            "ids": [
+              "conv_401",
+              "conv_402",
+              "conv_403",
+              "conv_404"
+            ]
+          },
+          {
+            "type": "announcements",
+            "ids": [
+              "ann_401",
+              "ann_402",
+              "ann_403"
+            ]
+          },
+          {
+            "type": "academic_talks",
+            "ids": [
+              "talk_401",
+              "talk_402"
+            ]
+          }
+        ],
+        "writing": [
+          {
+            "type": "build_sentence",
+            "ids": [
+              "bs_401",
+              "bs_402",
+              "bs_403",
+              "bs_404",
+              "bs_405",
+              "bs_406",
+              "bs_407",
+              "bs_408",
+              "bs_409",
+              "bs_410"
+            ]
+          },
+          {
+            "type": "email",
+            "ids": [
+              "we_401"
+            ]
+          },
+          {
+            "type": "discussion",
+            "ids": [
+              "ad_401"
+            ]
+          }
+        ],
+        "speaking": [
+          {
+            "type": "repeat",
+            "ids": [
+              "rep_401",
+              "rep_402",
+              "rep_403",
+              "rep_404",
+              "rep_405",
+              "rep_406"
+            ]
+          },
+          {
+            "type": "interview",
+            "ids": [
+              "int_401",
+              "int_402",
+              "int_403",
+              "int_404",
+              "int_405"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

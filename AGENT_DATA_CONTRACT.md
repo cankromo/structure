@@ -85,6 +85,7 @@ Do not label this distribution as official ETS distribution.
 
 ## Content References
 
+- Before creating a new full mock, read `references/FULL_MOCK_CREATION.md` and follow its validation and quality rules.
 - Before generating Complete the Words items, read `references/COMPLETE_WORDS_STYLE.md`.
 - Before generating Read in Daily Life items, read `references/READ_IN_DAILY_LIFE_STYLE.md`.
 - Do not add new questions unless the content follows the quality rules in the relevant reference file.

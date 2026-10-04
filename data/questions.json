@@ -120,6 +120,82 @@
         "ourages",
         "erent"
       ]
+    },
+    {
+      "id": "cw_301",
+      "title": "The Search for Habitable Worlds",
+      "topic": "Astronomy",
+      "difficulty": "B2-C1",
+      "text": "Astronomers have long been fascinated by the possibility of life on other planets. In recent years, the dis______ of exoplanets has int________ this interest. These planets or___ stars outside our solar sys___, and some are loc____ in the hab______ zone. This re____ is where conditions might all__ liquid water to ex___ on the sur____.",
+      "answers": [
+        "covery",
+        "ensified",
+        "bit",
+        "tem",
+        "ated",
+        "itable",
+        "gion",
+        "ow",
+        "ist",
+        "face"
+      ]
+    },
+    {
+      "id": "cw_302",
+      "title": "Essentials of a Balanced Diet",
+      "topic": "Nutrition Science",
+      "difficulty": "B2-C1",
+      "text": "A balanced diet is essential for maintaining optimal physical and mental health. Macronutrients such as car__________, proteins, and fats pro____ the body with necessary en____. Meanwhile, micronutrients like vit_____ and min_____ are crucial for cellular fun______. Con______ a variety of whole foods ens____ that individuals re_____ adequate nu_______.",
+      "answers": [
+        "bohydrates",
+        "vide",
+        "ergy",
+        "amins",
+        "erals",
+        "ctions",
+        "suming",
+        "ures",
+        "ceive",
+        "trition"
+      ]
+    },
+    {
+      "id": "cw_401",
+      "title": "Ocean Currents and Climate",
+      "topic": "Environment",
+      "difficulty": "B2-C1",
+      "text": "Ocean currents play a vital role in regulating the climate of our planet. These massive movements of water trans____ heat from the equator toward the poles, acting as a global con_____ belt. Without this continuous circul_____, regions located at higher lati_____ would experience much colder temperatures. The Gulf Stream, for inst____, carries warm water across the Atlantic, signifi______ warming the coast of Western Europe. Changes in these pat_____ could lead to severe wea____ disruptions. Scientists closely mon____ oceanic temperatures to better under_____ how global warming might alter these critical systems.",
+      "answers": [
+        "port",
+        "veyor",
+        "ation",
+        "tudes",
+        "ance",
+        "cantly",
+        "terns",
+        "ther",
+        "itor",
+        "stand"
+      ]
+    },
+    {
+      "id": "cw_402",
+      "title": "History of Written Language",
+      "topic": "History",
+      "difficulty": "B2-C1",
+      "text": "The invention of writing marks one of the most crucial developments in human history. Before this break_______, societies relied entirely on oral traditions to pass down knowl____ from one generation to the next. The earliest forms of writing emerged in Mesopotamia, where Sumerians devel____ a system known as cuneiform. They pressed wedge-shaped sty_____ into wet clay tablets to record administrative trans_______ and trade agreements. As writing spread, other cultures created their own unique scr____, such as Egyptian hieroglyphics. Over time, these complex systems grad_____ evolved into alphabets, making lit_____ more accessible. Today, the written word remains essen____ for communication, preserving our cultural heri____ across centuries.",
+      "answers": [
+        "through",
+        "edge",
+        "oped",
+        "luses",
+        "actions",
+        "ipts",
+        "ually",
+        "eracy",
+        "tial",
+        "tage"
+      ]
     }
   ],
   "daily_life": [
@@ -443,6 +519,251 @@
             "They are mailed after the workshop."
           ],
           "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_301",
+      "title": "Annual Parking Permit Renewal",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "Dear Students,\n\nThis is a reminder that campus parking permits for the upcoming academic year will go on sale starting August 1st. Due to ongoing construction near the science building, Zone C parking will be limited, and those permits will be issued on a first-come, first-served basis. The annual fee for a standard student parking permit is $150, while premium spots in the covered garage are available for $250. Please ensure all outstanding parking fines from previous semesters are cleared before applying. Applications can be submitted through the university's transportation portal. If you miss the August 15th deadline, a late fee of $25 will be applied to your permit cost.",
+      "questions": [
+        {
+          "q": "What is the primary purpose of this email?",
+          "options": [
+            "To announce the closure of Zone C parking.",
+            "To inform students about parking permit sales.",
+            "To collect outstanding parking fines.",
+            "To promote the use of the university transportation portal."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How much does a premium parking permit cost?",
+          "options": [
+            "$25",
+            "$150",
+            "$250",
+            "$275"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about students who apply for a permit on August 16th?",
+          "options": [
+            "They will not be allowed to park on campus.",
+            "They will have to pay an additional $25.",
+            "They are guaranteed a spot in Zone C.",
+            "They will automatically receive a premium permit."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the email, what must students do before applying for a new permit?",
+          "options": [
+            "Pay off any existing parking fines.",
+            "Register for their fall classes.",
+            "Visit the transportation office in person.",
+            "Provide proof of vehicle insurance."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_302",
+      "title": "Scheduled Email Server Maintenance",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "Notice from University IT Services:\n\nPlease be advised that the university's central email servers will undergo scheduled maintenance this Saturday, October 10th, from 2:00 AM to 6:00 AM. During this four-hour window, students and faculty will not be able to send or receive emails through their official university accounts. Any emails sent to you during this time will be queued and delivered once the servers are back online; no data will be lost. We are performing this upgrade to enhance system security and increase storage capacity for all users. If you experience any persistent login issues after the maintenance window closes, please contact the IT Helpdesk at the library or call extension 4357.",
+      "questions": [
+        {
+          "q": "What is the main topic of the notice?",
+          "options": [
+            "A change in email account passwords.",
+            "Upcoming downtime for the university email system.",
+            "New security rules for the university library.",
+            "A permanent switch to a new email provider."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What will happen to emails sent to users during the maintenance period?",
+          "options": [
+            "They will be permanently deleted.",
+            "They will be bounced back to the sender.",
+            "They will be held and delivered after the maintenance is complete.",
+            "They will be forwarded to users' personal email addresses."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why is the IT department performing this maintenance?",
+          "options": [
+            "To fix a critical error that deleted user data.",
+            "To install new hardware in the library.",
+            "To improve security and increase storage space.",
+            "To shut down inactive student accounts."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What should users do if they cannot log in on Saturday morning at 8:00 AM?",
+          "options": [
+            "Wait until the maintenance begins.",
+            "Reach out to the IT Helpdesk for assistance.",
+            "Create a new university email account.",
+            "Assume their emails have been lost."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_401",
+      "title": "Campus Fitness Center Schedule Change",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "To All Students and Faculty,\n\nPlease be advised that the Campus Fitness Center will be operating on a modified schedule during the upcoming spring break. Starting Monday, March 14, until Sunday, March 20, the facility will be open from 8:00 AM to 6:00 PM daily. Regular operating hours (6:00 AM to 11:00 PM) will resume on Monday, March 21.\n\nAdditionally, the indoor swimming pool will be closed for maintenance from March 14 to March 16. We apologize for any inconvenience this may cause and encourage members to use the outdoor track or basketball courts, which will remain accessible during daylight hours. For group exercise class updates, please check the campus recreation portal.",
+      "questions": [
+        {
+          "q": "What is the main purpose of this email?",
+          "options": [
+            "To announce the opening of a new outdoor track.",
+            "To inform members about modified hours during spring break.",
+            "To advertise new group exercise classes.",
+            "To explain the rules for using the indoor swimming pool."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "When will the fitness center resume its regular operating hours?",
+          "options": [
+            "March 14",
+            "March 16",
+            "March 20",
+            "March 21"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What facility will be unavailable for the first three days of the break?",
+          "options": [
+            "The indoor swimming pool",
+            "The outdoor track",
+            "The basketball courts",
+            "The group exercise rooms"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about the group exercise classes?",
+          "options": [
+            "They have been completely canceled for the entire spring break.",
+            "Their schedules may have changed and should be verified online.",
+            "They will be held exclusively at the outdoor track.",
+            "They are only available to faculty members during the break."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_402",
+      "title": "Department Tutoring Service Announcement",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "The Mathematics Department is pleased to announce the expansion of our Peer Tutoring Services for the fall semester. Due to high demand last year, we have hired ten additional tutors and secured a larger space in Room 402 of the Science Building. \n\nTutoring is available for all undergraduate math courses, with a special focus on Calculus I and II. Drop-in sessions are held Monday through Thursday, from 3:00 PM to 8:00 PM. Students who prefer one-on-one assistance can schedule a private 45-minute appointment via the department website. Please note that appointments must be booked at least 24 hours in advance. Bring your textbook, syllabus, and any attempted homework problems to maximize your session.",
+      "questions": [
+        {
+          "q": "Why did the Mathematics Department expand its tutoring services?",
+          "options": [
+            "Because they received a new university grant.",
+            "Because there was a high demand for the service last year.",
+            "Because the Science Building was recently renovated.",
+            "Because they are offering new graduate-level courses."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which courses are mentioned as having a special focus in the tutoring center?",
+          "options": [
+            "Statistics and Probability",
+            "Linear Algebra",
+            "Calculus I and II",
+            "Geometry and Trigonometry"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How can a student receive one-on-one assistance?",
+          "options": [
+            "By showing up at Room 402 exactly at 3:00 PM.",
+            "By calling the department secretary.",
+            "By booking an appointment online 24 hours in advance.",
+            "By bringing a textbook and syllabus to a drop-in session."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is the student expected to bring to a tutoring session?",
+          "options": [
+            "A laptop and a calculator",
+            "Textbook, syllabus, and attempted homework",
+            "A signed permission slip from their professor",
+            "Their student ID and a registration fee"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_403",
+      "title": "Campus Recycling Program Notice",
+      "topic": "campus",
+      "difficulty": "B2",
+      "text": "As part of the university's commitment to sustainability, the Facilities Management Office is launching a new 'Green Campus' recycling initiative. Starting next month, you will notice color-coded bins placed in all academic buildings and residence halls. \n\nBlue bins are strictly for paper and cardboard, while green bins are designated for plastic bottles and aluminum cans. Please ensure that all containers are rinsed and free of food residue before disposal. Glass items and electronic waste must not be placed in these bins; they can be dropped off at the specialized recycling center behind the student union. By separating our waste correctly, we can reduce our campus landfill contribution by up to 30%.",
+      "questions": [
+        {
+          "q": "What is the main goal of the 'Green Campus' initiative?",
+          "options": [
+            "To hire more staff for the Facilities Management Office.",
+            "To promote sustainability through a new recycling system.",
+            "To replace all trash cans with larger bins.",
+            "To build a new student union."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What should be placed in the blue recycling bins?",
+          "options": [
+            "Plastic bottles and aluminum cans",
+            "Glass items and electronics",
+            "Food waste",
+            "Paper and cardboard"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What must students do to plastic bottles before recycling them?",
+          "options": [
+            "Crush them to save space.",
+            "Remove the labels.",
+            "Rinse them to remove food residue.",
+            "Take them to the student union."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Where should a student dispose of a broken glass jar?",
+          "options": [
+            "In a blue bin",
+            "In a green bin",
+            "At the specialized recycling center",
+            "In any residence hall trash can"
+          ],
+          "answer": 2
         }
       ]
     }
@@ -890,6 +1211,351 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "rap_301",
+      "title": "The Hidden World of Soil Microbiomes",
+      "topic": "Biology",
+      "difficulty": "C1",
+      "text": "Beneath our feet lies a complex and bustling ecosystem known as the soil microbiome. This intricate network consists of billions of microorganisms, including bacteria, fungi, archaea, and protozoa, interacting within a single gram of soil. Far from being inert dirt, healthy soil is a living matrix that plays a critical role in global biogeochemical cycles. One of the most significant functions of the soil microbiome is nutrient cycling. Microbes decompose organic matter, breaking down dead plants and animals into simpler chemical forms. This decomposition process releases essential nutrients, such as nitrogen and phosphorus, back into the soil in forms that plants can readily absorb. Without these microscopic workers, organic debris would accumulate indefinitely, and plant life would eventually starve. Furthermore, the relationship between plants and soil microbes is often highly symbiotic. For example, mycorrhizal fungi colonize plant roots, extending their hyphae far into the soil to access water and minerals that the plant roots cannot reach. In exchange, the host plant provides the fungi with carbohydrates generated through photosynthesis. Recent agricultural research emphasizes the importance of preserving soil microbiomes, warning that the overuse of chemical fertilizers and pesticides can severely disrupt these delicate subterranean networks, leading to long-term degradation of soil fertility.",
+      "questions": [
+        {
+          "q": "What is the primary focus of the passage?",
+          "options": [
+            "The process of photosynthesis in plants.",
+            "The composition and vital functions of the soil microbiome.",
+            "The dangers of modern agricultural pesticides.",
+            "The classification of different fungal species."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, what is the role of microbes in nutrient cycling?",
+          "options": [
+            "They generate carbohydrates through photosynthesis.",
+            "They protect plant roots from excessive water absorption.",
+            "They break down organic matter to release nutrients for plants.",
+            "They convert chemical fertilizers into natural organic matter."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'symbiotic' in the passage is closest in meaning to:",
+          "options": [
+            "Mutually beneficial",
+            "Highly destructive",
+            "Completely independent",
+            "Rapidly changing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the plant provide to the mycorrhizal fungi in their exchange?",
+          "options": [
+            "Nitrogen and phosphorus",
+            "Water and minerals",
+            "Carbohydrates",
+            "Organic debris"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about the use of chemical fertilizers?",
+          "options": [
+            "They are necessary for the survival of the soil microbiome.",
+            "They can be harmful to the natural balance of soil microorganisms.",
+            "They help mycorrhizal fungi grow their hyphae longer.",
+            "They are the primary food source for soil bacteria."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The word 'inert' in the passage is closest in meaning to:",
+          "options": [
+            "Fertile",
+            "Lifeless",
+            "Complex",
+            "Dangerous"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rap_302",
+      "title": "The Evolution of Public Libraries",
+      "topic": "History",
+      "difficulty": "C1",
+      "text": "The concept of a library has undergone a profound transformation over the centuries. In antiquity, repositories of knowledge, such as the famous Library of Alexandria, functioned primarily as archives for scholars and the elite. These early institutions were dedicated to preserving ancient texts and official records rather than promoting public literacy. The modern public library—a free institution funded by the state and open to all citizens—did not truly emerge until the mid-19th century. A pivotal figure in this democratization of knowledge was Andrew Carnegie, a Scottish-American industrialist and philanthropist. Between 1883 and 1929, Carnegie funded the construction of over 2,500 libraries worldwide. He operated on the philanthropic philosophy that wealth should be used to improve society, and he viewed libraries as the ideal vehicle for self-education and social mobility. Carnegie required that towns receiving his grants demonstrate their commitment by providing the land and establishing a tax to fund the library's ongoing operations. Today, the role of the public library continues to evolve in response to the digital age. While they remain essential repositories for printed books, modern libraries have transformed into vibrant community centers. They provide vital services such as free internet access, digital literacy workshops, and safe public spaces, ensuring they remain relevant in a rapidly changing society.",
+      "questions": [
+        {
+          "q": "What is the main topic of the passage?",
+          "options": [
+            "The architectural design of the Library of Alexandria.",
+            "The biography and wealth of Andrew Carnegie.",
+            "The historical development and changing role of public libraries.",
+            "The transition from printed books to digital media."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How did ancient libraries differ from modern public libraries?",
+          "options": [
+            "They were open to the general public for free.",
+            "They focused heavily on digital literacy.",
+            "They were primarily archives intended for scholars and the elite.",
+            "They were funded by industrialist philanthropists."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'philanthropist' in the passage is closest in meaning to:",
+          "options": [
+            "A person who hoards wealth for their family.",
+            "A person who seeks to promote the welfare of others.",
+            "A government official in charge of public taxes.",
+            "A scholar studying ancient historical texts."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What condition did Andrew Carnegie place on towns receiving his library grants?",
+          "options": [
+            "They had to only stock books approved by Carnegie.",
+            "They had to provide land and tax funding for operations.",
+            "They had to charge citizens a small fee for entry.",
+            "They had to replace all printed books with digital archives."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What can be inferred about the purpose of libraries in the digital age?",
+          "options": [
+            "They are struggling to survive and are mostly empty.",
+            "They have completely abandoned physical books.",
+            "They have adapted by offering technological access and community services.",
+            "They are exclusively used for academic research by university scholars."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'pivotal' in the passage is closest in meaning to:",
+          "options": [
+            "Crucial",
+            "Obscure",
+            "Wealthy",
+            "Temporary"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_401",
+      "title": "Migration Patterns of Birds",
+      "topic": "Biology",
+      "difficulty": "C1",
+      "text": "Bird migration is a remarkable biological phenomenon that involves the regular, seasonal journey of many species between their breeding and wintering grounds. This arduous journey is primarily driven by the availability of resources, particularly food and safe nesting locations. During the breeding season in the Northern Hemisphere, the prolonged daylight hours allow birds to feed their young more frequently, promoting rapid growth. As autumn approaches and daylight wanes, insect populations plummet, prompting insectivorous birds to embark on their southward trek.\n\nNavigating over thousands of miles requires sophisticated biological mechanisms. Scientists believe that migratory birds rely on a combination of innate instincts and learned behaviors. They utilize various cues to orient themselves, including the position of the sun, the stars, and the Earth's magnetic field. The avian compass is highly sensitive; some species can even detect variations in polarized light. Moreover, certain birds depend on topographical features, following coastlines, mountain ranges, or river valleys as visual maps.\n\nDespite their incredible adaptations, migratory birds face numerous perils along their routes. Natural obstacles, such as vast oceans and harsh weather conditions, claim many lives each year. However, anthropogenic threats have increasingly compounded these dangers. Habitat destruction, particularly the loss of crucial stopover sites where birds rest and refuel, poses a severe risk. Additionally, light pollution from urban centers often disorients night-migrating species, leading to fatal collisions with buildings.",
+      "questions": [
+        {
+          "q": "What is the primary motivation for seasonal bird migration according to the passage?",
+          "options": [
+            "To escape predatory species in the Northern Hemisphere.",
+            "To find better mating partners in the south.",
+            "To secure adequate food supplies and nesting sites.",
+            "To avoid extreme cold temperatures exclusively."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'arduous' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "Frequent",
+            "Difficult",
+            "Unnecessary",
+            "Rapid"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How does increased daylight in the Northern Hemisphere summer benefit breeding birds?",
+          "options": [
+            "It allows them to see predators more easily.",
+            "It provides more time for them to gather food for their offspring.",
+            "It warms the nests so the parents can leave for longer periods.",
+            "It helps them build stronger immune systems."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is NOT mentioned as a navigational tool used by birds?",
+          "options": [
+            "The Earth's magnetic field",
+            "Wind direction",
+            "Topographical features",
+            "The position of stars"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The word 'anthropogenic' in paragraph 3 most likely means:",
+          "options": [
+            "Caused by weather",
+            "Caused by humans",
+            "Caused by animals",
+            "Unpredictable"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What can be inferred about 'stopover sites' from the passage?",
+          "options": [
+            "They are usually located in large urban centers.",
+            "They are primarily used for breeding.",
+            "They are essential for birds to survive the long journey.",
+            "They are rarely affected by human activities."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "rap_402",
+      "title": "The Psychology of Decision-Making",
+      "topic": "Psychology",
+      "difficulty": "C1",
+      "text": "Human decision-making is a complex cognitive process that has long fascinated psychologists and behavioral economists. Traditionally, classical economic theories assumed that humans are rational actors who carefully weigh the costs and benefits of every option to maximize utility. However, modern psychological research reveals that our choices are frequently influenced by a variety of cognitive biases and heuristics—mental shortcuts that simplify decision-making but can lead to systematic errors.\n\nOne prominent bias is the anchoring effect, wherein individuals rely too heavily on the first piece of information encountered (the 'anchor') when making judgments. For instance, in negotiations, the initial price offered sets a mental benchmark, heavily swaying the final agreed-upon figure, regardless of the initial price's actual validity. Another common phenomenon is the confirmation bias, which leads people to seek out and favor information that confirms their preexisting beliefs, while simultaneously dismissing contradictory evidence. This bias can severely hinder objective analysis in both personal and professional contexts.\n\nFurthermore, emotional states play a pivotal role in shaping our decisions. Research indicates that emotions like fear or anger can drastically alter an individual's risk tolerance. A person experiencing anxiety is more likely to perceive a situation as highly risky and opt for a conservative choice, whereas someone feeling elated might underestimate the risks and make impulsive decisions. Understanding these underlying psychological mechanisms is crucial for improving decision-making strategies in business, healthcare, and public policy.",
+      "questions": [
+        {
+          "q": "What is the main idea of the first paragraph?",
+          "options": [
+            "Classical economic theories perfectly describe human behavior.",
+            "Humans generally make decisions that maximize their financial utility.",
+            "Human decision-making is heavily influenced by mental shortcuts rather than pure rationality.",
+            "Psychologists and economists completely disagree on how decisions are made."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'heuristics' in paragraph 1 is defined by the passage as:",
+          "options": [
+            "Classical economic theories",
+            "Mental shortcuts that simplify choices",
+            "Emotional responses to risk",
+            "Systematic errors in mathematics"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How does the passage illustrate the 'anchoring effect'?",
+          "options": [
+            "By describing how people ignore contradictory evidence.",
+            "By explaining how the first price in a negotiation influences the final price.",
+            "By showing how fear alters risk tolerance.",
+            "By detailing how people rely on past experiences."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is a negative consequence of confirmation bias mentioned in the text?",
+          "options": [
+            "It causes individuals to forget their past decisions.",
+            "It leads to excessive risk-taking in financial markets.",
+            "It hinders objective analysis by making people dismiss contrary evidence.",
+            "It forces people to rely entirely on emotional states."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'pivotal' in paragraph 3 is closest in meaning to:",
+          "options": [
+            "Crucial",
+            "Minor",
+            "Unexpected",
+            "Temporary"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about someone making a decision while very angry?",
+          "options": [
+            "They will carefully weigh all costs and benefits.",
+            "Their emotional state will likely distort their perception of risk.",
+            "They will automatically defer to the first piece of information they receive.",
+            "They will act strictly as a rational economic actor."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rap_403",
+      "title": "Volcanic Activity and Soil Fertility",
+      "topic": "Geology",
+      "difficulty": "C1",
+      "text": "Volcanic eruptions are typically perceived as catastrophic events that bring widespread destruction through lava flows, ash falls, and pyroclastic surges. While the immediate aftermath of an eruption is undeniably devastating to local ecosystems and human settlements, volcanic activity plays a profoundly constructive role over geological timescales. One of the most significant long-term benefits of volcanism is the dramatic enhancement of soil fertility.\n\nWhen a volcano erupts, it ejects enormous quantities of ash and fragmented rock onto the Earth's surface. This volcanic material, known as tephra, is extraordinarily rich in essential minerals and trace elements, including potassium, phosphorus, calcium, and magnesium. As weathering processes—such as rain, wind, and temperature fluctuations—break down the tephra over centuries, these nutrients are slowly released into the soil. Consequently, regions surrounding dormant volcanoes, such as the slopes of Mount Vesuvius in Italy or the Hawaiian Islands, boast some of the most productive agricultural lands on the planet.\n\nMoreover, the physical properties of volcanic soils, or andisols, contribute to their agricultural value. Andisols are typically highly porous, allowing for excellent water retention and drainage simultaneously. This unique structure prevents waterlogging while ensuring that plant roots have access to sufficient moisture during dry periods. Despite the inherent risks of living in volcanic zones, the allure of rich, bountiful harvests continues to draw farming communities to these geologically active regions.",
+      "questions": [
+        {
+          "q": "What is the overall purpose of the passage?",
+          "options": [
+            "To warn people about the dangers of living near active volcanoes.",
+            "To explain the chemical composition of different lava flows.",
+            "To describe how volcanic eruptions long-term improve soil quality.",
+            "To detail the history of agriculture near Mount Vesuvius."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The word 'devastating' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "Beneficial",
+            "Predictable",
+            "Destructive",
+            "Brief"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "According to the passage, what process releases nutrients from tephra into the soil?",
+          "options": [
+            "Pyroclastic surges",
+            "Weathering processes like rain and wind",
+            "Immediate combustion of vegetation",
+            "The mixing of lava with ocean water"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following elements is NOT explicitly mentioned as being found in volcanic ash?",
+          "options": [
+            "Potassium",
+            "Phosphorus",
+            "Calcium",
+            "Nitrogen"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What makes the physical structure of andisols advantageous for agriculture?",
+          "options": [
+            "They are extremely dense and prevent erosion.",
+            "They retain heat from the Earth's core, warming the roots.",
+            "They are porous, providing a balance of water retention and drainage.",
+            "They naturally repel agricultural pests."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about farming communities in volcanic zones?",
+          "options": [
+            "They are generally unaware of the risks associated with volcanoes.",
+            "They value the high agricultural yield enough to accept the geological risks.",
+            "They only cultivate crops that do not require much water.",
+            "They frequently artificially fertilize their soil to compensate for volcanic ash."
+          ],
+          "answer": 1
+        }
+      ]
     }
   ],
   "choose_response": [
@@ -1176,6 +1842,204 @@
         "The map is available on campus.",
         "New campuses need maps.",
         "The office is near the entrance."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_301",
+      "prompt": "Do you know if Professor Higgins has posted the syllabus for the Biology 101 seminar yet?",
+      "options": [
+        "I'm afraid she hasn't put it up on the course website yet.",
+        "Yes, the textbook for the class is quite expensive.",
+        "She mentioned that the first assignment is due next week.",
+        "I think biology is a fascinating subject to major in."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_302",
+      "prompt": "I'm having trouble finding the main entrance to the student recreation center. Can you point me in the right direction?",
+      "options": [
+        "I usually go to the gym on Tuesdays and Thursdays.",
+        "The membership fee is included in your tuition.",
+        "It's just around the corner, past the chemistry building.",
+        "You need a valid student ID to use the facilities."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_303",
+      "prompt": "Excuse me, how long can I borrow a laptop from the library's technology desk?",
+      "options": [
+        "The laptops are equipped with the latest software.",
+        "You can keep it for up to four hours before it's due back.",
+        "I think the technology desk is on the second floor.",
+        "Yes, you need to sign in with your student credentials."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_304",
+      "prompt": "Would you mind reviewing my rough draft for the history paper before I submit it tomorrow?",
+      "options": [
+        "The history department is located in the humanities wing.",
+        "I didn't know the paper had to be submitted online.",
+        "The topic you chose sounds incredibly interesting.",
+        "I'd be happy to take a look at it tonight."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_305",
+      "prompt": "Are we supposed to include a bibliography with our lab reports this semester?",
+      "options": [
+        "Yes, the TA said it's required for every submission.",
+        "The lab is open from 8 AM to 5 PM on weekdays.",
+        "You can find the required readings in the library.",
+        "I already bought the lab coat and safety goggles."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_306",
+      "prompt": "I heard they're changing the bus schedule for the North Campus route starting next Monday.",
+      "options": [
+        "The buses are usually painted blue and gold.",
+        "I prefer walking when the weather is nice.",
+        "Really? I hope it doesn't affect my morning commute.",
+        "The North Campus has a lot of newly built dorms."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_401",
+      "prompt": "When is the project proposal due?",
+      "options": [
+        "It is due next Friday.",
+        "I propose we start tomorrow.",
+        "The project was a huge success.",
+        "He didn't read the proposal."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_402",
+      "prompt": "Have you seen my chemistry textbook anywhere?",
+      "options": [
+        "Chemistry is a difficult subject.",
+        "I left it on the kitchen table.",
+        "Check the library return desk.",
+        "Yes, it's right here on your desk."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_403",
+      "prompt": "How long will the bus take to get to the stadium?",
+      "options": [
+        "I bought tickets yesterday.",
+        "About forty-five minutes.",
+        "The stadium is very large.",
+        "We should take the train instead."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_404",
+      "prompt": "Could you help me install this new software?",
+      "options": [
+        "Sure, let me just finish this email.",
+        "The hardware is completely new.",
+        "I bought it at the computer store.",
+        "Installation took three hours."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_405",
+      "prompt": "Why did Professor Smith cancel today's lecture?",
+      "options": [
+        "The lecture is at 2 PM.",
+        "He was feeling unwell this morning.",
+        "He assigned a lot of reading.",
+        "The classroom is on the third floor."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_406",
+      "prompt": "Do you prefer studying in the library or at home?",
+      "options": [
+        "My home is quite close to campus.",
+        "The library has many new books.",
+        "I usually focus better at the library.",
+        "I studied for three hours yesterday."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_407",
+      "prompt": "Would you mind closing the window?",
+      "options": [
+        "The window looks out onto the street.",
+        "Yes, it's getting a bit chilly in here.",
+        "No, not at all. I'll do it right now.",
+        "It has been raining all afternoon."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_408",
+      "prompt": "Are you going to the career fair this afternoon?",
+      "options": [
+        "I haven't updated my resume yet, so no.",
+        "The fair was very crowded last year.",
+        "Many companies will be recruiting.",
+        "Careers in engineering are in demand."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_409",
+      "prompt": "Which train goes to the airport terminal?",
+      "options": [
+        "The airport is very busy today.",
+        "Trains run every fifteen minutes.",
+        "Take the blue line on platform three.",
+        "Flights are frequently delayed here."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_410",
+      "prompt": "Has the marketing team submitted their quarterly report?",
+      "options": [
+        "Marketing is a fast-growing field.",
+        "They asked for an extension until Monday.",
+        "The report has over fifty pages.",
+        "Our quarter ends next month."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_411",
+      "prompt": "What did you think of the documentary we watched?",
+      "options": [
+        "Documentaries are often educational.",
+        "The cinematography was quite impressive.",
+        "We watched it in the main auditorium.",
+        "It starts at seven in the evening."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_412",
+      "prompt": "Where can I find the extra extension cords?",
+      "options": [
+        "They are in the supply closet on the second shelf.",
+        "The power went out yesterday.",
+        "We need to plug in the projector.",
+        "Cords can be quite expensive."
       ],
       "answer": 0
     }
@@ -1817,6 +2681,444 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "conv_301",
+      "title": "Lost Student ID",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi there. I think I might have dropped my student ID card somewhere in the cafeteria earlier today, and I was wondering if anyone turned it in?"
+        ],
+        [
+          "Staff Member",
+          "Hello. Let me check the lost and found box for you. What's your name and ID number, just in case?"
+        ],
+        [
+          "Student",
+          "It's David Miller, and the number is 98765432. I really need it to get into my dorm building tonight."
+        ],
+        [
+          "Staff Member",
+          "I don't see anything under that name here. Have you checked with the campus security office? Sometimes things get handed over to them."
+        ],
+        [
+          "Student",
+          "Oh, I hadn't thought of that. Do you know where their office is located?"
+        ],
+        [
+          "Staff Member",
+          "They're on the ground floor of the administration building, right next to the parking garage. They're open 24/7."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student approach the staff member?",
+          "options": [
+            "To report a stolen item.",
+            "To ask about a missing student ID card.",
+            "To request access to the dormitory.",
+            "To complain about the cafeteria food."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why is the student concerned about finding the ID card today?",
+          "options": [
+            "He needs it to borrow a book from the library.",
+            "He has to take a midterm exam this afternoon.",
+            "He requires it to enter his dormitory building.",
+            "He needs to show it to campus security."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the staff member advise the student to do next?",
+          "options": [
+            "Fill out a replacement card application.",
+            "Retrace his steps in the cafeteria.",
+            "Go to the campus security office.",
+            "Wait until someone returns the card."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Where is the campus security office located?",
+          "options": [
+            "Next to the parking garage in the administration building.",
+            "On the top floor of the student union.",
+            "Inside the main cafeteria.",
+            "Near the dormitory entrances."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_302",
+      "title": "Group Project Conflict",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi Professor Davis, do you have a minute? I'm having some trouble with our group project for the sociology seminar."
+        ],
+        [
+          "Advisor",
+          "Of course, Sarah. Come on in. What seems to be the issue with your group?"
+        ],
+        [
+          "Student",
+          "Well, we're struggling to coordinate our schedules. Mark keeps missing our meetings, and we're falling behind on the research phase."
+        ],
+        [
+          "Advisor",
+          "I see. Have you tried talking to him directly about how his absences are affecting the team's progress?"
+        ],
+        [
+          "Student",
+          "We sent him an email yesterday, but he hasn't replied. We're worried we won't finish the presentation on time."
+        ],
+        [
+          "Advisor",
+          "Let's give him until tomorrow. If he still doesn't respond, I'll send an official note to the whole group, and we can discuss restructuring the tasks."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the main problem the student is discussing with the advisor?",
+          "options": [
+            "A group member is not participating and missing meetings.",
+            "The topic for the sociology project is too difficult.",
+            "The group cannot find enough research material.",
+            "The presentation date needs to be extended."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the group do to address the situation before talking to the advisor?",
+          "options": [
+            "They complained to the department head.",
+            "They removed the student from the group.",
+            "They sent an email to the absent group member.",
+            "They completed his portion of the research."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the advisor suggest they do first?",
+          "options": [
+            "Instantly fail the student who isn't contributing.",
+            "Wait one more day for a response.",
+            "Write a new email to the entire class.",
+            "Restructure the group immediately."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What will happen if the group member does not reply by tomorrow?",
+          "options": [
+            "The advisor will assign a new project topic.",
+            "The student will have to do the project alone.",
+            "The advisor will send a formal note to the group.",
+            "The group will receive a lower grade."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "conv_401",
+      "title": "Extending a Paper Deadline",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Excuse me, Professor. Do you have a moment? I wanted to talk about the final research paper."
+        ],
+        [
+          "Professor",
+          "Of course. What seems to be the issue? You look a bit stressed."
+        ],
+        [
+          "Student",
+          "Well, I've been gathering sources for my topic on urban heat islands, but the main dataset I need from the city's website was taken down for maintenance, and it won't be back up until next Tuesday."
+        ],
+        [
+          "Professor",
+          "I see. That does present a challenge since the paper is due next Thursday. How far along are you otherwise?"
+        ],
+        [
+          "Student",
+          "I have my outline and secondary sources ready, but I can't do the primary analysis without that data. Would it be possible to get a short extension?"
+        ],
+        [
+          "Professor",
+          "Given the circumstances with the data source, I can grant you an extension until the following Monday. Just make sure to email me a reminder so I don't mark it late."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student go to see the professor?",
+          "options": [
+            "To ask for help choosing a research topic.",
+            "To request more time to complete an assignment.",
+            "To discuss a failing grade on a recent paper.",
+            "To get permission to use a specific dataset."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What problem is the student facing with their research?",
+          "options": [
+            "They cannot find enough secondary sources.",
+            "They do not understand the urban heat island effect.",
+            "A crucial dataset is temporarily unavailable.",
+            "The professor rejected their initial topic proposal."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What has the student already completed for the paper?",
+          "options": [
+            "The primary data analysis and conclusion.",
+            "The introduction and the works cited page.",
+            "The rough draft of the entire essay.",
+            "The outline and secondary research."
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What does the professor ask the student to do?",
+          "options": [
+            "Email a reminder about the new deadline.",
+            "Submit the outline immediately.",
+            "Change their research topic entirely.",
+            "Contact the city to get the data sooner."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_402",
+      "title": "Interlibrary Loan Request",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi, I couldn't find a book I need in the catalog. It says it's not held by this university."
+        ],
+        [
+          "Librarian",
+          "That happens sometimes with specialized texts. We can request it through the interlibrary loan system. Do you have the title and author?"
+        ],
+        [
+          "Student",
+          "Yes, it's 'The Economics of Renewable Energy' by Sarah Jenkins. I need it for a presentation next Friday."
+        ],
+        [
+          "Librarian",
+          "Okay, I'm pulling up the network... Good news, a state university nearby has a copy. Bad news, interlibrary loans typically take 7 to 10 days to arrive."
+        ],
+        [
+          "Student",
+          "Oh no, that might be cutting it too close for my presentation. Is there any way to expedite it?"
+        ],
+        [
+          "Librarian",
+          "We can't rush the physical book delivery, but I can request just the specific chapters you need as digital scans. Those usually arrive in your email within 48 hours."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the student trying to do?",
+          "options": [
+            "Return a book that is overdue.",
+            "Find a book that the library does not own.",
+            "Pay a fine for a lost library book.",
+            "Reserve a study room for a presentation."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why is the student concerned about the interlibrary loan timeline?",
+          "options": [
+            "The physical book takes too long to arrive.",
+            "The library charges a fee for late arrivals.",
+            "The nearby university might refuse the request.",
+            "The student is leaving campus for the weekend."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What solution does the librarian propose?",
+          "options": [
+            "The student should drive to the other university.",
+            "The student should choose a different topic.",
+            "Requesting digital scans of specific chapters.",
+            "Buying the book from the campus bookstore."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How long do digital scans usually take to arrive?",
+          "options": [
+            "Immediately.",
+            "Within 48 hours.",
+            "7 to 10 days.",
+            "Next Friday."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_403",
+      "title": "Scholarship Application",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi, Mr. Davis. Thanks for seeing me. I wanted to ask about the study abroad scholarship for next semester."
+        ],
+        [
+          "Advisor",
+          "Hello! Yes, the global scholars grant. The deadline is coming up in three weeks. Have you started the application?"
+        ],
+        [
+          "Student",
+          "I've filled out the basic forms and requested my transcripts, but I'm struggling with the personal statement. It asks how the program aligns with my career goals."
+        ],
+        [
+          "Advisor",
+          "That's the most critical part. Since you're an international relations major going to Japan, you should focus on your interest in East Asian trade policies."
+        ],
+        [
+          "Student",
+          "That makes sense. Should I also mention my minor in linguistics? I want to emphasize my language skills too."
+        ],
+        [
+          "Advisor",
+          "Absolutely. Highlighting your language proficiency shows you're prepared for cultural immersion. Write a draft this weekend and bring it to my office hours on Tuesday for review."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the main purpose of the conversation?",
+          "options": [
+            "To register for classes abroad.",
+            "To discuss a scholarship application.",
+            "To change the student's major.",
+            "To review a completed essay."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What part of the application is the student having trouble with?",
+          "options": [
+            "The personal statement.",
+            "The financial aid forms.",
+            "Requesting official transcripts.",
+            "Obtaining letters of recommendation."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the advisor suggest the student focus on in the essay?",
+          "options": [
+            "Their struggles with learning Japanese.",
+            "Their general interest in all cultures.",
+            "Their specific interest in East Asian trade policies.",
+            "Their need for financial assistance."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is the student supposed to do next?",
+          "options": [
+            "Submit the application immediately.",
+            "Write a draft and bring it in on Tuesday.",
+            "Change their minor to linguistics.",
+            "Contact the university in Japan."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_404",
+      "title": "Reporting a Broken Projector",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi, are you the building manager? I'm trying to set up for a guest lecture in Room 304, but the ceiling projector won't turn on."
+        ],
+        [
+          "Staff Member",
+          "Yes, I am. Did you check if the control panel on the wall is receiving power? Sometimes it needs to be reset."
+        ],
+        [
+          "Student",
+          "I checked the panel, and the lights are on, but when I hit 'Power', the projector just beeps and flashes a red light. It doesn't project anything."
+        ],
+        [
+          "Staff Member",
+          "Ah, a flashing red light usually means the bulb has burned out or overheated. We had a problem with that unit last week as well."
+        ],
+        [
+          "Student",
+          "The lecture starts in twenty minutes, and the speaker has a lot of slides. What can we do?"
+        ],
+        [
+          "Staff Member",
+          "Don't worry. I have a portable projector on a cart in the storage room. I'll bring it up to 304 right now so you can get set up in time."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why is the student talking to the staff member?",
+          "options": [
+            "To report a problem with the classroom lighting.",
+            "To ask for help operating a ceiling projector.",
+            "To reserve Room 304 for a guest lecture.",
+            "To report that a projector is not working."
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What does the flashing red light on the projector indicate?",
+          "options": [
+            "The control panel needs to be reset.",
+            "The projector is turned off.",
+            "The bulb has likely burned out or overheated.",
+            "The projector is currently cooling down."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How does the student feel about the situation?",
+          "options": [
+            "Relieved that the lecture is cancelled.",
+            "Anxious because the lecture starts very soon.",
+            "Confused about how to use the control panel.",
+            "Angry that the staff member is unhelpful."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How will the staff member solve the problem?",
+          "options": [
+            "By replacing the bulb in the ceiling projector.",
+            "By moving the lecture to a different room.",
+            "By providing a portable projector on a cart.",
+            "By calling technical support immediately."
+          ],
+          "answer": 2
+        }
+      ]
     }
   ],
   "announcements": [
@@ -2066,6 +3368,191 @@
             "The weather forecast"
           ],
           "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_301",
+      "title": "Campus Water Outage Notice",
+      "text": "Attention all students and staff. Please be advised that there will be a temporary water outage on the East Campus tomorrow, Tuesday, from 9:00 AM to 2:00 PM. This is due to emergency maintenance work on the main water line near the Science Building. During this time, the restrooms and drinking fountains in the Science Building, the Engineering Annex, and East Hall dormitories will be out of service. Bottled water stations will be set up in the lobbies of these buildings. The cafeteria will remain open but will serve a limited menu. We apologize for the inconvenience and appreciate your cooperation.",
+      "questions": [
+        {
+          "q": "What is the purpose of the announcement?",
+          "options": [
+            "To inform the campus about a temporary water shutoff.",
+            "To announce the opening of a new water line.",
+            "To warn students about contaminated drinking water.",
+            "To promote a new brand of bottled water on campus."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why is the water being shut off?",
+          "options": [
+            "To save money on utility bills.",
+            "To upgrade the cafeteria kitchen.",
+            "To perform emergency maintenance on a water line.",
+            "To clean the restrooms in the Science Building."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What provision has been made for people in the affected buildings?",
+          "options": [
+            "The cafeteria will offer free meals.",
+            "Bottled water stations will be available in the lobbies.",
+            "Classes in those buildings will be canceled.",
+            "Portable restrooms will be placed outside."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_302",
+      "title": "Library Extended Hours Announcement",
+      "text": "To support students during the upcoming final exam period, the University Main Library is pleased to announce extended operating hours. Starting next Monday, the library will remain open 24 hours a day, seven days a week, for the next three weeks. Additionally, the reference desk will be staffed until midnight every evening, and free coffee will be provided in the ground floor lounge after 10:00 PM. Please remember that you must show a valid student ID to enter the building after 8:00 PM for security reasons. Good luck with your studies!",
+      "questions": [
+        {
+          "q": "What change is being announced regarding the library?",
+          "options": [
+            "The library is permanently changing its opening hours.",
+            "The library will be open 24/7 during the final exam period.",
+            "The library is closing early for renovations.",
+            "The library will require an entrance fee."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Until what time will the reference desk be staffed during this period?",
+          "options": [
+            "8:00 PM",
+            "10:00 PM",
+            "Midnight",
+            "It will be unstaffed."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is required to enter the library after 8:00 PM?",
+          "options": [
+            "A special exam permit.",
+            "A valid student ID.",
+            "A library membership card.",
+            "A reservation for a study room."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_401",
+      "title": "Campus Power Maintenance",
+      "text": "Attention all students and faculty. This is a notification from the Facilities Management Office regarding scheduled electrical maintenance. On Saturday, October 15th, there will be a campus-wide power outage from 6:00 AM to 10:00 AM. This outage is necessary to upgrade our main transformers and improve the reliability of the electrical grid before the winter season. During this four-hour window, all academic buildings, dormitories, and dining halls will be without electricity. Please ensure that all sensitive electronic equipment, such as computers and lab instruments, are properly shut down and unplugged by Friday night to prevent any potential damage from power surges when the system is brought back online. The library will remain closed until noon on Saturday to allow staff time to reboot systems. We apologize for the inconvenience and appreciate your cooperation.",
+      "questions": [
+        {
+          "q": "What is the primary purpose of the announcement?",
+          "options": [
+            "To announce the closure of the campus library.",
+            "To inform the campus about an upcoming power outage.",
+            "To provide instructions on winterizing dorm rooms.",
+            "To warn students about unexpected power surges."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why is the power outage necessary?",
+          "options": [
+            "To repair damage caused by a recent winter storm.",
+            "To upgrade main transformers and improve grid reliability.",
+            "To install new electronic equipment in the labs.",
+            "To perform routine cleaning of the dining halls."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What are students and faculty asked to do by Friday night?",
+          "options": [
+            "Shut down and unplug sensitive electronic equipment.",
+            "Evacuate the dormitories for the weekend.",
+            "Report to the library to help reboot systems.",
+            "Finish all assignments before the weekend."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_402",
+      "title": "Student ID Photo Retakes",
+      "text": "Attention students. The Campus Card Services office has an important announcement regarding student ID cards for the incoming freshman class. Due to a technical glitch with the camera system during orientation week, a significant number of ID photos printed with extremely low resolution, making them difficult to verify. If your ID card has a blurry or distorted photograph, you must come to the student union building for a photo retake. Retakes will be held in Room 102 from Monday through Wednesday next week, between the hours of 10 AM and 4 PM. There is no fee for the replacement card, but you must bring your current, blurry ID card to exchange it. Please take care of this promptly, as building security and dining services will stop accepting the defective cards at the end of the month.",
+      "questions": [
+        {
+          "q": "What caused the problem with the student ID cards?",
+          "options": [
+            "Students provided low-quality photos.",
+            "The card printer ran out of ink.",
+            "A technical glitch with the camera system.",
+            "The ID cards were damaged in the mail."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What must students bring with them to get a new ID?",
+          "options": [
+            "A fee for the replacement card.",
+            "Their current, defective ID card.",
+            "Their class schedule for the semester.",
+            "A government-issued photo ID."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What will happen if students do not replace their defective cards?",
+          "options": [
+            "They will be charged a late fee.",
+            "They will have to retake their orientation.",
+            "They will be unable to register for classes.",
+            "Their cards will not be accepted at the end of the month."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "ann_403",
+      "title": "New Campus Recycling Bins",
+      "text": "Good morning campus community. The Sustainability Committee is excited to announce a major update to our campus waste management system. Starting this Monday, you will notice new, color-coded recycling and waste stations installed in all major academic buildings and outdoor quads. The new system replaces the old single-stream bins with a three-bin sorting system. The blue bins are strictly for paper and cardboard, the green bins are for clean plastic bottles and aluminum cans, and the black bins are for general landfill waste. We've made this change because our local recycling facility is no longer accepting mixed recyclables due to high contamination rates. Please take an extra moment to read the signs above the bins before disposing of your items. Your cooperation is essential in helping our university reach its goal of zero waste by 2030.",
+      "questions": [
+        {
+          "q": "What is the main topic of the announcement?",
+          "options": [
+            "A new color-coded waste sorting system.",
+            "The closure of the local recycling facility.",
+            "A ban on plastic bottles on campus.",
+            "The university's new sustainability committee."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why is the university changing its recycling system?",
+          "options": [
+            "The old bins were damaged and needed replacing.",
+            "To create jobs for students on campus.",
+            "The local facility no longer accepts mixed recyclables.",
+            "The university received a grant for new bins."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What should be placed in the green bins?",
+          "options": [
+            "Paper and cardboard.",
+            "Clean plastic bottles and aluminum cans.",
+            "General landfill waste.",
+            "Food waste and compostables."
+          ],
+          "answer": 1
         }
       ]
     }
@@ -2325,6 +3812,234 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "talk_301",
+      "title": "Photosynthesis Adaptations in Desert Plants",
+      "text": "Today, we're going to examine how plants survive in some of the most extreme environments on Earth, specifically deserts. As you know, photosynthesis requires water, which is incredibly scarce in arid regions. To cope with this, desert plants have developed fascinating adaptations, most notably CAM photosynthesis. CAM stands for Crassulacean Acid Metabolism. Unlike most plants that open their stomata—the tiny pores on their leaves—during the day to take in carbon dioxide, CAM plants keep their stomata closed during the hot, dry daylight hours. This prevents severe water loss through transpiration. Instead, they open their stomata at night when temperatures drop and humidity rises. They take in carbon dioxide in the dark, store it as a four-carbon acid, and then use it the next day for photosynthesis while keeping their pores tightly shut. This remarkable timing mechanism allows plants like cacti and succulents to thrive in environments where typical plants would quickly dehydrate.",
+      "questions": [
+        {
+          "q": "What is the main topic of the lecture?",
+          "options": [
+            "The various types of deserts around the world.",
+            "How desert plants adapt their photosynthetic process to conserve water.",
+            "Why plants need carbon dioxide for survival.",
+            "The different species of cacti found in arid regions."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the speaker, what is the main problem desert plants face during photosynthesis?",
+          "options": [
+            "A lack of sunlight.",
+            "Too much carbon dioxide in the air.",
+            "Severe water loss through open stomata.",
+            "Freezing temperatures at night."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does CAM stand for?",
+          "options": [
+            "Carbon Absorption Mechanism.",
+            "Crassulacean Acid Metabolism.",
+            "Cacti Adaptation Method.",
+            "Cellular Arid Maintenance."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "When do CAM plants open their stomata?",
+          "options": [
+            "During the hottest part of the day.",
+            "Only when it rains.",
+            "At night, when it is cooler.",
+            "Continuously throughout the day and night."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about non-CAM plants placed in a desert environment?",
+          "options": [
+            "They would easily adapt and change into CAM plants.",
+            "They would likely dehydrate because they open their stomata during the day.",
+            "They would absorb more carbon dioxide than cacti.",
+            "They would only perform photosynthesis at night."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "talk_302",
+      "title": "Social Structure of Ancient Roman Cities",
+      "text": "Let's turn our attention to the urban life of ancient Rome, focusing particularly on its rigid social structure. Roman society was deeply hierarchical, and this was visibly reflected in the layout and functioning of their cities. At the top of the hierarchy were the patricians, the wealthy elite who traced their lineage back to the founding of Rome. They lived in sprawling, luxurious houses called domus, often situated on desirable hillsides. Below them were the plebeians, the common citizens—shopkeepers, artisans, and farmers. The vast majority of plebeians lived in insulae, which were multi-story apartment buildings. These structures were often poorly built, prone to fires, and lacked basic amenities like running water, which was a luxury reserved for the ground floor or the patrician homes. Even further down the social ladder were freedmen, who were emancipated slaves, and finally, the slaves themselves, who made up a significant portion of the urban population and performed much of the city's manual labor and domestic service. This stark division of wealth and status was woven into the very fabric of everyday Roman life.",
+      "questions": [
+        {
+          "q": "What is the primary focus of the lecture?",
+          "options": [
+            "The military conquests of the Roman Empire.",
+            "The architectural innovations of Roman engineers.",
+            "The hierarchical social structure within ancient Roman cities.",
+            "The economic policies of the Roman Republic."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Who were the patricians in ancient Roman society?",
+          "options": [
+            "Common citizens like artisans and farmers.",
+            "Emancipated slaves.",
+            "The wealthy elite with ancestral ties to Rome's founding.",
+            "Foreign merchants living in the city."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What were the living conditions like for most plebeians?",
+          "options": [
+            "They lived in luxurious houses on hillsides.",
+            "They resided in multi-story apartment buildings called insulae.",
+            "They shared large estates with the patricians.",
+            "They lived exclusively in rural areas outside the city."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the lecture, what was a common danger associated with the insulae?",
+          "options": [
+            "They were frequently attacked by invaders.",
+            "They were prone to fires and poorly constructed.",
+            "They were located too far from the city center.",
+            "They were too expensive for most people to afford."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What role did slaves play in the urban population?",
+          "options": [
+            "They made up a large part of the population and did manual and domestic labor.",
+            "They were a small minority primarily working as scribes.",
+            "They served as political advisors to the patricians.",
+            "They were strictly used for agricultural work outside the cities."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "talk_401",
+      "title": "Deep-Sea Hydrothermal Vents and Chemosynthesis",
+      "text": "In today's lecture, we're going to dive deep—literally—to the bottom of the ocean to discuss one of the most fascinating discoveries in marine biology: hydrothermal vents and the ecosystems they support. For a long time, scientists believed that all life on Earth was fundamentally dependent on the sun. The process of photosynthesis, where plants convert sunlight into energy, was thought to be the absolute base of every food web. However, in 1977, researchers exploring the Galapagos Rift in a deep-sea submersible found something that shattered that assumption. \n\nThey discovered hydrothermal vents—essentially underwater geysers. These vents are located along mid-ocean ridges where tectonic plates are pulling apart. Seawater seeps into the cracks, gets superheated by the magma beneath the Earth's crust, and then shoots back up, carrying a massive amount of dissolved minerals, particularly hydrogen sulfide. Now, the environment around these vents is extreme: it's pitch black, the pressure is crushing, and the water temperatures can reach up to 400 degrees Celsius. \n\nYet, despite these harsh conditions, the researchers found thriving ecosystems. They saw giant tube worms, blind shrimp, and pale crabs. The question was: without sunlight, what was at the base of this food web? The answer is chemosynthesis. Instead of using light energy to produce organic matter, specialized bacteria living around the vents use the chemical energy from the hydrogen sulfide. These chemosynthetic bacteria form thick mats, and they are either eaten directly by small organisms or live symbiotically within larger creatures, like the giant tube worms, providing them with nutrients. This discovery was revolutionary because it proved that life could exist independently of the sun, expanding our understanding of biology and even informing our search for extraterrestrial life on icy moons like Europa.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the lecture?",
+          "options": [
+            "To describe the process of photosynthesis in marine plants.",
+            "To explain how tectonic plates form mid-ocean ridges.",
+            "To discuss an ecosystem that relies on chemical energy rather than sunlight.",
+            "To recount the history of deep-sea exploration submersibles."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What did scientists believe before the discovery of hydrothermal vents?",
+          "options": [
+            "That the deep ocean was entirely devoid of life.",
+            "That all life on Earth depended on the sun.",
+            "That hydrothermal vents only existed near the equator.",
+            "That chemosynthesis was a common biological process."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What chemical is primarily used by bacteria at hydrothermal vents to create energy?",
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen sulfide",
+            "Nitrogen"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "According to the professor, how do giant tube worms get their nutrients?",
+          "options": [
+            "They filter microscopic plants from the water.",
+            "They prey on blind shrimp and pale crabs.",
+            "They have chemosynthetic bacteria living inside them.",
+            "They absorb minerals directly from the superheated water."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about the search for extraterrestrial life based on this lecture?",
+          "options": [
+            "It is currently focused on finding planets with abundant sunlight.",
+            "It has been largely abandoned due to a lack of funding.",
+            "It may target extreme environments previously thought uninhabitable.",
+            "It has already discovered chemosynthetic bacteria on other planets."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "talk_402",
+      "title": "The Development of Written Musical Notation",
+      "text": "Today, we're going to trace the evolution of written musical notation in Western culture. If you look at a modern sheet of music, you see a complex system of staves, clefs, notes, and rests that convey precise information about pitch and rhythm. But this system took centuries to develop. \n\nIn the early Middle Ages, music, primarily Gregorian chant in the church, was transmitted orally. Monks learned melodies by ear and memorized them. However, as the repertoire of chants grew to the thousands, relying solely on memory became impractical. The earliest attempt to solve this problem emerged around the 9th century with the use of 'neumes'. Neumes were simple symbols—dots and squiggles—placed above the text. They didn't indicate exact notes; instead, they showed the general contour of the melody—whether the pitch went up, down, or stayed the same. They functioned mainly as a memory aid for singers who already knew the basic tune.\n\nThe major breakthrough came in the 11th century with a monk named Guido of Arezzo. Guido introduced the concept of the staff. Initially, it was just one or two horizontal lines, but it eventually evolved into the four-line staff used for plainchant. By placing neumes on or between these lines, the exact pitch could finally be indicated. This was a revolution. Singers could now sight-read melodies they had never heard before. \n\nHowever, Guido's system had a limitation: it indicated pitch, but not rhythm. All notes were essentially sung with equal duration. It wasn't until the 13th century, with the rise of polyphony—music with multiple independent voices—that indicating exact rhythm became crucial. If singers were going to sing different melodies simultaneously, they had to be perfectly synchronized. This led to mensural notation, where different note shapes indicated different durations. Over the following centuries, this evolved into the modern round note heads and the complex rhythmic system we use today, allowing composers to communicate their musical ideas with incredible precision.",
+      "questions": [
+        {
+          "q": "What is the main topic of the lecture?",
+          "options": [
+            "The life and musical contributions of Guido of Arezzo.",
+            "The history of Gregorian chant in the early Middle Ages.",
+            "The historical development of musical notation systems.",
+            "The differences between monophonic and polyphonic music."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why was the earliest form of musical notation created?",
+          "options": [
+            "To allow composers to sell their music to the public.",
+            "To help monks remember a growing number of melodies.",
+            "To teach children how to sing in church choirs.",
+            "To record the precise rhythms of popular folk songs."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What limitation did 'neumes' have when they were first used?",
+          "options": [
+            "They could only be written by skilled monks.",
+            "They did not show the exact pitches of the notes.",
+            "They took up too much space on the parchment.",
+            "They were only used for secular music."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the significant contribution of Guido of Arezzo?",
+          "options": [
+            "He invented polyphonic music.",
+            "He created the first musical instruments.",
+            "He introduced the use of horizontal lines for pitch.",
+            "He developed note shapes to indicate rhythm."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "According to the professor, what musical development necessitated the invention of rhythmic notation?",
+          "options": [
+            "The invention of the printing press.",
+            "The transition from sacred to secular music.",
+            "The desire to sing faster tempos.",
+            "The rise of music with multiple independent voices."
+          ],
+          "answer": 3
+        }
+      ]
     }
   ],
   "build_sentence": [
@@ -2525,6 +4240,141 @@
         "when messages are adapted",
         "to local communities"
       ]
+    },
+    {
+      "id": "bs_301",
+      "parts": [
+        "The university library",
+        "has recently expanded",
+        "its digital archives",
+        "to better support online learners."
+      ]
+    },
+    {
+      "id": "bs_302",
+      "parts": [
+        "Despite the heavy rain,",
+        "the campus shuttle service",
+        "continued operating",
+        "without any major delays."
+      ]
+    },
+    {
+      "id": "bs_303",
+      "parts": [
+        "Several student organizations",
+        "are collaborating",
+        "to host a charity event",
+        "at the end of the semester."
+      ]
+    },
+    {
+      "id": "bs_304",
+      "parts": [
+        "The professor explained",
+        "how climate change",
+        "significantly impacts",
+        "global agricultural production."
+      ]
+    },
+    {
+      "id": "bs_305",
+      "parts": [
+        "Because of the holiday schedule,",
+        "the financial aid office",
+        "will remain closed",
+        "until next Monday morning."
+      ]
+    },
+    {
+      "id": "bs_401",
+      "parts": [
+        "Although the initial hypothesis was promising,",
+        "the subsequent experiments",
+        "failed to produce",
+        "the expected results."
+      ]
+    },
+    {
+      "id": "bs_402",
+      "parts": [
+        "Many incoming freshmen",
+        "find the transition",
+        "to university life",
+        "both exciting and challenging."
+      ]
+    },
+    {
+      "id": "bs_403",
+      "parts": [
+        "The updated laboratory equipment",
+        "was recently installed",
+        "to enhance the safety",
+        "of chemical experiments."
+      ]
+    },
+    {
+      "id": "bs_404",
+      "parts": [
+        "Due to severe weather conditions,",
+        "all evening classes",
+        "have been canceled",
+        "until further notice."
+      ]
+    },
+    {
+      "id": "bs_405",
+      "parts": [
+        "Students who wish to apply",
+        "for the summer internship",
+        "must submit their resumes",
+        "by the end of the week."
+      ]
+    },
+    {
+      "id": "bs_406",
+      "parts": [
+        "The professor emphasized",
+        "that regular attendance",
+        "is absolutely essential",
+        "for passing the course."
+      ]
+    },
+    {
+      "id": "bs_407",
+      "parts": [
+        "To fully comprehend the text,",
+        "it is highly recommended",
+        "to review the vocabulary",
+        "before the lecture begins."
+      ]
+    },
+    {
+      "id": "bs_408",
+      "parts": [
+        "A significant portion of the budget",
+        "was allocated to",
+        "improving the digital infrastructure",
+        "of the central library."
+      ]
+    },
+    {
+      "id": "bs_409",
+      "parts": [
+        "Before writing the final essay,",
+        "students are required",
+        "to outline their arguments",
+        "and consult with a tutor."
+      ]
+    },
+    {
+      "id": "bs_410",
+      "parts": [
+        "The newly proposed policy",
+        "has sparked a debate",
+        "among faculty members",
+        "regarding academic freedom."
+      ]
     }
   ],
   "email": [
@@ -2539,6 +4389,14 @@
     {
       "id": "we_201",
       "prompt": "You borrowed a piece of equipment from a campus media center, but it stopped working during an important class project. Write an email to the media center explaining what happened, how it affected your project, and asking what you should do next."
+    },
+    {
+      "id": "we_301",
+      "prompt": "You are the president of the university's film club. The university has recently announced a significant budget cut for student organizations, which means your club won't be able to afford the equipment you planned to rent for the upcoming film festival. Write an email to the Director of Student Affairs explaining the importance of the film festival and requesting alternative funding or a partial exemption from the budget cut."
+    },
+    {
+      "id": "we_401",
+      "prompt": "You recently discovered that the campus bookstore ordered the second edition of your chemistry textbook instead of the required third edition. Write an email to the bookstore manager explaining the issue, describing how this affects your class, and asking how they plan to resolve the situation."
     }
   ],
   "discussion": [
@@ -2553,6 +4411,14 @@
     {
       "id": "ad_201",
       "prompt": "Your professor is discussing whether university courses should include more assignments completed with artificial intelligence tools. Do you think this would help students learn, or should such tools be limited in most classes? Explain your view with reasons."
+    },
+    {
+      "id": "ad_301",
+      "prompt": "Your professor is teaching a class on sociology. Write a post responding to the professor's question: 'Some researchers argue that the shift toward remote work and online education has led to a decrease in meaningful social interactions, while others believe it has simply changed the way we connect, allowing for more diverse global communities. In your opinion, has the rise of digital communication had a mostly positive or negative effect on our social lives? Explain your reasoning.'"
+    },
+    {
+      "id": "ad_401",
+      "prompt": "Some people believe that universities should give priority to practical career training to prepare students for the workforce. Others argue that theoretical academic courses are more important for developing critical thinking. Which view do you support? Explain your reasoning with specific examples."
     }
   ],
   "repeat": [
@@ -2611,6 +4477,46 @@
     {
       "id": "rep_206",
       "text": "Participants may withdraw from the study at any time without losing course credit."
+    },
+    {
+      "id": "rep_301",
+      "text": "The comprehensive exam will cover all the material discussed during the first half of the semester."
+    },
+    {
+      "id": "rep_302",
+      "text": "Students who wish to participate in the study abroad program must submit their applications by Friday."
+    },
+    {
+      "id": "rep_303",
+      "text": "Although the experiment yielded unexpected results, the research team considered it a valuable learning experience."
+    },
+    {
+      "id": "rep_304",
+      "text": "Please ensure that your laboratory reports are properly formatted and include all relevant data tables."
+    },
+    {
+      "id": "rep_401",
+      "text": "The administration announced that the new science center will open next semester."
+    },
+    {
+      "id": "rep_402",
+      "text": "Before conducting the experiment, make sure to calibrate all of the sensitive instruments carefully."
+    },
+    {
+      "id": "rep_403",
+      "text": "Students are encouraged to participate in extracurricular activities to build a well-rounded resume."
+    },
+    {
+      "id": "rep_404",
+      "text": "The library's extensive collection of rare manuscripts is now available in a digital format."
+    },
+    {
+      "id": "rep_405",
+      "text": "An essential part of the curriculum involves applying theoretical knowledge to real-world scenarios."
+    },
+    {
+      "id": "rep_406",
+      "text": "If you require an extension on your assignment, you must contact your professor immediately."
     }
   ],
   "interview": [
@@ -2661,6 +4567,38 @@
     {
       "id": "int_205",
       "prompt": "Describe a technology that has made your daily life or studies easier. How do you use it?"
+    },
+    {
+      "id": "int_301",
+      "prompt": "Some universities require all first-year students to live in on-campus dormitories, while others allow them to live off-campus in private apartments. Which policy do you think is better and why? Include specific details and examples in your response."
+    },
+    {
+      "id": "int_302",
+      "prompt": "Describe a time when you had to work with someone who had a very different working style from your own. How did you handle the situation, and what did you learn from the experience?"
+    },
+    {
+      "id": "int_303",
+      "prompt": "Do you agree or disagree with the following statement? 'It is more important for a university professor to be an excellent researcher than to be an excellent teacher.' Use specific reasons and examples to support your opinion."
+    },
+    {
+      "id": "int_401",
+      "prompt": "Do you prefer to take a wide variety of classes in different subjects, or focus mainly on classes closely related to your major? Explain why."
+    },
+    {
+      "id": "int_402",
+      "prompt": "Some students prefer to study early in the morning, while others prefer to study late at night. Which do you prefer and why?"
+    },
+    {
+      "id": "int_403",
+      "prompt": "Do you think it is better to take exams that consist of multiple-choice questions or exams that require writing essays? Support your opinion."
+    },
+    {
+      "id": "int_404",
+      "prompt": "Describe a time when you had to adapt to a major change in your life. How did you handle the situation and what did you learn?"
+    },
+    {
+      "id": "int_405",
+      "prompt": "Some people think that traveling to other countries is the best way to learn about different cultures, while others believe reading books or watching documentaries is sufficient. Which view do you agree with?"
     }
   ]
 }
