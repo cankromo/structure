@@ -88,6 +88,10 @@ Do not label this distribution as official ETS distribution.
 - Before creating a new full mock, read `references/FULL_MOCK_CREATION.md` and follow its validation and quality rules.
 - Before generating Complete the Words items, read `references/COMPLETE_WORDS_STYLE.md`.
 - Before generating Read in Daily Life items, read `references/READ_IN_DAILY_LIFE_STYLE.md`.
+- Before generating Academic Passage items, read `references/ACADEMIC_PASSAGE_STYLE.md`.
+- Before generating Build a Sentence items, read `references/BUILD_SENTENCE_STYLE.md`.
+- Before generating Write an Email items, read `references/WRITE_EMAIL_STYLE.md`.
+- Before generating Academic Discussion writing items, read `references/ACADEMIC_DISCUSSION_STYLE.md`.
 - Do not add new questions unless the content follows the quality rules in the relevant reference file.
 
 ## Schema Rules

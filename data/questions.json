@@ -196,6 +196,42 @@
         "tial",
         "tage"
       ]
+    },
+    {
+      "id": "cw_501",
+      "title": "Forest Soil Networks",
+      "topic": "Ecology",
+      "difficulty": "B2-C1",
+      "text": "Forest soils contain living networks that help trees obtain water and nutrients. Beneath the surface, fungal comm_______ exch____ minerals with tree roots and receive sugars in return. These relationships can improve seedling surviv__ during dry seasons, when moisture is limited. Some fungi release chem____ signals that warn nearby plants about insect attacks or dam____ tissue. Because many species are mutu____ depend___, a disturbance in one part of the forest may reduce the resil_____ of the whole ecosystem. Researchers are still learning how these underground connect____ influence recovery after fires and other distur______.",
+      "answers": [
+        "unities",
+        "ange",
+        "al",
+        "ical",
+        "aged",
+        "ally",
+        "ent",
+        "ience",
+        "ions",
+        "bances"
+      ]
+    },
+    {
+      "id": "cw_502",
+      "title": "Ancient Trade Routes",
+      "topic": "History",
+      "difficulty": "B2-C1",
+      "text": "Ancient trade routes connected distant societies long before modern transportation existed. Merch____ carried cloth, spices, metals, and ideas across deserts, mountains, and seas. These journ___ were often dangerous, but the exch____ of goods made them valuable to many reg____. Archaeological evid____ from ports and market towns reveal__ that trade also changed local art and food. As merchants learned new languages and customs, cult____ connections became stronger. Over time, these networks grad_____ encouraged cities to grow, while rulers used taxes on trade to support roads, walls, and public buildings.",
+      "answers": [
+        "ants",
+        "eys",
+        "ange",
+        "ions",
+        "ence",
+        "ed",
+        "ural",
+        "ually"
+      ]
     }
   ],
   "daily_life": [
@@ -762,6 +798,104 @@
             "In a green bin",
             "At the specialized recycling center",
             "In any residence hall trash can"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "rdl_501",
+      "title": "Campus Compost Program Email",
+      "topic": "campus",
+      "difficulty": "B2-C1",
+      "text": "Subject: New Compost Collection in Residence Halls\n\nDear Students,\n\nBeginning Monday, the Office of Sustainability will place small compost collection bins in the kitchens of all residence halls. The bins are for fruit and vegetable scraps, coffee grounds, tea bags, and plain paper napkins. Please do not place meat, dairy products, plastic containers, or metal utensils in the bins.\n\nResident assistants will hold ten-minute demonstrations during floor meetings this week to explain how the program works. Students who want to volunteer may help transport full bins to the garden behind North Hall on Friday afternoons. The garden team will use the compost to improve soil for next spring's vegetable beds.\n\nThank you for helping reduce food waste on campus.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the email?",
+          "options": [
+            "To announce a new food-waste collection program in residence halls.",
+            "To ask students to donate vegetables to a campus garden.",
+            "To explain why the dining hall menu will change next spring.",
+            "To warn students about new kitchen-cleaning penalties."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which item is appropriate to put in the new bins?",
+          "options": [
+            "A plastic coffee cup",
+            "A plain paper napkin",
+            "A metal fork",
+            "A piece of cheese"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What can be inferred about the demonstrations?",
+          "options": [
+            "They are intended to make the program easier for students to follow.",
+            "They are required before students can live in residence halls.",
+            "They will be led by the garden team every Friday afternoon.",
+            "They will replace regular floor meetings for the semester."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will happen to the collected compost?",
+          "options": [
+            "It will be sold to local farmers.",
+            "It will be used to improve soil in a campus garden.",
+            "It will be stored in residence hall kitchens until spring.",
+            "It will be delivered to the dining hall."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_502",
+      "title": "Shuttle Schedule Notice",
+      "topic": "transportation",
+      "difficulty": "B2-C1",
+      "text": "Campus Transportation Notice\n\nStarting next Tuesday, the East Campus shuttle will follow a revised evening schedule because of construction near the science complex. Between 6:00 p.m. and 10:00 p.m., buses will stop at the temporary sign outside Miller Library instead of the usual stop on Oak Street. Morning and afternoon service will not change.\n\nStudents traveling to the recreation center should allow an extra five minutes, since buses will take a short detour around the construction zone. The revised evening route is expected to remain in effect for three weeks. Updated route maps will be posted inside each shuttle and on the transportation website by Monday evening.",
+      "questions": [
+        {
+          "q": "What is the notice mainly about?",
+          "options": [
+            "A temporary change to an evening shuttle route.",
+            "A permanent cancellation of East Campus service.",
+            "A new shuttle route to Miller Library.",
+            "A delay in building the recreation center."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where should students catch the evening shuttle during the change?",
+          "options": [
+            "At the science complex entrance",
+            "At the usual Oak Street stop",
+            "Outside Miller Library",
+            "Behind the recreation center"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about morning shuttle service?",
+          "options": [
+            "It will use larger buses for three weeks.",
+            "It will continue according to the normal route.",
+            "It will begin five minutes earlier than usual.",
+            "It will stop only at the recreation center."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why should students going to the recreation center allow extra time?",
+          "options": [
+            "The shuttle will stop at every residence hall.",
+            "They must walk from Oak Street after 6:00 p.m.",
+            "The route will include a detour around construction.",
+            "Route maps will not be available until next week."
           ],
           "answer": 2
         }
@@ -1554,6 +1688,104 @@
             "They frequently artificially fertilize their soil to compensate for volcanic ash."
           ],
           "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rap_501",
+      "title": "Microplastics in Freshwater Systems",
+      "topic": "Environmental Science",
+      "difficulty": "C1",
+      "text": "Microplastics, tiny plastic fragments less than five millimeters wide, are now found not only in oceans but also in rivers and lakes. These particles come from many sources, including synthetic clothing fibers, degraded packaging, and particles washed from road surfaces during storms. Because freshwater systems often supply drinking water and support local fisheries, the presence of microplastics has become a growing concern for researchers and public officials.\n\nOnce microplastics enter a river, they do not all behave in the same way. Some fragments float near the surface, while denser particles sink and become mixed with sediment. Aquatic organisms may mistake these particles for food, which can reduce feeding efficiency or expose the organisms to chemical additives. Although the long-term effects are still being studied, laboratory experiments suggest that smaller particles may move through food webs more easily than larger pieces.\n\nResearchers are testing several strategies to limit microplastic pollution. Improved wastewater filters can capture fibers before they reach rivers, and public campaigns can reduce single-use plastic consumption. However, scientists emphasize that no single method is sufficient. Because the sources of microplastics are varied, effective solutions require changes in product design, waste management, and individual behavior.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the passage?",
+          "options": [
+            "To compare ocean pollution with river pollution.",
+            "To explain sources, effects, and possible responses to freshwater microplastics.",
+            "To argue that microplastics are harmless in most freshwater systems.",
+            "To describe how fisheries can remove plastic from rivers."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The word \"degraded\" in the passage is closest in meaning to",
+          "options": [
+            "broken down",
+            "carefully stored",
+            "newly designed",
+            "officially tested"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "According to the passage, why may smaller particles be especially concerning?",
+          "options": [
+            "They are always denser than larger plastic pieces.",
+            "They may move through food webs more easily.",
+            "They can be removed completely by public campaigns.",
+            "They form only in drinking-water pipes."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the author mention improved wastewater filters?",
+          "options": [
+            "To give an example of a strategy for reducing microplastic pollution.",
+            "To show that individual behavior is no longer important.",
+            "To explain why plastic particles sink into sediment.",
+            "To identify the main source of particles from road surfaces."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_502",
+      "title": "Oral Histories in Historical Research",
+      "topic": "History",
+      "difficulty": "C1",
+      "text": "Oral history is a research method in which historians record and analyze spoken memories of people who experienced particular events or social conditions. Unlike official documents, oral accounts can reveal how individuals understood changes in their own lives. For this reason, oral histories are especially valuable when researchers study communities that left few written records or whose experiences were not fully represented in government archives.\n\nThe method, however, requires careful interpretation. Human memory is selective, and people may remember events differently over time. Interviewees may emphasize moments that became meaningful later, while forgetting ordinary details that historians would like to know. Rather than treating these limitations as reasons to reject oral history, many scholars examine them as evidence of how people construct meaning from the past.\n\nOral histories can also broaden the kinds of questions historians ask. A factory closure, for example, may be documented in economic reports, but interviews with former workers can show how the closure affected family routines, neighborhood relationships, and personal identity. When combined with written sources, oral histories provide a richer and more complex picture of historical change.",
+      "questions": [
+        {
+          "q": "What does the passage mainly discuss?",
+          "options": [
+            "Why official documents are no longer useful to historians.",
+            "How oral histories can contribute to historical research despite challenges.",
+            "Why memories are more accurate than government archives.",
+            "How historians train people to improve their memories."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, oral histories are especially useful for studying communities that",
+          "options": [
+            "produced few written records.",
+            "avoided major social changes.",
+            "were already well represented in official reports.",
+            "preferred economic documents over interviews."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word \"selective\" in the passage is closest in meaning to",
+          "options": [
+            "complete",
+            "careful",
+            "limited",
+            "public"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention a factory closure?",
+          "options": [
+            "To show that oral histories can reveal personal and community effects not found in economic reports.",
+            "To argue that economic reports are usually inaccurate.",
+            "To describe the most common subject of oral-history interviews.",
+            "To explain why workers rarely participate in historical research."
+          ],
+          "answer": 0
         }
       ]
     }
@@ -4375,6 +4607,96 @@
         "among faculty members",
         "regarding academic freedom."
       ]
+    },
+    {
+      "id": "bs_501",
+      "parts": [
+        "do you know",
+        "whether the workshop",
+        "will be recorded",
+        "for students who cannot attend?"
+      ]
+    },
+    {
+      "id": "bs_502",
+      "parts": [
+        "can you tell me",
+        "if the application deadline",
+        "has been extended",
+        "until next Friday?"
+      ]
+    },
+    {
+      "id": "bs_503",
+      "parts": [
+        "which professor",
+        "is leading",
+        "the field trip",
+        "to the coastal research center?"
+      ]
+    },
+    {
+      "id": "bs_504",
+      "parts": [
+        "do you know",
+        "when the library",
+        "will reopen",
+        "after the renovation?"
+      ]
+    },
+    {
+      "id": "bs_505",
+      "parts": [
+        "can you tell me",
+        "whether first-year students",
+        "are allowed to register",
+        "for the advanced seminar?"
+      ]
+    },
+    {
+      "id": "bs_506",
+      "parts": [
+        "where do you plan",
+        "to meet the group",
+        "before the campus tour",
+        "starts tomorrow morning?"
+      ]
+    },
+    {
+      "id": "bs_507",
+      "parts": [
+        "do you know",
+        "if the museum exhibit",
+        "includes materials",
+        "from local archives?"
+      ]
+    },
+    {
+      "id": "bs_508",
+      "parts": [
+        "can you tell me",
+        "who is responsible",
+        "for updating the schedule",
+        "on the department website?"
+      ]
+    },
+    {
+      "id": "bs_509",
+      "parts": [
+        "do you know",
+        "whether the new shuttle route",
+        "stops near",
+        "the student recreation center?"
+      ]
+    },
+    {
+      "id": "bs_510",
+      "parts": [
+        "what time",
+        "does the guest lecture",
+        "begin",
+        "on Thursday evening?"
+      ]
     }
   ],
   "email": [
@@ -4397,6 +4719,14 @@
     {
       "id": "we_401",
       "prompt": "You recently discovered that the campus bookstore ordered the second edition of your chemistry textbook instead of the required third edition. Write an email to the bookstore manager explaining the issue, describing how this affects your class, and asking how they plan to resolve the situation."
+    },
+    {
+      "id": "we_501",
+      "prompt": "You borrowed a projector from the campus media office for a group presentation, but the projector would not connect to any of your laptops. Write an email to Ms. Rivera at the media office. In your email, describe the problem, explain how it affected your presentation, and ask what can be done to prevent the same issue for your next presentation. Write as much as you can and in complete sentences.\n\nTo: Ms. Rivera\nSubject: Problem with borrowed projector"
+    },
+    {
+      "id": "we_502",
+      "prompt": "You and your classmates want to organize a weekend volunteer event at a local community garden. You think your friend Jordan can help coordinate the plan. Write an email to Jordan. In your email, suggest a date and time for the event, explain what tasks volunteers would do, and ask Jordan to help contact classmates who might be interested. Write as much as you can and in complete sentences.\n\nTo: Jordan\nSubject: Volunteer event idea"
     }
   ],
   "discussion": [
@@ -4419,6 +4749,14 @@
     {
       "id": "ad_401",
       "prompt": "Some people believe that universities should give priority to practical career training to prepare students for the workforce. Others argue that theoretical academic courses are more important for developing critical thinking. Which view do you support? Explain your reasoning with specific examples."
+    },
+    {
+      "id": "ad_501",
+      "prompt": "Your professor is teaching a class on urban planning. Write a post responding to the professor's question.\n\nIn your response, you should do the following.\nExpress and support your opinion.\nMake a contribution to the discussion in your own words.\nAn effective response will contain at least 100 words.\n\nDr. Morgan\n\nThis week we are discussing transportation choices in growing cities. Some planners argue that cities should invest primarily in free public buses and trains, while others believe that building safer bicycle lanes would have a stronger effect on daily travel habits. Which investment do you think should be the higher priority for a city, and why?\n\nElena\tI would prioritize public transportation because it can serve people of many ages and physical abilities. If buses and trains are free and reliable, students, workers, and older residents can all benefit. Bike lanes are useful, but they do not help everyone equally.\n\nMarcus\tI think safer bike lanes can change a city more quickly. Many short car trips could be replaced by bicycle trips if people felt protected from traffic. Bike lanes are also less expensive to build than train systems, so cities could improve many neighborhoods at once."
+    },
+    {
+      "id": "ad_502",
+      "prompt": "Your professor is teaching a class on education. Write a post responding to the professor's question.\n\nIn your response, you should do the following.\nExpress and support your opinion.\nMake a contribution to the discussion in your own words.\nAn effective response will contain at least 100 words.\n\nDr. Patel\n\nMany universities now record lectures and make the videos available to students. Some instructors worry that this may reduce class attendance, while others believe recordings help students review difficult material. In your opinion, should recorded lectures be available in most university courses? Why or why not?\n\nNora\tI support lecture recordings because students often need to hear complex explanations more than once. Recordings are especially helpful for students who are learning in a second language or who have to miss class because of illness.\n\nBen\tI am not sure recordings should be used in every course. If students know they can watch a video later, they may stop attending class regularly. Live discussions and questions are important parts of learning that recordings cannot fully replace."
     }
   ],
   "repeat": [
