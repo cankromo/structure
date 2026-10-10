@@ -5552,6 +5552,174 @@
       "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
       "sequence": 7,
       "level": "Hard"
+    },
+    {
+      "id": "rep_501",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy",
+      "text": "Ask for the student order number."
+    },
+    {
+      "id": "rep_502",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy",
+      "text": "Check the name on the student card."
+    },
+    {
+      "id": "rep_503",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium",
+      "text": "Find the package on the pickup shelf."
+    },
+    {
+      "id": "rep_504",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium",
+      "text": "Scan the label before handing over the order."
+    },
+    {
+      "id": "rep_505",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium",
+      "text": "Tell the student to review the receipt carefully."
+    },
+    {
+      "id": "rep_506",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard",
+      "text": "If an item is missing, mark the order as incomplete in the system."
+    },
+    {
+      "id": "rep_507",
+      "scenario_id": "repeat_campus_bookstore_pickup",
+      "scenario_intro": "You are working at a campus bookstore. Your supervisor is teaching you how to help students pick up online orders. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard",
+      "text": "Ask the student to sign the form before leaving the pickup counter."
+    },
+    {
+      "id": "rep_508",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy",
+      "text": "Confirm the appointment time first."
+    },
+    {
+      "id": "rep_509",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy",
+      "text": "Ask the student to take a seat."
+    },
+    {
+      "id": "rep_510",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium",
+      "text": "Update the contact number on the screen."
+    },
+    {
+      "id": "rep_511",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium",
+      "text": "Print the form after checking the insurance information."
+    },
+    {
+      "id": "rep_512",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium",
+      "text": "Place the completed form in the blue folder."
+    },
+    {
+      "id": "rep_513",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard",
+      "text": "If the appointment is delayed, explain the wait time politely."
+    },
+    {
+      "id": "rep_514",
+      "scenario_id": "repeat_health_center_checkin",
+      "scenario_intro": "You are helping at a university health center. A staff member is explaining how to check in students for appointments. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard",
+      "text": "Call the nurse when the student has finished the check-in process."
+    },
+    {
+      "id": "rep_515",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy",
+      "text": "Put on your safety glasses."
+    },
+    {
+      "id": "rep_516",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy",
+      "text": "Clean the table before class starts."
+    },
+    {
+      "id": "rep_517",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium",
+      "text": "Place each sample beside the correct label."
+    },
+    {
+      "id": "rep_518",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium",
+      "text": "Turn on the monitor after connecting the cable."
+    },
+    {
+      "id": "rep_519",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium",
+      "text": "Record the temperature before the experiment begins."
+    },
+    {
+      "id": "rep_520",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard",
+      "text": "If the equipment overheats, shut it down and notify the instructor."
+    },
+    {
+      "id": "rep_521",
+      "scenario_id": "repeat_lab_equipment_training",
+      "scenario_intro": "You are assisting in a campus science lab. Your instructor is teaching you how to prepare equipment before a class demonstration. Listen to the instructor and repeat what the instructor says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard",
+      "text": "Return all materials to the storage cabinet when the demonstration is finished."
     }
   ],
   "interview": [
