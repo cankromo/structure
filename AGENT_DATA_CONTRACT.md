@@ -92,6 +92,7 @@ Do not label this distribution as official ETS distribution.
 - Before generating Build a Sentence items, read `references/BUILD_SENTENCE_STYLE.md`.
 - Before generating Write an Email items, read `references/WRITE_EMAIL_STYLE.md`.
 - Before generating Academic Discussion writing items, read `references/ACADEMIC_DISCUSSION_STYLE.md`.
+- Before generating Listen and Repeat items, read `references/SPEAKING_REPEAT_STYLE.md`.
 - Do not add new questions unless the content follows the quality rules in the relevant reference file.
 
 ## Schema Rules
