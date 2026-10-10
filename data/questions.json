@@ -232,6 +232,139 @@
         "ural",
         "ually"
       ]
+    },
+    {
+      "id": "cw_503",
+      "title": "Urban Tree Canopies",
+      "topic": "Environment",
+      "difficulty": "B2-C1",
+      "text": "Urban tree canopies provide benefits that extend beyond making streets more attractive. In crowded neigh________, trees can low__ surface temperatures by shading pavement and releasing moisture into the air. Their roots also abs___ storm water, which redu___ pressure on drainage systems after heavy rain. City planners increas_____ view trees as practical infrastructure, not simply decoration. However, maint______ is essential because unhealthy trees may become hazardous during storms. When species are chosen care_____, urban forests can support birds, improve air qual___, make public spaces more comf_______, and lower energy consump____ in nearby buildings.",
+      "answers": [
+        "borhoods",
+        "er",
+        "orb",
+        "ces",
+        "ingly",
+        "enance",
+        "fully",
+        "ity",
+        "ortable",
+        "tion"
+      ]
+    },
+    {
+      "id": "cw_504",
+      "title": "Memory and Sleep",
+      "topic": "Psychology",
+      "difficulty": "B2-C1",
+      "text": "Sleep plays an important role in how people store and organize new information. During certain stages of sleep, the brain react______ patterns linked to recent experiences. This process may stren_____ memories that are useful while gradually redu____ access to irrelevant details. Experiments show that students who review material before sleeping often rem_____ more the next day. Sleep also helps the brain connect new ideas with previ___ knowledge, a process known as consolid_____. Without enough rest, attention becomes less stab__, and problem solving may be signifi______ impaired. Researchers therefore argue that sleep should be seen as an active part of lear____ and perform____, not merely a break from it.",
+      "answers": [
+        "ivates",
+        "gthen",
+        "cing",
+        "ember",
+        "ous",
+        "ation",
+        "le",
+        "cantly",
+        "ning",
+        "ance"
+      ]
+    },
+    {
+      "id": "cw_505",
+      "title": "Coastal Erosion",
+      "topic": "Geology",
+      "difficulty": "B2-C1",
+      "answers": [
+        "uously",
+        "upt",
+        "ect",
+        "times",
+        "urements",
+        "lines",
+        "able",
+        "omic",
+        "mental",
+        "ation"
+      ],
+      "text": "Coastal erosion is a natural process, but human activity can make it occur more rapidly. Waves contin______ remove sand and rock from shorelines, especially during storms. When developers build too close to the water, they may disr___ dunes and vegetation that normally prot___ the coast. Sea walls can defend individual properties, but they some_____ increase erosion farther down the beach. Scientists use aerial images and sediment meas________ to compare shore_____ over time and identify vulner____ areas. Effective planning requires balancing econ____ interests with long-term environ______ risks. Communities that preserve wetlands often gain a natural buffer, making adapt_____ less costly."
+    },
+    {
+      "id": "cw_506",
+      "title": "Pollinator Behavior",
+      "topic": "Biology",
+      "difficulty": "B2-C1",
+      "answers": [
+        "fer",
+        "act",
+        "ialized",
+        "ines",
+        "tors",
+        "al",
+        "ingly",
+        "ort",
+        "ent",
+        "ystem"
+      ],
+      "text": "Pollinators influence the reproduction of many flowering plants. Bees, butterflies, and other insects trans___ pollen while searching for nectar. Some flowers have colors or scents that attr___ specific pollinators, making the relationship highly spec_______. If a pollinator population decl____, plants that depend on it may produce fewer seeds. Habitat loss and pesticide exposure are among the fac____ that can cause season__ declines in insect diversity. Farmers increas_____ create wildflower strips near fields to supp___ pollinators. These mutually depend___ relationships may improve crop yields while preserving ecos_____ stability in nearby natural areas."
+    },
+    {
+      "id": "cw_507",
+      "title": "Museum Conservation",
+      "topic": "Art History",
+      "difficulty": "B2-C1",
+      "answers": [
+        "ine",
+        "ile",
+        "ing",
+        "ical",
+        "er",
+        "ory",
+        "ive",
+        "ment",
+        "erate",
+        "uously"
+      ],
+      "text": "Museum conservation combines scientific analysis with careful historical interpretation. Before restoring an object, conservators exam___ its materials, frag___ surfaces, age, and previous repairs. Even a small clean___ decision can change how viewers understand the work. Modern laboratories use microscopes and chem____ tests to identify pigments, metals, and fibers. Conservators must also consid__ ethical questions, such as whether visible damage should remain as evidence of the object’s hist___. Prevent___ care requires detailed docu____ of storage conditions. Because temperature and humidity can accel_____ deterioration, museums monitor collection rooms contin______."
+    },
+    {
+      "id": "cw_508",
+      "title": "Freshwater Wetlands",
+      "topic": "Ecology",
+      "difficulty": "B2-C1",
+      "answers": [
+        "er",
+        "le",
+        "ves",
+        "al",
+        "on",
+        "ersity",
+        "ined",
+        "ablish",
+        "age",
+        "unities"
+      ],
+      "text": "Freshwater wetlands are among the most productive ecosystems on Earth. They filt__ pollutants, store floodwater, and provide habitat for birds, amphibians, and insects. Because water moves slowly through wetland plants and soils, sediments can sett__ before reaching rivers or lakes. This process impro___ water quality and supports season__ migration. Wetlands also store large amounts of carb__, which makes them relevant to climate planning and biodiv______ protection. Despite these benefits, many wetlands have been dra____ for agriculture or construction. Restoration projects attempt to reest______ natural water flow, encour___ native vegetation, and reconnect nearby comm_______ with healthier landscapes."
+    },
+    {
+      "id": "cw_509",
+      "title": "Language Change",
+      "topic": "Linguistics",
+      "difficulty": "B2-C1",
+      "answers": [
+        "ually",
+        "uce",
+        "ear",
+        "ence",
+        "er",
+        "ings",
+        "are",
+        "ation",
+        "ation",
+        "ities"
+      ],
+      "text": "Languages change constantly as speakers adapt them to new situations. Pronunciation, vocabulary, and grammar may shift grad_____ across generations. New technologies often introd___ words that quickly become familiar, while older expressions may disapp___ from everyday use. Migration and trade can also influ____ language by bringing speakers of different communities into contact. Although some people view change as a sign of decline, linguists generally consid__ it normal. Borrow____ from other languages may become ordinary over time. Written records allow researchers to comp___ earlier forms with modern usage, revealing innov_____ in pronunci_____, spelling, and commun_____ patterns."
     }
   ],
   "daily_life": [
