@@ -1,0 +1,819 @@
+{
+  "generated_at": "2026-10-10T18:38:36.187Z",
+  "voice": "Ava (Premium)",
+  "rate": 145,
+  "format": "wav",
+  "sample_rate": 22050,
+  "files": {
+    "lcr_001": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_001.wav",
+      "text_hash": "383d426fea87"
+    },
+    "lcr_002": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_002.wav",
+      "text_hash": "437df0f809cc"
+    },
+    "lcr_101": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_101.wav",
+      "text_hash": "a1ab3fa62ddc"
+    },
+    "lcr_102": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_102.wav",
+      "text_hash": "1043c12f8117"
+    },
+    "lcr_103": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_103.wav",
+      "text_hash": "58f315b075ac"
+    },
+    "lcr_104": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_104.wav",
+      "text_hash": "432a3a8f731b"
+    },
+    "lcr_105": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_105.wav",
+      "text_hash": "88b5ed3d02f0"
+    },
+    "lcr_106": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_106.wav",
+      "text_hash": "3bc7b4bcbe0d"
+    },
+    "lcr_107": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_107.wav",
+      "text_hash": "da9b063edbf7"
+    },
+    "lcr_108": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_108.wav",
+      "text_hash": "0ab5cc9c9c72"
+    },
+    "lcr_109": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_109.wav",
+      "text_hash": "5cfe4458e722"
+    },
+    "lcr_110": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_110.wav",
+      "text_hash": "5cf112887d9f"
+    },
+    "lcr_111": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_111.wav",
+      "text_hash": "9d2c0fe3ffaf"
+    },
+    "lcr_112": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_112.wav",
+      "text_hash": "211a8cc61c7e"
+    },
+    "lcr_201": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_201.wav",
+      "text_hash": "5b15cf16dc01"
+    },
+    "lcr_202": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_202.wav",
+      "text_hash": "d5b2d9527b69"
+    },
+    "lcr_203": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_203.wav",
+      "text_hash": "2c48a65ed510"
+    },
+    "lcr_204": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_204.wav",
+      "text_hash": "a58008fce315"
+    },
+    "lcr_205": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_205.wav",
+      "text_hash": "dc21a55c4dd0"
+    },
+    "lcr_206": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_206.wav",
+      "text_hash": "8341ca3a434b"
+    },
+    "lcr_207": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_207.wav",
+      "text_hash": "42b319d3da96"
+    },
+    "lcr_208": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_208.wav",
+      "text_hash": "9d9e461808a3"
+    },
+    "lcr_209": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_209.wav",
+      "text_hash": "482c4d98afae"
+    },
+    "lcr_210": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_210.wav",
+      "text_hash": "2a400d70a339"
+    },
+    "lcr_211": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_211.wav",
+      "text_hash": "85a9dd221773"
+    },
+    "lcr_212": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_212.wav",
+      "text_hash": "6fd9729da692"
+    },
+    "lcr_301": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_301.wav",
+      "text_hash": "39a60a2ae709"
+    },
+    "lcr_302": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_302.wav",
+      "text_hash": "a79683ebc87d"
+    },
+    "lcr_303": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_303.wav",
+      "text_hash": "57d63e0633cd"
+    },
+    "lcr_304": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_304.wav",
+      "text_hash": "ac365221b16d"
+    },
+    "lcr_305": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_305.wav",
+      "text_hash": "b22fee3ad1a3"
+    },
+    "lcr_306": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_306.wav",
+      "text_hash": "6d8023716e2a"
+    },
+    "lcr_401": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_401.wav",
+      "text_hash": "09238ad4064e"
+    },
+    "lcr_402": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_402.wav",
+      "text_hash": "95c37d60f5c8"
+    },
+    "lcr_403": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_403.wav",
+      "text_hash": "e90123962589"
+    },
+    "lcr_404": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_404.wav",
+      "text_hash": "45eb984bc2b8"
+    },
+    "lcr_405": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_405.wav",
+      "text_hash": "82875a73cd2c"
+    },
+    "lcr_406": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_406.wav",
+      "text_hash": "67fd2a5c881b"
+    },
+    "lcr_407": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_407.wav",
+      "text_hash": "0935ab6017ff"
+    },
+    "lcr_408": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_408.wav",
+      "text_hash": "8b044bd14bbc"
+    },
+    "lcr_409": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_409.wav",
+      "text_hash": "ef474444c3e2"
+    },
+    "lcr_410": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_410.wav",
+      "text_hash": "07a127814e99"
+    },
+    "lcr_411": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_411.wav",
+      "text_hash": "f01ed5d45418"
+    },
+    "lcr_412": {
+      "type": "choose_response",
+      "file": "assets/audio/lcr_412.wav",
+      "text_hash": "52ab9a8c3bb7"
+    },
+    "conv_001": {
+      "type": "conversations",
+      "file": "assets/audio/conv_001.wav",
+      "text_hash": "c681ed9af35f"
+    },
+    "conv_101": {
+      "type": "conversations",
+      "file": "assets/audio/conv_101.wav",
+      "text_hash": "bfd130504ceb"
+    },
+    "conv_102": {
+      "type": "conversations",
+      "file": "assets/audio/conv_102.wav",
+      "text_hash": "6f19cc262c4c"
+    },
+    "conv_103": {
+      "type": "conversations",
+      "file": "assets/audio/conv_103.wav",
+      "text_hash": "75e111ded7b3"
+    },
+    "conv_104": {
+      "type": "conversations",
+      "file": "assets/audio/conv_104.wav",
+      "text_hash": "f48b56a54e44"
+    },
+    "conv_201": {
+      "type": "conversations",
+      "file": "assets/audio/conv_201.wav",
+      "text_hash": "1ac63b1908ff"
+    },
+    "conv_202": {
+      "type": "conversations",
+      "file": "assets/audio/conv_202.wav",
+      "text_hash": "a91697e93416"
+    },
+    "conv_203": {
+      "type": "conversations",
+      "file": "assets/audio/conv_203.wav",
+      "text_hash": "ce10dcfb274b"
+    },
+    "conv_204": {
+      "type": "conversations",
+      "file": "assets/audio/conv_204.wav",
+      "text_hash": "f6824db6ebe9"
+    },
+    "conv_301": {
+      "type": "conversations",
+      "file": "assets/audio/conv_301.wav",
+      "text_hash": "8dfeb714a5b8"
+    },
+    "conv_302": {
+      "type": "conversations",
+      "file": "assets/audio/conv_302.wav",
+      "text_hash": "85ab8c6e68b4"
+    },
+    "conv_401": {
+      "type": "conversations",
+      "file": "assets/audio/conv_401.wav",
+      "text_hash": "c8b3675f6f18"
+    },
+    "conv_402": {
+      "type": "conversations",
+      "file": "assets/audio/conv_402.wav",
+      "text_hash": "31094521d515"
+    },
+    "conv_403": {
+      "type": "conversations",
+      "file": "assets/audio/conv_403.wav",
+      "text_hash": "8b72352dbf0a"
+    },
+    "conv_404": {
+      "type": "conversations",
+      "file": "assets/audio/conv_404.wav",
+      "text_hash": "fe0f9d45bac5"
+    },
+    "ann_001": {
+      "type": "announcements",
+      "file": "assets/audio/ann_001.wav",
+      "text_hash": "99855f5fec95"
+    },
+    "ann_101": {
+      "type": "announcements",
+      "file": "assets/audio/ann_101.wav",
+      "text_hash": "77f2e9600385"
+    },
+    "ann_102": {
+      "type": "announcements",
+      "file": "assets/audio/ann_102.wav",
+      "text_hash": "01be0a1c37f5"
+    },
+    "ann_103": {
+      "type": "announcements",
+      "file": "assets/audio/ann_103.wav",
+      "text_hash": "0f0d17baf638"
+    },
+    "ann_201": {
+      "type": "announcements",
+      "file": "assets/audio/ann_201.wav",
+      "text_hash": "3d4a14327324"
+    },
+    "ann_202": {
+      "type": "announcements",
+      "file": "assets/audio/ann_202.wav",
+      "text_hash": "94648155f1f4"
+    },
+    "ann_203": {
+      "type": "announcements",
+      "file": "assets/audio/ann_203.wav",
+      "text_hash": "d419438e9ccd"
+    },
+    "ann_301": {
+      "type": "announcements",
+      "file": "assets/audio/ann_301.wav",
+      "text_hash": "c731247fc12d"
+    },
+    "ann_302": {
+      "type": "announcements",
+      "file": "assets/audio/ann_302.wav",
+      "text_hash": "8fc1192ab7da"
+    },
+    "ann_401": {
+      "type": "announcements",
+      "file": "assets/audio/ann_401.wav",
+      "text_hash": "247aa3ef9ed5"
+    },
+    "ann_402": {
+      "type": "announcements",
+      "file": "assets/audio/ann_402.wav",
+      "text_hash": "e098b25ebf37"
+    },
+    "ann_403": {
+      "type": "announcements",
+      "file": "assets/audio/ann_403.wav",
+      "text_hash": "3fa0eea7fe59"
+    },
+    "talk_001": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_001.wav",
+      "text_hash": "aad3a0d63bc5"
+    },
+    "talk_101": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_101.wav",
+      "text_hash": "500e45895bdf"
+    },
+    "talk_102": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_102.wav",
+      "text_hash": "e877d711744f"
+    },
+    "talk_201": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_201.wav",
+      "text_hash": "9f6225d776de"
+    },
+    "talk_202": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_202.wav",
+      "text_hash": "81aa5a96d978"
+    },
+    "talk_301": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_301.wav",
+      "text_hash": "4aa416a9ef61"
+    },
+    "talk_302": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_302.wav",
+      "text_hash": "5e62f5ede9ea"
+    },
+    "talk_401": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_401.wav",
+      "text_hash": "5ff7f870ce5e"
+    },
+    "talk_402": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_402.wav",
+      "text_hash": "37767019c73f"
+    },
+    "talk_501": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_501.wav",
+      "text_hash": "c6595dd3bae7"
+    },
+    "talk_502": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_502.wav",
+      "text_hash": "b0569c433863"
+    },
+    "talk_503": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_503.wav",
+      "text_hash": "6fc1ca8490fb"
+    },
+    "talk_504": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_504.wav",
+      "text_hash": "9c60633cddec"
+    },
+    "talk_505": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_505.wav",
+      "text_hash": "9ac26be13778"
+    },
+    "talk_506": {
+      "type": "academic_talks",
+      "file": "assets/audio/talk_506.wav",
+      "text_hash": "bd38e947a5a3"
+    },
+    "rep_001": {
+      "type": "repeat",
+      "file": "assets/audio/rep_001.wav",
+      "text_hash": "00834093f115"
+    },
+    "rep_002": {
+      "type": "repeat",
+      "file": "assets/audio/rep_002.wav",
+      "text_hash": "5dfb138cc116"
+    },
+    "rep_101": {
+      "type": "repeat",
+      "file": "assets/audio/rep_101.wav",
+      "text_hash": "d9a4ff5e4db2"
+    },
+    "rep_102": {
+      "type": "repeat",
+      "file": "assets/audio/rep_102.wav",
+      "text_hash": "add20b9d0cf3"
+    },
+    "rep_103": {
+      "type": "repeat",
+      "file": "assets/audio/rep_103.wav",
+      "text_hash": "da6b65fc25ce"
+    },
+    "rep_104": {
+      "type": "repeat",
+      "file": "assets/audio/rep_104.wav",
+      "text_hash": "ba6ce84ede59"
+    },
+    "rep_105": {
+      "type": "repeat",
+      "file": "assets/audio/rep_105.wav",
+      "text_hash": "44d7b2e1bf64"
+    },
+    "rep_106": {
+      "type": "repeat",
+      "file": "assets/audio/rep_106.wav",
+      "text_hash": "c6f3c62e7433"
+    },
+    "rep_201": {
+      "type": "repeat",
+      "file": "assets/audio/rep_201.wav",
+      "text_hash": "bf25f233f555"
+    },
+    "rep_202": {
+      "type": "repeat",
+      "file": "assets/audio/rep_202.wav",
+      "text_hash": "44023a846589"
+    },
+    "rep_203": {
+      "type": "repeat",
+      "file": "assets/audio/rep_203.wav",
+      "text_hash": "3f0a21a4da3e"
+    },
+    "rep_204": {
+      "type": "repeat",
+      "file": "assets/audio/rep_204.wav",
+      "text_hash": "8ce7a5667f1d"
+    },
+    "rep_205": {
+      "type": "repeat",
+      "file": "assets/audio/rep_205.wav",
+      "text_hash": "d8abb2f5d763"
+    },
+    "rep_206": {
+      "type": "repeat",
+      "file": "assets/audio/rep_206.wav",
+      "text_hash": "c74afd61dee6"
+    },
+    "rep_301": {
+      "type": "repeat",
+      "file": "assets/audio/rep_301.wav",
+      "text_hash": "9d430cd2790d"
+    },
+    "rep_302": {
+      "type": "repeat",
+      "file": "assets/audio/rep_302.wav",
+      "text_hash": "0c0ed25bbe67"
+    },
+    "rep_303": {
+      "type": "repeat",
+      "file": "assets/audio/rep_303.wav",
+      "text_hash": "e85bd6986f1e"
+    },
+    "rep_304": {
+      "type": "repeat",
+      "file": "assets/audio/rep_304.wav",
+      "text_hash": "4f5e474c93f8"
+    },
+    "rep_401": {
+      "type": "repeat",
+      "file": "assets/audio/rep_401.wav",
+      "text_hash": "427dc1af2df9"
+    },
+    "rep_402": {
+      "type": "repeat",
+      "file": "assets/audio/rep_402.wav",
+      "text_hash": "78353f3102f5"
+    },
+    "rep_403": {
+      "type": "repeat",
+      "file": "assets/audio/rep_403.wav",
+      "text_hash": "058c18ca90f8"
+    },
+    "rep_404": {
+      "type": "repeat",
+      "file": "assets/audio/rep_404.wav",
+      "text_hash": "e0ef1ac97588"
+    },
+    "rep_405": {
+      "type": "repeat",
+      "file": "assets/audio/rep_405.wav",
+      "text_hash": "0d91013f6031"
+    },
+    "rep_406": {
+      "type": "repeat",
+      "file": "assets/audio/rep_406.wav",
+      "text_hash": "dcd6b9626245"
+    },
+    "rep_407": {
+      "type": "repeat",
+      "file": "assets/audio/rep_407.wav",
+      "text_hash": "53e1b5a04704"
+    },
+    "rep_408": {
+      "type": "repeat",
+      "file": "assets/audio/rep_408.wav",
+      "text_hash": "0c17ec38b71b"
+    },
+    "rep_409": {
+      "type": "repeat",
+      "file": "assets/audio/rep_409.wav",
+      "text_hash": "6a7616c69428"
+    },
+    "rep_410": {
+      "type": "repeat",
+      "file": "assets/audio/rep_410.wav",
+      "text_hash": "ec325b5255c6"
+    },
+    "rep_411": {
+      "type": "repeat",
+      "file": "assets/audio/rep_411.wav",
+      "text_hash": "3326872b706b"
+    },
+    "rep_412": {
+      "type": "repeat",
+      "file": "assets/audio/rep_412.wav",
+      "text_hash": "a8397ddf5f8d"
+    },
+    "rep_413": {
+      "type": "repeat",
+      "file": "assets/audio/rep_413.wav",
+      "text_hash": "715b4ca8a6a7"
+    },
+    "rep_414": {
+      "type": "repeat",
+      "file": "assets/audio/rep_414.wav",
+      "text_hash": "b7e18891a447"
+    },
+    "rep_415": {
+      "type": "repeat",
+      "file": "assets/audio/rep_415.wav",
+      "text_hash": "e3d21206e5f1"
+    },
+    "rep_416": {
+      "type": "repeat",
+      "file": "assets/audio/rep_416.wav",
+      "text_hash": "3c23aefa4e30"
+    },
+    "rep_417": {
+      "type": "repeat",
+      "file": "assets/audio/rep_417.wav",
+      "text_hash": "0cf2091dcebd"
+    },
+    "rep_501": {
+      "type": "repeat",
+      "file": "assets/audio/rep_501.wav",
+      "text_hash": "745e70de3867"
+    },
+    "rep_502": {
+      "type": "repeat",
+      "file": "assets/audio/rep_502.wav",
+      "text_hash": "4492b5d53f4e"
+    },
+    "rep_503": {
+      "type": "repeat",
+      "file": "assets/audio/rep_503.wav",
+      "text_hash": "69c56184b92b"
+    },
+    "rep_504": {
+      "type": "repeat",
+      "file": "assets/audio/rep_504.wav",
+      "text_hash": "49a2c61e7a2b"
+    },
+    "rep_505": {
+      "type": "repeat",
+      "file": "assets/audio/rep_505.wav",
+      "text_hash": "9919104baa82"
+    },
+    "rep_506": {
+      "type": "repeat",
+      "file": "assets/audio/rep_506.wav",
+      "text_hash": "3ccf47ecb854"
+    },
+    "rep_507": {
+      "type": "repeat",
+      "file": "assets/audio/rep_507.wav",
+      "text_hash": "d4ca801bbe66"
+    },
+    "rep_508": {
+      "type": "repeat",
+      "file": "assets/audio/rep_508.wav",
+      "text_hash": "e7e41d393011"
+    },
+    "rep_509": {
+      "type": "repeat",
+      "file": "assets/audio/rep_509.wav",
+      "text_hash": "b57063092880"
+    },
+    "rep_510": {
+      "type": "repeat",
+      "file": "assets/audio/rep_510.wav",
+      "text_hash": "7a3b2e4ce462"
+    },
+    "rep_511": {
+      "type": "repeat",
+      "file": "assets/audio/rep_511.wav",
+      "text_hash": "4cb54c6e77f6"
+    },
+    "rep_512": {
+      "type": "repeat",
+      "file": "assets/audio/rep_512.wav",
+      "text_hash": "570b7ef54a74"
+    },
+    "rep_513": {
+      "type": "repeat",
+      "file": "assets/audio/rep_513.wav",
+      "text_hash": "af31a50e1682"
+    },
+    "rep_514": {
+      "type": "repeat",
+      "file": "assets/audio/rep_514.wav",
+      "text_hash": "9644e1298ee6"
+    },
+    "rep_515": {
+      "type": "repeat",
+      "file": "assets/audio/rep_515.wav",
+      "text_hash": "7fcbf52785a4"
+    },
+    "rep_516": {
+      "type": "repeat",
+      "file": "assets/audio/rep_516.wav",
+      "text_hash": "5ef3b8c94146"
+    },
+    "rep_517": {
+      "type": "repeat",
+      "file": "assets/audio/rep_517.wav",
+      "text_hash": "fd250204ab6c"
+    },
+    "rep_518": {
+      "type": "repeat",
+      "file": "assets/audio/rep_518.wav",
+      "text_hash": "03262bb0334b"
+    },
+    "rep_519": {
+      "type": "repeat",
+      "file": "assets/audio/rep_519.wav",
+      "text_hash": "2e3761fe84e8"
+    },
+    "rep_520": {
+      "type": "repeat",
+      "file": "assets/audio/rep_520.wav",
+      "text_hash": "1d2f2e1b238d"
+    },
+    "rep_521": {
+      "type": "repeat",
+      "file": "assets/audio/rep_521.wav",
+      "text_hash": "ed323b0da3c8"
+    },
+    "int_001": {
+      "type": "interview",
+      "file": "assets/audio/int_001.wav",
+      "text_hash": "1355c9ee247b"
+    },
+    "int_002": {
+      "type": "interview",
+      "file": "assets/audio/int_002.wav",
+      "text_hash": "f16ce03c5b0d"
+    },
+    "int_101": {
+      "type": "interview",
+      "file": "assets/audio/int_101.wav",
+      "text_hash": "d4d414a63469"
+    },
+    "int_102": {
+      "type": "interview",
+      "file": "assets/audio/int_102.wav",
+      "text_hash": "e3e2f35d915e"
+    },
+    "int_103": {
+      "type": "interview",
+      "file": "assets/audio/int_103.wav",
+      "text_hash": "96ff01909886"
+    },
+    "int_104": {
+      "type": "interview",
+      "file": "assets/audio/int_104.wav",
+      "text_hash": "14e17aed0b21"
+    },
+    "int_105": {
+      "type": "interview",
+      "file": "assets/audio/int_105.wav",
+      "text_hash": "81a9ed819e91"
+    },
+    "int_201": {
+      "type": "interview",
+      "file": "assets/audio/int_201.wav",
+      "text_hash": "da6274d6dfbc"
+    },
+    "int_202": {
+      "type": "interview",
+      "file": "assets/audio/int_202.wav",
+      "text_hash": "86d84e3fd341"
+    },
+    "int_203": {
+      "type": "interview",
+      "file": "assets/audio/int_203.wav",
+      "text_hash": "dbcdf0e7396c"
+    },
+    "int_204": {
+      "type": "interview",
+      "file": "assets/audio/int_204.wav",
+      "text_hash": "72a0277bf539"
+    },
+    "int_205": {
+      "type": "interview",
+      "file": "assets/audio/int_205.wav",
+      "text_hash": "b22335027f2e"
+    },
+    "int_301": {
+      "type": "interview",
+      "file": "assets/audio/int_301.wav",
+      "text_hash": "f4f1ce348bc8"
+    },
+    "int_302": {
+      "type": "interview",
+      "file": "assets/audio/int_302.wav",
+      "text_hash": "487dac4e0661"
+    },
+    "int_303": {
+      "type": "interview",
+      "file": "assets/audio/int_303.wav",
+      "text_hash": "39c7d63fba86"
+    },
+    "int_401": {
+      "type": "interview",
+      "file": "assets/audio/int_401.wav",
+      "text_hash": "b89697148424"
+    },
+    "int_402": {
+      "type": "interview",
+      "file": "assets/audio/int_402.wav",
+      "text_hash": "3ce7a4d135a1"
+    },
+    "int_403": {
+      "type": "interview",
+      "file": "assets/audio/int_403.wav",
+      "text_hash": "994944786e37"
+    },
+    "int_404": {
+      "type": "interview",
+      "file": "assets/audio/int_404.wav",
+      "text_hash": "06c23ef8aa71"
+    },
+    "int_405": {
+      "type": "interview",
+      "file": "assets/audio/int_405.wav",
+      "text_hash": "bac5a5e1e338"
+    }
+  }
+}
