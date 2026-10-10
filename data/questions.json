@@ -758,22 +758,22 @@
         {
           "q": "How long may a study room be reserved per day?",
           "options": [
+            "Two hours",
             "10 minutes",
             "One hour",
-            "Two hours",
             "All day"
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What may happen if a group is more than 10 minutes late?",
           "options": [
-            "The reservation may be given to someone else.",
             "The group must pay a fee.",
+            "The reservation may be given to someone else.",
             "The room will be locked.",
             "The reservation automatically moves later."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -788,21 +788,21 @@
           "q": "What is the notice mainly about?",
           "options": [
             "A new campus bus route",
-            "A renewal rule for bike lockers",
             "A change in parking fees",
+            "A renewal rule for bike lockers",
             "A safety inspection schedule"
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "When must students renew locker access?",
           "options": [
-            "Before the first day of each month",
             "Every Monday morning",
             "Three days after receiving an email",
-            "At the end of each semester"
+            "At the end of each semester",
+            "Before the first day of each month"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What may happen if a student misses the deadline?",
@@ -837,41 +837,41 @@
           "q": "Why are the professor’s office hours changing?",
           "options": [
             "A class has been canceled.",
-            "The professor has a department meeting.",
             "The assignment deadline changed.",
+            "The professor has a department meeting.",
             "The office is being renovated."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "When will office hours be held this week?",
           "options": [
             "Thursday morning",
             "Thursday afternoon",
-            "Friday morning",
-            "Friday afternoon"
+            "Friday afternoon",
+            "Friday morning"
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What should students do if the new time does not work?",
           "options": [
+            "Send two possible meeting times",
             "Submit the assignment late",
             "Contact another professor",
-            "Send two possible meeting times",
             "Wait until next week"
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What can be inferred about the assignment?",
           "options": [
-            "It is due soon.",
             "It has been graded already.",
+            "It is due soon.",
             "It no longer requires revision.",
             "It must be completed in groups."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -886,31 +886,31 @@
           "q": "Who is allowed to borrow the equipment?",
           "options": [
             "Any visitor to the lab",
-            "Students in approved field methods courses",
             "Only graduate assistants",
+            "Students in approved field methods courses",
             "Students who pay a monthly fee"
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "How far in advance must equipment be reserved?",
           "options": [
-            "At least 24 hours",
             "One week",
             "By noon on the due date",
-            "After the project is finished"
+            "After the project is finished",
+            "At least 24 hours"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What must students do when returning equipment?",
           "options": [
-            "Include a written report",
             "Return it clean by noon",
+            "Include a written report",
             "Pay replacement costs every time",
             "Leave it outside the lab door"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "What is implied if a GPS unit is damaged?",
@@ -934,22 +934,22 @@
         {
           "q": "What is the main purpose of the notice?",
           "options": [
-            "To announce a change to quiet hours",
             "To close all residence halls",
             "To cancel final exams",
+            "To announce a change to quiet hours",
             "To introduce a new meal plan"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "When will quiet hours begin during exam week?",
           "options": [
-            "8 p.m.",
             "10 p.m.",
             "Midnight",
-            "First thing in the morning"
+            "First thing in the morning",
+            "8 p.m."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Where is group study still allowed?",
@@ -964,12 +964,12 @@
         {
           "q": "What option is available for students who need silence?",
           "options": [
-            "Reserve a library room",
             "Call residence staff",
+            "Reserve a library room",
             "Use video calls",
             "Play music at low volume"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -983,22 +983,22 @@
         {
           "q": "What happens to unused print credit?",
           "options": [
-            "It does not transfer to the next semester.",
             "It becomes cash at the bookstore.",
             "It is doubled automatically.",
+            "It does not transfer to the next semester.",
             "It can only be used for posters."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What should students do before uploading a poster file?",
           "options": [
-            "Check the print center website",
             "Ask for a new student ID",
             "Print several small copies",
-            "Wait until the next semester"
+            "Wait until the next semester",
+            "Check the print center website"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why might a student need a separate form?",
@@ -1013,12 +1013,12 @@
         {
           "q": "What is the email mainly reminding students about?",
           "options": [
-            "Printing rules and limits",
             "A change in presentation topics",
+            "Printing rules and limits",
             "A new library reservation system",
             "The cost of textbooks"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -1032,22 +1032,22 @@
         {
           "q": "Why was the workshop moved?",
           "options": [
-            "More students registered than expected.",
             "The auditorium was too small.",
             "The career center closed.",
+            "More students registered than expected.",
             "The presenter changed the topic."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Do students need to register again?",
           "options": [
-            "No, they do not.",
             "Yes, everyone must register again.",
             "Only first-year students must register.",
-            "Only students with résumés must register."
+            "Only students with résumés must register.",
+            "No, they do not."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What should students bring for individual feedback?",
@@ -1062,12 +1062,12 @@
         {
           "q": "What is implied about feedback slips?",
           "options": [
-            "They may run out if students arrive late.",
             "They are required for admission.",
+            "They may run out if students arrive late.",
             "They replace the presentation.",
             "They are mailed after the workshop."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -1082,41 +1082,41 @@
           "q": "What is the primary purpose of this email?",
           "options": [
             "To announce the closure of Zone C parking.",
-            "To inform students about parking permit sales.",
             "To collect outstanding parking fines.",
+            "To inform students about parking permit sales.",
             "To promote the use of the university transportation portal."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "How much does a premium parking permit cost?",
           "options": [
             "$25",
             "$150",
-            "$250",
-            "$275"
+            "$275",
+            "$250"
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What can be inferred about students who apply for a permit on August 16th?",
           "options": [
-            "They will not be allowed to park on campus.",
             "They will have to pay an additional $25.",
+            "They will not be allowed to park on campus.",
             "They are guaranteed a spot in Zone C.",
             "They will automatically receive a premium permit."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "According to the email, what must students do before applying for a new permit?",
           "options": [
-            "Pay off any existing parking fines.",
             "Register for their fall classes.",
+            "Pay off any existing parking fines.",
             "Visit the transportation office in person.",
             "Provide proof of vehicle insurance."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -1131,31 +1131,31 @@
           "q": "What is the main topic of the notice?",
           "options": [
             "A change in email account passwords.",
-            "Upcoming downtime for the university email system.",
             "New security rules for the university library.",
+            "Upcoming downtime for the university email system.",
             "A permanent switch to a new email provider."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What will happen to emails sent to users during the maintenance period?",
           "options": [
             "They will be permanently deleted.",
             "They will be bounced back to the sender.",
-            "They will be held and delivered after the maintenance is complete.",
-            "They will be forwarded to users' personal email addresses."
+            "They will be forwarded to users' personal email addresses.",
+            "They will be held and delivered after the maintenance is complete."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "Why is the IT department performing this maintenance?",
           "options": [
+            "To improve security and increase storage space.",
             "To fix a critical error that deleted user data.",
             "To install new hardware in the library.",
-            "To improve security and increase storage space.",
             "To shut down inactive student accounts."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What should users do if they cannot log in on Saturday morning at 8:00 AM?",
@@ -1180,11 +1180,11 @@
           "q": "What is the main purpose of this email?",
           "options": [
             "To announce the opening of a new outdoor track.",
-            "To inform members about modified hours during spring break.",
             "To advertise new group exercise classes.",
+            "To inform members about modified hours during spring break.",
             "To explain the rules for using the indoor swimming pool."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "When will the fitness center resume its regular operating hours?",
@@ -1229,31 +1229,31 @@
           "q": "Why did the Mathematics Department expand its tutoring services?",
           "options": [
             "Because they received a new university grant.",
-            "Because there was a high demand for the service last year.",
             "Because the Science Building was recently renovated.",
+            "Because there was a high demand for the service last year.",
             "Because they are offering new graduate-level courses."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "Which courses are mentioned as having a special focus in the tutoring center?",
           "options": [
             "Statistics and Probability",
             "Linear Algebra",
-            "Calculus I and II",
-            "Geometry and Trigonometry"
+            "Geometry and Trigonometry",
+            "Calculus I and II"
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "How can a student receive one-on-one assistance?",
           "options": [
+            "By booking an appointment online 24 hours in advance.",
             "By showing up at Room 402 exactly at 3:00 PM.",
             "By calling the department secretary.",
-            "By booking an appointment online 24 hours in advance.",
             "By bringing a textbook and syllabus to a drop-in session."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What is the student expected to bring to a tutoring session?",
@@ -1278,11 +1278,11 @@
           "q": "What is the main goal of the 'Green Campus' initiative?",
           "options": [
             "To hire more staff for the Facilities Management Office.",
-            "To promote sustainability through a new recycling system.",
             "To replace all trash cans with larger bins.",
+            "To promote sustainability through a new recycling system.",
             "To build a new student union."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What should be placed in the blue recycling bins?",
@@ -1297,22 +1297,22 @@
         {
           "q": "What must students do to plastic bottles before recycling them?",
           "options": [
+            "Rinse them to remove food residue.",
             "Crush them to save space.",
             "Remove the labels.",
-            "Rinse them to remove food residue.",
             "Take them to the student union."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "Where should a student dispose of a broken glass jar?",
           "options": [
             "In a blue bin",
-            "In a green bin",
             "At the specialized recycling center",
+            "In a green bin",
             "In any residence hall trash can"
           ],
-          "answer": 2
+          "answer": 1
         }
       ]
     },
@@ -1326,22 +1326,22 @@
         {
           "q": "What is the main purpose of the email?",
           "options": [
-            "To announce a new food-waste collection program in residence halls.",
             "To ask students to donate vegetables to a campus garden.",
             "To explain why the dining hall menu will change next spring.",
+            "To announce a new food-waste collection program in residence halls.",
             "To warn students about new kitchen-cleaning penalties."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Which item is appropriate to put in the new bins?",
           "options": [
             "A plastic coffee cup",
-            "A plain paper napkin",
             "A metal fork",
-            "A piece of cheese"
+            "A piece of cheese",
+            "A plain paper napkin"
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "What can be inferred about the demonstrations?",
@@ -1375,42 +1375,42 @@
         {
           "q": "What is the notice mainly about?",
           "options": [
-            "A temporary change to an evening shuttle route.",
             "A permanent cancellation of East Campus service.",
             "A new shuttle route to Miller Library.",
+            "A temporary change to an evening shuttle route.",
             "A delay in building the recreation center."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Where should students catch the evening shuttle during the change?",
           "options": [
             "At the science complex entrance",
             "At the usual Oak Street stop",
-            "Outside Miller Library",
-            "Behind the recreation center"
+            "Behind the recreation center",
+            "Outside Miller Library"
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What can be inferred about morning shuttle service?",
           "options": [
-            "It will use larger buses for three weeks.",
             "It will continue according to the normal route.",
+            "It will use larger buses for three weeks.",
             "It will begin five minutes earlier than usual.",
             "It will stop only at the recreation center."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "Why should students going to the recreation center allow extra time?",
           "options": [
             "The shuttle will stop at every residence hall.",
-            "They must walk from Oak Street after 6:00 p.m.",
             "The route will include a detour around construction.",
+            "They must walk from Oak Street after 6:00 p.m.",
             "Route maps will not be available until next week."
           ],
-          "answer": 2
+          "answer": 1
         }
       ]
     }
@@ -1426,12 +1426,12 @@
         {
           "q": "What is the passage mainly about?",
           "options": [
-            "Why mainland habitats contain no extinctions",
             "How island size and isolation can influence species richness",
+            "Why mainland habitats contain no extinctions",
             "Why all islands have similar species",
             "How agriculture creates new islands"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "Why are islands closer to a mainland likely to receive more species?",
@@ -1456,21 +1456,21 @@
           "q": "What is the passage mainly about?",
           "options": [
             "Why printed books were always inexpensive",
-            "How printing affected communication and scholarship",
             "Why merchants stopped using manuals",
+            "How printing affected communication and scholarship",
             "How local communities rejected books"
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "According to the passage, what did identical copies make easier?",
           "options": [
             "Preventing religious debate",
-            "Discussing the same passage in different cities",
             "Eliminating all errors from books",
-            "Teaching people to write by hand"
+            "Teaching people to write by hand",
+            "Discussing the same passage in different cities"
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "The word “practical” is closest in meaning to",
@@ -1495,22 +1495,22 @@
         {
           "q": "Why does the author mention merchants?",
           "options": [
-            "To show that printing influenced everyday professional activity",
             "To argue that merchants invented printing",
             "To explain why trade declined",
+            "To show that printing influenced everyday professional activity",
             "To contrast books with religious objects"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Which outcome developed over time?",
           "options": [
-            "A shared base for criticism among readers",
             "A ban on source comparison",
             "The disappearance of religious audiences",
-            "The end of long-distance communication"
+            "The end of long-distance communication",
+            "A shared base for criticism among readers"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -1524,42 +1524,42 @@
         {
           "q": "What relationship is described in the passage?",
           "options": [
-            "A predator-prey relationship between fish and coral",
             "A mutually beneficial relationship between coral and algae",
+            "A predator-prey relationship between fish and coral",
             "A competition between algae and sunlight",
             "A process by which coral eats sand"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "What do algae provide to coral?",
           "options": [
-            "Sugars produced through photosynthesis",
             "Protection from all predators",
+            "Sugars produced through photosynthesis",
             "Minerals from deep water",
             "New coral skeletons"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What may cause coral bleaching?",
           "options": [
-            "Unusually high ocean temperatures",
             "Too little shelter for fish",
             "An increase in sand deposits",
+            "Unusually high ocean temperatures",
             "The absence of sunlight in all seasons"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "The word “delicate” is closest in meaning to",
           "options": [
-            "easily disturbed",
             "fully understood",
             "recently discovered",
-            "visibly colorful"
+            "visibly colorful",
+            "easily disturbed"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What is implied about bleached coral?",
@@ -1574,12 +1574,12 @@
         {
           "q": "Why does the author describe what each organism receives?",
           "options": [
-            "To explain why the relationship benefits both partners",
             "To show that algae harm coral tissues",
+            "To explain why the relationship benefits both partners",
             "To compare reefs with forests",
             "To argue that photosynthesis is impossible underwater"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -1593,22 +1593,22 @@
         {
           "q": "What is the passage mainly about?",
           "options": [
-            "How archaeologists study ordinary life in cities",
             "Why cities prevent all historical research",
             "How tax documents replaced excavation",
+            "How archaeologists study ordinary life in cities",
             "Why markets disappeared from urban areas"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What makes urban archaeology difficult?",
           "options": [
             "The absence of underground materials",
-            "Construction schedules and safety rules",
             "A lack of public interest in cities",
-            "Too many written records"
+            "Too many written records",
+            "Construction schedules and safety rules"
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "What may be preserved beneath streets?",
@@ -1623,32 +1623,32 @@
         {
           "q": "The word “constraints” is closest in meaning to",
           "options": [
-            "limitations",
             "instruments",
+            "limitations",
             "discoveries",
             "explanations"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "Why are written records mentioned?",
           "options": [
-            "To show that archaeology can reveal information they omit",
             "To prove that maps are unreliable",
             "To argue that documents are useless",
+            "To show that archaeology can reveal information they omit",
             "To explain why excavation is unnecessary"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What approach do urban archaeologists use according to the passage?",
           "options": [
-            "They combine several kinds of evidence.",
             "They excavate entire cities at once.",
             "They avoid environmental samples.",
-            "They rely only on public safety rules."
+            "They rely only on public safety rules.",
+            "They combine several kinds of evidence."
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -1672,32 +1672,32 @@
         {
           "q": "According to the passage, what might a navigation map emphasize?",
           "options": [
-            "Roads and landmarks",
             "Rock formations only",
+            "Roads and landmarks",
             "Soil chemistry",
             "Property taxes"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What does the author imply about maps?",
           "options": [
-            "They are shaped by their intended use.",
             "They contain every possible detail.",
             "They are useful only for drivers.",
+            "They are shaped by their intended use.",
             "They cannot show movement."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "The word “neutral” is closest in meaning to",
           "options": [
-            "unbiased",
             "ancient",
             "decorative",
-            "portable"
+            "portable",
+            "unbiased"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why are geological maps mentioned?",
@@ -1712,12 +1712,12 @@
         {
           "q": "How do historians use maps according to the passage?",
           "options": [
-            "To study values and priorities of societies",
             "To replace all written documents",
+            "To study values and priorities of societies",
             "To predict future weather",
             "To measure classroom attendance"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -1731,22 +1731,22 @@
         {
           "q": "What is the passage mainly about?",
           "options": [
-            "The complexity of pollination networks",
             "The anatomy of a single bee species",
             "The process of making pesticides",
+            "The complexity of pollination networks",
             "The history of flower classification"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What can make pollination communities resilient?",
           "options": [
-            "Overlap among plants and pollinators",
             "The absence of insects",
             "A single flower species",
-            "Complete isolation from land use"
+            "Complete isolation from land use",
+            "Overlap among plants and pollinators"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What risk can overlap create?",
@@ -1761,32 +1761,32 @@
         {
           "q": "The word “vulnerable” is closest in meaning to",
           "options": [
-            "likely to be harmed",
             "easy to count",
+            "likely to be harmed",
             "highly colorful",
             "recently discovered"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "Why do researchers study interaction patterns?",
           "options": [
-            "To predict which plants face risks",
             "To remove every bee species",
             "To design larger flowers",
+            "To predict which plants face risks",
             "To prevent all climate variation"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What does the passage imply about pollination?",
           "options": [
-            "It usually involves multiple relationships.",
             "It never changes over time.",
             "It occurs only in farms.",
-            "It is unrelated to land use."
+            "It is unrelated to land use.",
+            "It usually involves multiple relationships."
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -1810,32 +1810,32 @@
         {
           "q": "What did apprentices receive according to the passage?",
           "options": [
-            "Training and often food and lodging",
             "Immediate professional recognition",
+            "Training and often food and lodging",
             "Control over clients",
             "Guaranteed high wages"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "Why did apprenticeships reinforce hierarchy?",
           "options": [
-            "Masters controlled access to important resources.",
             "Apprentices owned all workshops.",
             "Cities banned trade customs.",
+            "Masters controlled access to important resources.",
             "Contracts ignored years of service."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "The word “specified” is closest in meaning to",
           "options": [
-            "stated clearly",
             "hid deliberately",
             "replaced gradually",
-            "criticized publicly"
+            "criticized publicly",
+            "stated clearly"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What can surviving contracts reveal?",
@@ -1850,12 +1850,12 @@
         {
           "q": "What can be inferred about master craftspeople?",
           "options": [
-            "They had significant authority over apprentices.",
             "They were not involved in training.",
+            "They had significant authority over apprentices.",
             "They worked only outside cities.",
             "They avoided written agreements."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -1870,21 +1870,21 @@
           "q": "What is the primary focus of the passage?",
           "options": [
             "The process of photosynthesis in plants.",
-            "The composition and vital functions of the soil microbiome.",
             "The dangers of modern agricultural pesticides.",
+            "The composition and vital functions of the soil microbiome.",
             "The classification of different fungal species."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "According to the passage, what is the role of microbes in nutrient cycling?",
           "options": [
             "They generate carbohydrates through photosynthesis.",
             "They protect plant roots from excessive water absorption.",
-            "They break down organic matter to release nutrients for plants.",
-            "They convert chemical fertilizers into natural organic matter."
+            "They convert chemical fertilizers into natural organic matter.",
+            "They break down organic matter to release nutrients for plants."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "The word 'symbiotic' in the passage is closest in meaning to:",
@@ -1900,31 +1900,31 @@
           "q": "What does the plant provide to the mycorrhizal fungi in their exchange?",
           "options": [
             "Nitrogen and phosphorus",
-            "Water and minerals",
             "Carbohydrates",
+            "Water and minerals",
             "Organic debris"
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "What can be inferred about the use of chemical fertilizers?",
           "options": [
             "They are necessary for the survival of the soil microbiome.",
-            "They can be harmful to the natural balance of soil microorganisms.",
             "They help mycorrhizal fungi grow their hyphae longer.",
+            "They can be harmful to the natural balance of soil microorganisms.",
             "They are the primary food source for soil bacteria."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "The word 'inert' in the passage is closest in meaning to:",
           "options": [
             "Fertile",
-            "Lifeless",
             "Complex",
-            "Dangerous"
+            "Dangerous",
+            "Lifeless"
           ],
-          "answer": 1
+          "answer": 3
         }
       ]
     },
@@ -1938,62 +1938,62 @@
         {
           "q": "What is the main topic of the passage?",
           "options": [
+            "The historical development and changing role of public libraries.",
             "The architectural design of the Library of Alexandria.",
             "The biography and wealth of Andrew Carnegie.",
-            "The historical development and changing role of public libraries.",
             "The transition from printed books to digital media."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "How did ancient libraries differ from modern public libraries?",
           "options": [
             "They were open to the general public for free.",
-            "They focused heavily on digital literacy.",
             "They were primarily archives intended for scholars and the elite.",
+            "They focused heavily on digital literacy.",
             "They were funded by industrialist philanthropists."
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "The word 'philanthropist' in the passage is closest in meaning to:",
           "options": [
             "A person who hoards wealth for their family.",
-            "A person who seeks to promote the welfare of others.",
             "A government official in charge of public taxes.",
+            "A person who seeks to promote the welfare of others.",
             "A scholar studying ancient historical texts."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What condition did Andrew Carnegie place on towns receiving his library grants?",
           "options": [
             "They had to only stock books approved by Carnegie.",
-            "They had to provide land and tax funding for operations.",
             "They had to charge citizens a small fee for entry.",
-            "They had to replace all printed books with digital archives."
+            "They had to replace all printed books with digital archives.",
+            "They had to provide land and tax funding for operations."
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "What can be inferred about the purpose of libraries in the digital age?",
           "options": [
+            "They have adapted by offering technological access and community services.",
             "They are struggling to survive and are mostly empty.",
             "They have completely abandoned physical books.",
-            "They have adapted by offering technological access and community services.",
             "They are exclusively used for academic research by university scholars."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "The word 'pivotal' in the passage is closest in meaning to:",
           "options": [
-            "Crucial",
             "Obscure",
+            "Crucial",
             "Wealthy",
             "Temporary"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -2018,21 +2018,21 @@
           "q": "The word 'arduous' in paragraph 1 is closest in meaning to:",
           "options": [
             "Frequent",
-            "Difficult",
             "Unnecessary",
-            "Rapid"
+            "Rapid",
+            "Difficult"
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "How does increased daylight in the Northern Hemisphere summer benefit breeding birds?",
           "options": [
-            "It allows them to see predators more easily.",
             "It provides more time for them to gather food for their offspring.",
+            "It allows them to see predators more easily.",
             "It warms the nests so the parents can leave for longer periods.",
             "It helps them build stronger immune systems."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "Which of the following is NOT mentioned as a navigational tool used by birds?",
@@ -2048,21 +2048,21 @@
           "q": "The word 'anthropogenic' in paragraph 3 most likely means:",
           "options": [
             "Caused by weather",
-            "Caused by humans",
             "Caused by animals",
+            "Caused by humans",
             "Unpredictable"
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What can be inferred about 'stopover sites' from the passage?",
           "options": [
             "They are usually located in large urban centers.",
             "They are primarily used for breeding.",
-            "They are essential for birds to survive the long journey.",
-            "They are rarely affected by human activities."
+            "They are rarely affected by human activities.",
+            "They are essential for birds to survive the long journey."
           ],
-          "answer": 2
+          "answer": 3
         }
       ]
     },
@@ -2076,12 +2076,12 @@
         {
           "q": "What is the main idea of the first paragraph?",
           "options": [
+            "Human decision-making is heavily influenced by mental shortcuts rather than pure rationality.",
             "Classical economic theories perfectly describe human behavior.",
             "Humans generally make decisions that maximize their financial utility.",
-            "Human decision-making is heavily influenced by mental shortcuts rather than pure rationality.",
             "Psychologists and economists completely disagree on how decisions are made."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "The word 'heuristics' in paragraph 1 is defined by the passage as:",
@@ -2097,21 +2097,21 @@
           "q": "How does the passage illustrate the 'anchoring effect'?",
           "options": [
             "By describing how people ignore contradictory evidence.",
-            "By explaining how the first price in a negotiation influences the final price.",
             "By showing how fear alters risk tolerance.",
+            "By explaining how the first price in a negotiation influences the final price.",
             "By detailing how people rely on past experiences."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What is a negative consequence of confirmation bias mentioned in the text?",
           "options": [
             "It causes individuals to forget their past decisions.",
             "It leads to excessive risk-taking in financial markets.",
-            "It hinders objective analysis by making people dismiss contrary evidence.",
-            "It forces people to rely entirely on emotional states."
+            "It forces people to rely entirely on emotional states.",
+            "It hinders objective analysis by making people dismiss contrary evidence."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "The word 'pivotal' in paragraph 3 is closest in meaning to:",
@@ -2157,30 +2157,30 @@
           "options": [
             "Beneficial",
             "Predictable",
-            "Destructive",
-            "Brief"
+            "Brief",
+            "Destructive"
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "According to the passage, what process releases nutrients from tephra into the soil?",
           "options": [
-            "Pyroclastic surges",
             "Weathering processes like rain and wind",
+            "Pyroclastic surges",
             "Immediate combustion of vegetation",
             "The mixing of lava with ocean water"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "Which of the following elements is NOT explicitly mentioned as being found in volcanic ash?",
           "options": [
             "Potassium",
+            "Nitrogen",
             "Phosphorus",
-            "Calcium",
-            "Nitrogen"
+            "Calcium"
           ],
-          "answer": 3
+          "answer": 1
         },
         {
           "q": "What makes the physical structure of andisols advantageous for agriculture?",
@@ -2196,11 +2196,11 @@
           "q": "What can be inferred about farming communities in volcanic zones?",
           "options": [
             "They are generally unaware of the risks associated with volcanoes.",
-            "They value the high agricultural yield enough to accept the geological risks.",
             "They only cultivate crops that do not require much water.",
-            "They frequently artificially fertilize their soil to compensate for volcanic ash."
+            "They frequently artificially fertilize their soil to compensate for volcanic ash.",
+            "They value the high agricultural yield enough to accept the geological risks."
           ],
-          "answer": 1
+          "answer": 3
         }
       ]
     },
@@ -2214,42 +2214,42 @@
         {
           "q": "What is the main purpose of the passage?",
           "options": [
-            "To compare ocean pollution with river pollution.",
             "To explain sources, effects, and possible responses to freshwater microplastics.",
+            "To compare ocean pollution with river pollution.",
             "To argue that microplastics are harmless in most freshwater systems.",
             "To describe how fisheries can remove plastic from rivers."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "The word \"degraded\" in the passage is closest in meaning to",
           "options": [
-            "broken down",
             "carefully stored",
+            "broken down",
             "newly designed",
             "officially tested"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "According to the passage, why may smaller particles be especially concerning?",
           "options": [
             "They are always denser than larger plastic pieces.",
-            "They may move through food webs more easily.",
             "They can be removed completely by public campaigns.",
+            "They may move through food webs more easily.",
             "They form only in drinking-water pipes."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "Why does the author mention improved wastewater filters?",
           "options": [
-            "To give an example of a strategy for reducing microplastic pollution.",
             "To show that individual behavior is no longer important.",
             "To explain why plastic particles sink into sediment.",
-            "To identify the main source of particles from road surfaces."
+            "To identify the main source of particles from road surfaces.",
+            "To give an example of a strategy for reducing microplastic pollution."
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -2263,22 +2263,22 @@
         {
           "q": "What does the passage mainly discuss?",
           "options": [
-            "Why official documents are no longer useful to historians.",
             "How oral histories can contribute to historical research despite challenges.",
+            "Why official documents are no longer useful to historians.",
             "Why memories are more accurate than government archives.",
             "How historians train people to improve their memories."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "According to the passage, oral histories are especially useful for studying communities that",
           "options": [
-            "produced few written records.",
             "avoided major social changes.",
+            "produced few written records.",
             "were already well represented in official reports.",
             "preferred economic documents over interviews."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "The word \"selective\" in the passage is closest in meaning to",
@@ -2293,12 +2293,12 @@
         {
           "q": "Why does the author mention a factory closure?",
           "options": [
-            "To show that oral histories can reveal personal and community effects not found in economic reports.",
             "To argue that economic reports are usually inaccurate.",
             "To describe the most common subject of oral-history interviews.",
-            "To explain why workers rarely participate in historical research."
+            "To explain why workers rarely participate in historical research.",
+            "To show that oral histories can reveal personal and community effects not found in economic reports."
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     }
@@ -2319,34 +2319,34 @@
       "id": "lcr_002",
       "prompt": "Would you mind sending me the updated file?",
       "options": [
-        "Not at all; I'll send it now.",
         "The file was updated yesterday.",
+        "Not at all; I'll send it now.",
         "I don't mind the weather.",
         "It is in a folder."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_101",
       "prompt": "Are you still planning to attend the review session tonight?",
       "options": [
-        "Yes, unless the time changes.",
         "The review was very detailed.",
         "I attended the plan yesterday.",
+        "Yes, unless the time changes.",
         "Tonight is usually dark."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_102",
       "prompt": "Could you let me know when the lab report is ready?",
       "options": [
-        "Sure, I will message you when it is finished.",
         "The lab is on the second floor.",
         "Reports are sometimes difficult.",
-        "I know the laboratory schedule."
+        "I know the laboratory schedule.",
+        "Sure, I will message you when it is finished."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_103",
@@ -2363,34 +2363,34 @@
       "id": "lcr_104",
       "prompt": "Do we need to bring our own laptops to the workshop?",
       "options": [
-        "No, computers will be provided.",
         "The workshop was about laptop design.",
+        "No, computers will be provided.",
         "I brought it from home.",
         "Need is a strong word."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_105",
       "prompt": "Would you prefer to meet before or after class?",
       "options": [
-        "After class would be better for me.",
         "The class prefers new books.",
         "I met the professor already.",
+        "After class would be better for me.",
         "Before is a common preposition."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_106",
       "prompt": "How did your presentation go this morning?",
       "options": [
-        "It went well, although I had to speak quickly.",
         "The presentation is in the morning.",
         "I will go to the library.",
-        "Speaking quickly can be useful."
+        "Speaking quickly can be useful.",
+        "It went well, although I had to speak quickly."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_107",
@@ -2407,34 +2407,34 @@
       "id": "lcr_108",
       "prompt": "Can I borrow your notes from yesterday’s seminar?",
       "options": [
-        "Of course, I can send you a copy.",
         "The seminar borrowed a room.",
+        "Of course, I can send you a copy.",
         "Yesterday was busy for everyone.",
         "Notes are useful in class."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_109",
       "prompt": "What should we do if the online form does not submit?",
       "options": [
-        "Take a screenshot and contact the office.",
         "The form is usually online.",
         "Submission can happen quickly.",
+        "Take a screenshot and contact the office.",
         "We did the office yesterday."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_110",
       "prompt": "Is the museum tour still scheduled for Friday?",
       "options": [
-        "Yes, but the departure time is earlier now.",
         "The museum has many tours.",
         "Friday is after Thursday.",
-        "I scheduled the museum guide."
+        "I scheduled the museum guide.",
+        "Yes, but the departure time is earlier now."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_111",
@@ -2451,34 +2451,34 @@
       "id": "lcr_112",
       "prompt": "Do you think the article is relevant to our topic?",
       "options": [
-        "Yes, especially the section on community surveys.",
         "The topic is on the first page.",
+        "Yes, especially the section on community surveys.",
         "Articles are often relevant.",
         "I think about it tomorrow."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_201",
       "prompt": "Do you know whether the study group is meeting in person today?",
       "options": [
-        "Yes, they reserved a table in the library.",
         "The group studied yesterday.",
         "In person can be difficult.",
+        "Yes, they reserved a table in the library.",
         "The library has many tables."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_202",
       "prompt": "Why did the professor add another office hour this week?",
       "options": [
-        "Because many students had questions about the project.",
         "The office was added last semester.",
         "This week is on the calendar.",
-        "Professors often have offices."
+        "Professors often have offices.",
+        "Because many students had questions about the project."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_203",
@@ -2495,34 +2495,34 @@
       "id": "lcr_204",
       "prompt": "Did you manage to upload the video before the deadline?",
       "options": [
-        "Yes, but it took longer than I expected.",
         "The deadline uploaded the video.",
+        "Yes, but it took longer than I expected.",
         "Videos are due online.",
         "I managed the camera yesterday."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_205",
       "prompt": "What did the advisor suggest about your schedule?",
       "options": [
-        "She suggested taking one fewer course.",
         "The schedule suggests advising.",
         "My advisor is in another building.",
+        "She suggested taking one fewer course.",
         "Courses are listed online."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_206",
       "prompt": "Are visitors allowed to attend the student film festival?",
       "options": [
-        "Yes, but they need free tickets.",
         "Visitors attended yesterday.",
         "Films can be very long.",
-        "The festival allows students."
+        "The festival allows students.",
+        "Yes, but they need free tickets."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_207",
@@ -2539,34 +2539,34 @@
       "id": "lcr_208",
       "prompt": "Why is the chemistry lab closing early today?",
       "options": [
-        "The ventilation system is being inspected.",
         "Chemistry closes many doors.",
+        "The ventilation system is being inspected.",
         "The lab is early today.",
         "Inspection is a common requirement."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_209",
       "prompt": "Do you want me to save you a seat at the lecture?",
       "options": [
-        "Yes, that would be really helpful.",
         "The lecture saved a seat.",
         "Seats are usually arranged in rows.",
+        "Yes, that would be really helpful.",
         "I want the lecture to start."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_210",
       "prompt": "How should we divide the work for the report?",
       "options": [
-        "I can analyze the survey results, and you can write the introduction.",
         "The report is divided into pages.",
         "Work should be reported soon.",
-        "Survey results are sometimes useful."
+        "Survey results are sometimes useful.",
+        "I can analyze the survey results, and you can write the introduction."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_211",
@@ -2583,23 +2583,23 @@
       "id": "lcr_212",
       "prompt": "When will the new campus map be available?",
       "options": [
-        "The office expects to post it next week.",
         "The map is available on campus.",
+        "The office expects to post it next week.",
         "New campuses need maps.",
         "The office is near the entrance."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_301",
       "prompt": "Do you know if Professor Higgins has posted the syllabus for the Biology 101 seminar yet?",
       "options": [
-        "I'm afraid she hasn't put it up on the course website yet.",
         "Yes, the textbook for the class is quite expensive.",
         "She mentioned that the first assignment is due next week.",
+        "I'm afraid she hasn't put it up on the course website yet.",
         "I think biology is a fascinating subject to major in."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_302",
@@ -2607,43 +2607,43 @@
       "options": [
         "I usually go to the gym on Tuesdays and Thursdays.",
         "The membership fee is included in your tuition.",
-        "It's just around the corner, past the chemistry building.",
-        "You need a valid student ID to use the facilities."
+        "You need a valid student ID to use the facilities.",
+        "It's just around the corner, past the chemistry building."
       ],
-      "answer": 2
+      "answer": 3
     },
     {
       "id": "lcr_303",
       "prompt": "Excuse me, how long can I borrow a laptop from the library's technology desk?",
       "options": [
-        "The laptops are equipped with the latest software.",
         "You can keep it for up to four hours before it's due back.",
+        "The laptops are equipped with the latest software.",
         "I think the technology desk is on the second floor.",
         "Yes, you need to sign in with your student credentials."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": "lcr_304",
       "prompt": "Would you mind reviewing my rough draft for the history paper before I submit it tomorrow?",
       "options": [
         "The history department is located in the humanities wing.",
+        "I'd be happy to take a look at it tonight.",
         "I didn't know the paper had to be submitted online.",
-        "The topic you chose sounds incredibly interesting.",
-        "I'd be happy to take a look at it tonight."
+        "The topic you chose sounds incredibly interesting."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": "lcr_305",
       "prompt": "Are we supposed to include a bibliography with our lab reports this semester?",
       "options": [
-        "Yes, the TA said it's required for every submission.",
         "The lab is open from 8 AM to 5 PM on weekdays.",
         "You can find the required readings in the library.",
+        "Yes, the TA said it's required for every submission.",
         "I already bought the lab coat and safety goggles."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_306",
@@ -2651,10 +2651,10 @@
       "options": [
         "The buses are usually painted blue and gold.",
         "I prefer walking when the weather is nice.",
-        "Really? I hope it doesn't affect my morning commute.",
-        "The North Campus has a lot of newly built dorms."
+        "The North Campus has a lot of newly built dorms.",
+        "Really? I hope it doesn't affect my morning commute."
       ],
-      "answer": 2
+      "answer": 3
     },
     {
       "id": "lcr_401",
@@ -2672,55 +2672,55 @@
       "prompt": "Have you seen my chemistry textbook anywhere?",
       "options": [
         "Chemistry is a difficult subject.",
+        "Yes, it's right here on your desk.",
         "I left it on the kitchen table.",
-        "Check the library return desk.",
-        "Yes, it's right here on your desk."
+        "Check the library return desk."
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": "lcr_403",
       "prompt": "How long will the bus take to get to the stadium?",
       "options": [
         "I bought tickets yesterday.",
-        "About forty-five minutes.",
         "The stadium is very large.",
+        "About forty-five minutes.",
         "We should take the train instead."
       ],
-      "answer": 1
+      "answer": 2
     },
     {
       "id": "lcr_404",
       "prompt": "Could you help me install this new software?",
       "options": [
-        "Sure, let me just finish this email.",
         "The hardware is completely new.",
         "I bought it at the computer store.",
-        "Installation took three hours."
+        "Installation took three hours.",
+        "Sure, let me just finish this email."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_405",
       "prompt": "Why did Professor Smith cancel today's lecture?",
       "options": [
-        "The lecture is at 2 PM.",
         "He was feeling unwell this morning.",
+        "The lecture is at 2 PM.",
         "He assigned a lot of reading.",
         "The classroom is on the third floor."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": "lcr_406",
       "prompt": "Do you prefer studying in the library or at home?",
       "options": [
         "My home is quite close to campus.",
-        "The library has many new books.",
         "I usually focus better at the library.",
+        "The library has many new books.",
         "I studied for three hours yesterday."
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": "lcr_407",
@@ -2737,23 +2737,23 @@
       "id": "lcr_408",
       "prompt": "Are you going to the career fair this afternoon?",
       "options": [
-        "I haven't updated my resume yet, so no.",
         "The fair was very crowded last year.",
         "Many companies will be recruiting.",
-        "Careers in engineering are in demand."
+        "Careers in engineering are in demand.",
+        "I haven't updated my resume yet, so no."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_409",
       "prompt": "Which train goes to the airport terminal?",
       "options": [
+        "Take the blue line on platform three.",
         "The airport is very busy today.",
         "Trains run every fifteen minutes.",
-        "Take the blue line on platform three.",
         "Flights are frequently delayed here."
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": "lcr_410",
@@ -2771,22 +2771,22 @@
       "prompt": "What did you think of the documentary we watched?",
       "options": [
         "Documentaries are often educational.",
-        "The cinematography was quite impressive.",
         "We watched it in the main auditorium.",
+        "The cinematography was quite impressive.",
         "It starts at seven in the evening."
       ],
-      "answer": 1
+      "answer": 2
     },
     {
       "id": "lcr_412",
       "prompt": "Where can I find the extra extension cords?",
       "options": [
-        "They are in the supply closet on the second shelf.",
         "The power went out yesterday.",
         "We need to plug in the projector.",
-        "Cords can be quite expensive."
+        "Cords can be quite expensive.",
+        "They are in the supply closet on the second shelf."
       ],
-      "answer": 0
+      "answer": 3
     }
   ],
   "conversations": [
@@ -2824,12 +2824,12 @@
         {
           "q": "Why does the student meet the advisor?",
           "options": [
-            "To drop statistics",
             "To ask about adding a course",
+            "To drop statistics",
             "To change majors",
             "To report a technical problem"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "What problem does the advisor mention?",
@@ -2877,22 +2877,22 @@
         {
           "q": "Why does the student want to change lab sections?",
           "options": [
-            "His work schedule changed.",
             "He failed the safety quiz.",
             "The Thursday section was canceled.",
+            "His work schedule changed.",
             "He wants a different professor."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What does the professor say about the Tuesday section?",
           "options": [
-            "It has space available.",
             "It meets online only.",
             "It requires a different textbook.",
-            "It is already full."
+            "It is already full.",
+            "It has space available."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What has the student already done?",
@@ -2907,12 +2907,12 @@
         {
           "q": "What will the professor do?",
           "options": [
-            "Approve the change after being copied on the email",
             "Teach both lab sections personally",
+            "Approve the change after being copied on the email",
             "Cancel the student’s work shift",
             "Give a new safety lecture"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -2950,22 +2950,22 @@
         {
           "q": "What kind of sources does the student need?",
           "options": [
-            "Local policy documents",
             "Popular travel blogs",
             "Historical novels",
+            "Local policy documents",
             "Laboratory reports"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What does the librarian recommend searching for?",
           "options": [
-            "Mobility plan",
             "Bus expansion only",
             "Student account",
-            "Library schedule"
+            "Library schedule",
+            "Mobility plan"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why was the student having difficulty?",
@@ -2980,12 +2980,12 @@
         {
           "q": "How can the student access the documents from home?",
           "options": [
-            "Through the library portal",
             "By visiting city hall in person",
+            "Through the library portal",
             "By emailing the professor",
             "Through a public social media page"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3023,22 +3023,22 @@
         {
           "q": "Why does the student speak with the coordinator?",
           "options": [
-            "To ask about volunteering for an exhibit",
             "To submit artwork for a competition",
             "To complain about a label",
+            "To ask about volunteering for an exhibit",
             "To change an evening class"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What experience does the student have?",
           "options": [
-            "A class project involving artwork",
             "Professional museum work",
             "Curating several exhibits",
-            "No experience following instructions"
+            "No experience following instructions",
+            "A class project involving artwork"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What will volunteers help do?",
@@ -3053,12 +3053,12 @@
         {
           "q": "When is the training?",
           "options": [
-            "Saturday morning",
             "Sunday afternoon",
+            "Saturday morning",
             "An evening during the week",
             "During the exhibit opening"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3096,22 +3096,22 @@
         {
           "q": "What problem does the student describe?",
           "options": [
-            "A study was canceled after he arrived.",
             "He missed the credit deadline.",
             "He lost his student card.",
+            "A study was canceled after he arrived.",
             "The psychology course was full."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Why was the student’s card not scanned?",
           "options": [
-            "The scanner was not working.",
             "The student forgot the card.",
             "The assistant refused to scan it.",
-            "The study did not require attendance."
+            "The study did not require attendance.",
+            "The scanner was not working."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What will the assistant do?",
@@ -3126,12 +3126,12 @@
         {
           "q": "When should the student email the office if credit does not appear?",
           "options": [
-            "Thursday afternoon",
             "Tomorrow morning",
+            "Thursday afternoon",
             "Friday night",
             "Next semester"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3169,22 +3169,22 @@
         {
           "q": "What is the student concerned about?",
           "options": [
-            "The poster contains too much text.",
             "The session was canceled.",
             "The model file was lost.",
+            "The poster contains too much text.",
             "The mentor changed the topic."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What main result does the student want to show?",
           "options": [
-            "Wetlands reduced flooding more than predicted.",
             "Rainfall data were unavailable.",
             "The poster session moved online.",
-            "The methods section was unnecessary."
+            "The methods section was unnecessary.",
+            "Wetlands reduced flooding more than predicted."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What does the mentor suggest about the rainfall data?",
@@ -3199,12 +3199,12 @@
         {
           "q": "What is the likely purpose of the conversation?",
           "options": [
-            "To improve the poster before a presentation",
             "To register for a new course",
+            "To improve the poster before a presentation",
             "To request a grade change",
             "To schedule fieldwork equipment"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3242,22 +3242,22 @@
         {
           "q": "Why did the student miss the field trip?",
           "options": [
-            "His train was canceled.",
             "He forgot the due date.",
             "The site was unsafe.",
+            "His train was canceled.",
             "He changed courses."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What does the professor offer?",
           "options": [
-            "An alternative observation task",
             "A repeated class field trip",
             "Automatic full credit",
-            "A different textbook assignment"
+            "A different textbook assignment",
+            "An alternative observation task"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why should the student use an approved site?",
@@ -3272,12 +3272,12 @@
         {
           "q": "What must the student upload?",
           "options": [
-            "Photographs with the report",
             "A train ticket only",
+            "Photographs with the report",
             "A recording of the lecture",
             "The other students’ notebooks"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3315,22 +3315,22 @@
         {
           "q": "What does the student want to do?",
           "options": [
-            "Apply for a radio interview",
             "Work as a dining hall manager",
             "Edit live news broadcasts",
+            "Apply for a radio interview",
             "Cancel a research project"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What should the student send?",
           "options": [
-            "A short project summary and reason listeners would care",
             "A complete transcript of every interview",
             "A list of radio equipment",
-            "A dining hall menu"
+            "A dining hall menu",
+            "A short project summary and reason listeners would care"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why might the student’s topic be suitable?",
@@ -3345,12 +3345,12 @@
         {
           "q": "What does the producer say about speaking live?",
           "options": [
-            "The interview will be recorded in advance.",
             "The student must speak live tomorrow.",
+            "The interview will be recorded in advance.",
             "Live interviews are required for research topics.",
             "The station never edits interviews."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3388,22 +3388,22 @@
         {
           "q": "What problem does the student report?",
           "options": [
-            "The piano in the reserved room is out of tune.",
             "The performance exam was canceled.",
             "The reservation system is closed.",
+            "The piano in the reserved room is out of tune.",
             "Room 318 has no instrument."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Why is the problem urgent for the student?",
           "options": [
-            "She has a performance exam tomorrow.",
             "She is repairing the piano herself.",
             "She forgot to reserve a room.",
-            "She works at the music office."
+            "She works at the music office.",
+            "She has a performance exam tomorrow."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What does the staff member offer to do?",
@@ -3418,12 +3418,12 @@
         {
           "q": "Who will create the maintenance request?",
           "options": [
-            "The staff member",
             "The student",
+            "The staff member",
             "The examiner",
             "The piano tuner only"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3462,41 +3462,41 @@
           "q": "Why does the student approach the staff member?",
           "options": [
             "To report a stolen item.",
-            "To ask about a missing student ID card.",
             "To request access to the dormitory.",
+            "To ask about a missing student ID card.",
             "To complain about the cafeteria food."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "Why is the student concerned about finding the ID card today?",
           "options": [
             "He needs it to borrow a book from the library.",
             "He has to take a midterm exam this afternoon.",
-            "He requires it to enter his dormitory building.",
-            "He needs to show it to campus security."
+            "He needs to show it to campus security.",
+            "He requires it to enter his dormitory building."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What does the staff member advise the student to do next?",
           "options": [
+            "Go to the campus security office.",
             "Fill out a replacement card application.",
             "Retrace his steps in the cafeteria.",
-            "Go to the campus security office.",
             "Wait until someone returns the card."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "Where is the campus security office located?",
           "options": [
-            "Next to the parking garage in the administration building.",
             "On the top floor of the student union.",
+            "Next to the parking garage in the administration building.",
             "Inside the main cafeteria.",
             "Near the dormitory entrances."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3534,42 +3534,42 @@
         {
           "q": "What is the main problem the student is discussing with the advisor?",
           "options": [
-            "A group member is not participating and missing meetings.",
             "The topic for the sociology project is too difficult.",
             "The group cannot find enough research material.",
+            "A group member is not participating and missing meetings.",
             "The presentation date needs to be extended."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What did the group do to address the situation before talking to the advisor?",
           "options": [
             "They complained to the department head.",
             "They removed the student from the group.",
-            "They sent an email to the absent group member.",
-            "They completed his portion of the research."
+            "They completed his portion of the research.",
+            "They sent an email to the absent group member."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What does the advisor suggest they do first?",
           "options": [
-            "Instantly fail the student who isn't contributing.",
             "Wait one more day for a response.",
+            "Instantly fail the student who isn't contributing.",
             "Write a new email to the entire class.",
             "Restructure the group immediately."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "What will happen if the group member does not reply by tomorrow?",
           "options": [
             "The advisor will assign a new project topic.",
-            "The student will have to do the project alone.",
             "The advisor will send a formal note to the group.",
+            "The student will have to do the project alone.",
             "The group will receive a lower grade."
           ],
-          "answer": 2
+          "answer": 1
         }
       ]
     },
@@ -3608,41 +3608,41 @@
           "q": "Why does the student go to see the professor?",
           "options": [
             "To ask for help choosing a research topic.",
-            "To request more time to complete an assignment.",
             "To discuss a failing grade on a recent paper.",
+            "To request more time to complete an assignment.",
             "To get permission to use a specific dataset."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What problem is the student facing with their research?",
           "options": [
             "They cannot find enough secondary sources.",
             "They do not understand the urban heat island effect.",
-            "A crucial dataset is temporarily unavailable.",
-            "The professor rejected their initial topic proposal."
-          ],
-          "answer": 2
-        },
-        {
-          "q": "What has the student already completed for the paper?",
-          "options": [
-            "The primary data analysis and conclusion.",
-            "The introduction and the works cited page.",
-            "The rough draft of the entire essay.",
-            "The outline and secondary research."
+            "The professor rejected their initial topic proposal.",
+            "A crucial dataset is temporarily unavailable."
           ],
           "answer": 3
         },
         {
+          "q": "What has the student already completed for the paper?",
+          "options": [
+            "The outline and secondary research.",
+            "The primary data analysis and conclusion.",
+            "The introduction and the works cited page.",
+            "The rough draft of the entire essay."
+          ],
+          "answer": 0
+        },
+        {
           "q": "What does the professor ask the student to do?",
           "options": [
-            "Email a reminder about the new deadline.",
             "Submit the outline immediately.",
+            "Email a reminder about the new deadline.",
             "Change their research topic entirely.",
             "Contact the city to get the data sooner."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -3681,31 +3681,31 @@
           "q": "What is the student trying to do?",
           "options": [
             "Return a book that is overdue.",
-            "Find a book that the library does not own.",
             "Pay a fine for a lost library book.",
+            "Find a book that the library does not own.",
             "Reserve a study room for a presentation."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "Why is the student concerned about the interlibrary loan timeline?",
           "options": [
-            "The physical book takes too long to arrive.",
             "The library charges a fee for late arrivals.",
             "The nearby university might refuse the request.",
-            "The student is leaving campus for the weekend."
+            "The student is leaving campus for the weekend.",
+            "The physical book takes too long to arrive."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What solution does the librarian propose?",
           "options": [
+            "Requesting digital scans of specific chapters.",
             "The student should drive to the other university.",
             "The student should choose a different topic.",
-            "Requesting digital scans of specific chapters.",
             "Buying the book from the campus bookstore."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "How long do digital scans usually take to arrive?",
@@ -3754,31 +3754,31 @@
           "q": "What is the main purpose of the conversation?",
           "options": [
             "To register for classes abroad.",
-            "To discuss a scholarship application.",
             "To change the student's major.",
+            "To discuss a scholarship application.",
             "To review a completed essay."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What part of the application is the student having trouble with?",
           "options": [
-            "The personal statement.",
             "The financial aid forms.",
             "Requesting official transcripts.",
-            "Obtaining letters of recommendation."
+            "Obtaining letters of recommendation.",
+            "The personal statement."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What does the advisor suggest the student focus on in the essay?",
           "options": [
+            "Their specific interest in East Asian trade policies.",
             "Their struggles with learning Japanese.",
             "Their general interest in all cultures.",
-            "Their specific interest in East Asian trade policies.",
             "Their need for financial assistance."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What is the student supposed to do next?",
@@ -3828,40 +3828,40 @@
           "options": [
             "To report a problem with the classroom lighting.",
             "To ask for help operating a ceiling projector.",
-            "To reserve Room 304 for a guest lecture.",
-            "To report that a projector is not working."
+            "To report that a projector is not working.",
+            "To reserve Room 304 for a guest lecture."
           ],
-          "answer": 3
+          "answer": 2
         },
         {
           "q": "What does the flashing red light on the projector indicate?",
           "options": [
             "The control panel needs to be reset.",
             "The projector is turned off.",
-            "The bulb has likely burned out or overheated.",
-            "The projector is currently cooling down."
+            "The projector is currently cooling down.",
+            "The bulb has likely burned out or overheated."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "How does the student feel about the situation?",
           "options": [
-            "Relieved that the lecture is cancelled.",
             "Anxious because the lecture starts very soon.",
+            "Relieved that the lecture is cancelled.",
             "Confused about how to use the control panel.",
             "Angry that the staff member is unhelpful."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "How will the staff member solve the problem?",
           "options": [
             "By replacing the bulb in the ceiling projector.",
-            "By moving the lecture to a different room.",
             "By providing a portable projector on a cart.",
+            "By moving the lecture to a different room.",
             "By calling technical support immediately."
           ],
-          "answer": 2
+          "answer": 1
         }
       ]
     }
@@ -3875,12 +3875,12 @@
         {
           "q": "What is the purpose of the announcement?",
           "options": [
-            "To cancel science classes",
             "To explain a temporary entrance closure",
+            "To cancel science classes",
             "To announce a new parking rule",
             "To move laboratories"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "What will remain unchanged?",
@@ -3902,22 +3902,22 @@
         {
           "q": "What is the announcement mainly about?",
           "options": [
-            "A temporary change during dining hall renovation",
             "A new meal plan requirement",
             "The opening of a new residence hall",
+            "A temporary change during dining hall renovation",
             "A cancellation of breakfast service"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What will remain the same?",
           "options": [
-            "Breakfast and lunch times",
             "The amount of seating",
             "The entrance students should use",
-            "The length of the project"
+            "The length of the project",
+            "Breakfast and lunch times"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What are students encouraged to do?",
@@ -3939,32 +3939,32 @@
         {
           "q": "What is causing the shuttle delay?",
           "options": [
-            "Road repairs on College Avenue",
             "A train station closure",
+            "Road repairs on College Avenue",
             "A shortage of drivers",
             "A change in the academic calendar"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "When may the blue shuttle be late?",
           "options": [
-            "Between 2 p.m. and 5 p.m. today",
             "All morning tomorrow",
             "Only after midnight",
+            "Between 2 p.m. and 5 p.m. today",
             "Throughout the entire week"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What does the announcement suggest for train station riders?",
           "options": [
-            "Take the green route",
             "Wait for a special bus",
             "Walk to College Avenue",
-            "Cancel their trip"
+            "Cancel their trip",
+            "Take the green route"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -3986,22 +3986,22 @@
         {
           "q": "Which topic will be covered on Wednesday?",
           "options": [
-            "Integrating sources",
             "Thesis statements",
+            "Integrating sources",
             "Revising introductions",
             "Registering for classes"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What should students bring?",
           "options": [
-            "A draft or assignment prompt",
             "A completed midterm exam",
             "A registration receipt",
+            "A draft or assignment prompt",
             "A laptop borrowed from the center"
           ],
-          "answer": 0
+          "answer": 2
         }
       ]
     },
@@ -4013,12 +4013,12 @@
         {
           "q": "What is the announcement about?",
           "options": [
-            "Picking up custom course packets",
             "Returning rented textbooks",
             "Changing bookstore hours",
-            "Ordering student IDs"
+            "Ordering student IDs",
+            "Picking up custom course packets"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What should students bring?",
@@ -4033,12 +4033,12 @@
         {
           "q": "Why are some students encouraged to come after 3 p.m.?",
           "options": [
-            "The counter is expected to be busy.",
             "Packets are not available before then.",
+            "The counter is expected to be busy.",
             "Morning classes are canceled.",
             "The bookstore opens at 3 p.m."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -4050,22 +4050,22 @@
         {
           "q": "Where will the clinic be held?",
           "options": [
-            "In the recreation gym",
             "At the bookstore",
             "In the library lobby",
+            "In the recreation gym",
             "At the train station"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Are appointments required?",
           "options": [
-            "No, but they are recommended.",
             "Yes, no walk-ins are allowed.",
             "Only for faculty members",
-            "Only after 4 p.m."
+            "Only after 4 p.m.",
+            "No, but they are recommended."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why should students not arrive too early?",
@@ -4087,32 +4087,32 @@
         {
           "q": "Why is Rehearsal Room B unavailable?",
           "options": [
-            "The lighting board is being replaced.",
             "The theater program ended.",
+            "The lighting board is being replaced.",
             "Studio 4 is closed.",
             "All rehearsals were canceled."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "Where have groups been moved?",
           "options": [
-            "Studio 4",
             "Room B at a later time",
             "The auditorium lobby",
+            "Studio 4",
             "The music library"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What should students check before arriving?",
           "options": [
-            "Their email for access instructions",
             "The ticket sales report",
             "A new audition schedule",
-            "The weather forecast"
+            "The weather forecast",
+            "Their email for access instructions"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -4135,21 +4135,21 @@
           "q": "Why is the water being shut off?",
           "options": [
             "To save money on utility bills.",
-            "To upgrade the cafeteria kitchen.",
             "To perform emergency maintenance on a water line.",
+            "To upgrade the cafeteria kitchen.",
             "To clean the restrooms in the Science Building."
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "What provision has been made for people in the affected buildings?",
           "options": [
             "The cafeteria will offer free meals.",
-            "Bottled water stations will be available in the lobbies.",
             "Classes in those buildings will be canceled.",
+            "Bottled water stations will be available in the lobbies.",
             "Portable restrooms will be placed outside."
           ],
-          "answer": 1
+          "answer": 2
         }
       ]
     },
@@ -4162,21 +4162,21 @@
           "q": "What change is being announced regarding the library?",
           "options": [
             "The library is permanently changing its opening hours.",
-            "The library will be open 24/7 during the final exam period.",
             "The library is closing early for renovations.",
-            "The library will require an entrance fee."
+            "The library will require an entrance fee.",
+            "The library will be open 24/7 during the final exam period."
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "Until what time will the reference desk be staffed during this period?",
           "options": [
+            "Midnight",
             "8:00 PM",
             "10:00 PM",
-            "Midnight",
             "It will be unstaffed."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What is required to enter the library after 8:00 PM?",
@@ -4199,21 +4199,21 @@
           "q": "What is the primary purpose of the announcement?",
           "options": [
             "To announce the closure of the campus library.",
-            "To inform the campus about an upcoming power outage.",
             "To provide instructions on winterizing dorm rooms.",
+            "To inform the campus about an upcoming power outage.",
             "To warn students about unexpected power surges."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "Why is the power outage necessary?",
           "options": [
             "To repair damage caused by a recent winter storm.",
-            "To upgrade main transformers and improve grid reliability.",
             "To install new electronic equipment in the labs.",
-            "To perform routine cleaning of the dining halls."
+            "To perform routine cleaning of the dining halls.",
+            "To upgrade main transformers and improve grid reliability."
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "What are students and faculty asked to do by Friday night?",
@@ -4236,21 +4236,21 @@
           "q": "What caused the problem with the student ID cards?",
           "options": [
             "Students provided low-quality photos.",
-            "The card printer ran out of ink.",
             "A technical glitch with the camera system.",
+            "The card printer ran out of ink.",
             "The ID cards were damaged in the mail."
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "What must students bring with them to get a new ID?",
           "options": [
             "A fee for the replacement card.",
-            "Their current, defective ID card.",
             "Their class schedule for the semester.",
+            "Their current, defective ID card.",
             "A government-issued photo ID."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What will happen if students do not replace their defective cards?",
@@ -4283,21 +4283,21 @@
           "q": "Why is the university changing its recycling system?",
           "options": [
             "The old bins were damaged and needed replacing.",
-            "To create jobs for students on campus.",
             "The local facility no longer accepts mixed recyclables.",
+            "To create jobs for students on campus.",
             "The university received a grant for new bins."
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "What should be placed in the green bins?",
           "options": [
             "Paper and cardboard.",
-            "Clean plastic bottles and aluminum cans.",
             "General landfill waste.",
+            "Clean plastic bottles and aluminum cans.",
             "Food waste and compostables."
           ],
-          "answer": 1
+          "answer": 2
         }
       ]
     }
@@ -4311,12 +4311,12 @@
         {
           "q": "What is the talk mainly about?",
           "options": [
-            "How plants make fruit",
             "Different mechanisms of seed dispersal",
+            "How plants make fruit",
             "Why animals avoid seeds",
             "How seedlings produce flowers"
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "What characteristic can help wind-dispersed seeds?",
@@ -4338,22 +4338,22 @@
         {
           "q": "What is the talk mainly about?",
           "options": [
-            "The ecological role and protection of mangrove forests",
             "The history of tropical agriculture",
             "The design of inland fish farms",
+            "The ecological role and protection of mangrove forests",
             "The chemical composition of ocean salt"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "How do mangroves deal with salty water?",
           "options": [
-            "They filter, store, or excrete salt.",
             "They grow only in freshwater rivers.",
             "They avoid contact with seawater.",
-            "They turn salt into sediment."
+            "They turn salt into sediment.",
+            "They filter, store, or excrete salt."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What benefit do tangled roots provide?",
@@ -4368,22 +4368,22 @@
         {
           "q": "Why are some restoration projects unsuccessful?",
           "options": [
-            "They ignore local physical conditions and shoreline use.",
             "They plant seedlings only in forests.",
+            "They ignore local physical conditions and shoreline use.",
             "They use too much freshwater.",
             "They focus on fish instead of plants."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What can be inferred about mangrove restoration?",
           "options": [
-            "Planting seedlings alone may not be enough.",
             "It is impossible near communities.",
             "It requires removing all young fish.",
+            "Planting seedlings alone may not be enough.",
             "It works best when water flow is blocked."
           ],
-          "answer": 0
+          "answer": 2
         }
       ]
     },
@@ -4395,12 +4395,12 @@
         {
           "q": "What is working memory used for?",
           "options": [
-            "Holding and manipulating information briefly",
             "Storing every life experience permanently",
             "Controlling muscle growth",
-            "Replacing long-term knowledge"
+            "Replacing long-term knowledge",
+            "Holding and manipulating information briefly"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why is working memory distinguished from long-term memory?",
@@ -4415,32 +4415,32 @@
         {
           "q": "How can background knowledge help working memory?",
           "options": [
-            "By grouping details into meaningful patterns",
             "By eliminating the need for attention",
+            "By grouping details into meaningful patterns",
             "By making all tasks automatic",
             "By increasing the number of senses"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "Why are experts mentioned?",
           "options": [
-            "To illustrate how knowledge can make problem solving more efficient",
             "To argue that beginners cannot learn",
             "To show that memory research is complete",
+            "To illustrate how knowledge can make problem solving more efficient",
             "To explain why calculations are unnecessary"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What is the talk mainly about?",
           "options": [
-            "The function and limits of working memory",
             "The history of expert education",
             "The biology of muscle movement",
-            "The development of permanent storage devices"
+            "The development of permanent storage devices",
+            "The function and limits of working memory"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -4462,32 +4462,32 @@
         {
           "q": "What can a moving glacier do?",
           "options": [
-            "Scrape rock and carry loose material",
             "Produce volcanic ash",
+            "Scrape rock and carry loose material",
             "Prevent all erosion",
             "Sort every sediment inside the ice"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What is till?",
           "options": [
-            "A mixed deposit left by melting ice",
             "A type of valley stream",
             "A tool used by geologists",
+            "A mixed deposit left by melting ice",
             "A layer of volcanic glass"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "How can meltwater streams affect sediment?",
           "options": [
-            "They can sort it by size.",
             "They turn it into solid ice.",
             "They remove all boulders from valleys.",
-            "They make glaciers move uphill."
+            "They make glaciers move uphill.",
+            "They can sort it by size."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What can geologists infer from glacial features?",
@@ -4509,32 +4509,32 @@
         {
           "q": "What is the main topic of the talk?",
           "options": [
-            "Why and how languages borrow words",
             "How restaurants choose menus",
+            "Why and how languages borrow words",
             "Why literary traditions disappear",
             "How pronunciation never changes"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What can cause borrowing?",
           "options": [
-            "Contact through trade, migration, conquest, or culture",
             "The complete isolation of speakers",
             "The end of popular culture",
+            "Contact through trade, migration, conquest, or culture",
             "A refusal to name new objects"
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What may happen to borrowed words?",
           "options": [
-            "Their pronunciation or meaning may change.",
             "They always keep exactly the same meaning.",
             "They disappear immediately.",
-            "They become impossible to pronounce."
+            "They become impossible to pronounce.",
+            "Their pronunciation or meaning may change."
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why do linguists study borrowing?",
@@ -4549,12 +4549,12 @@
         {
           "q": "What does the talk imply about languages with literary traditions?",
           "options": [
-            "They can still change over time.",
             "They never borrow words.",
+            "They can still change over time.",
             "They lack everyday speakers.",
             "They cannot describe new experiences."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -4567,51 +4567,51 @@
           "q": "What is the main topic of the lecture?",
           "options": [
             "The various types of deserts around the world.",
-            "How desert plants adapt their photosynthetic process to conserve water.",
             "Why plants need carbon dioxide for survival.",
+            "How desert plants adapt their photosynthetic process to conserve water.",
             "The different species of cacti found in arid regions."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "According to the speaker, what is the main problem desert plants face during photosynthesis?",
           "options": [
             "A lack of sunlight.",
             "Too much carbon dioxide in the air.",
-            "Severe water loss through open stomata.",
-            "Freezing temperatures at night."
+            "Freezing temperatures at night.",
+            "Severe water loss through open stomata."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What does CAM stand for?",
           "options": [
-            "Carbon Absorption Mechanism.",
             "Crassulacean Acid Metabolism.",
+            "Carbon Absorption Mechanism.",
             "Cacti Adaptation Method.",
             "Cellular Arid Maintenance."
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "q": "When do CAM plants open their stomata?",
           "options": [
             "During the hottest part of the day.",
-            "Only when it rains.",
             "At night, when it is cooler.",
+            "Only when it rains.",
             "Continuously throughout the day and night."
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "What can be inferred about non-CAM plants placed in a desert environment?",
           "options": [
             "They would easily adapt and change into CAM plants.",
-            "They would likely dehydrate because they open their stomata during the day.",
             "They would absorb more carbon dioxide than cacti.",
+            "They would likely dehydrate because they open their stomata during the day.",
             "They would only perform photosynthesis at night."
           ],
-          "answer": 1
+          "answer": 2
         }
       ]
     },
@@ -4625,20 +4625,20 @@
           "options": [
             "The military conquests of the Roman Empire.",
             "The architectural innovations of Roman engineers.",
-            "The hierarchical social structure within ancient Roman cities.",
-            "The economic policies of the Roman Republic."
+            "The economic policies of the Roman Republic.",
+            "The hierarchical social structure within ancient Roman cities."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "Who were the patricians in ancient Roman society?",
           "options": [
+            "The wealthy elite with ancestral ties to Rome's founding.",
             "Common citizens like artisans and farmers.",
             "Emancipated slaves.",
-            "The wealthy elite with ancestral ties to Rome's founding.",
             "Foreign merchants living in the city."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What were the living conditions like for most plebeians?",
@@ -4654,21 +4654,21 @@
           "q": "According to the lecture, what was a common danger associated with the insulae?",
           "options": [
             "They were frequently attacked by invaders.",
-            "They were prone to fires and poorly constructed.",
             "They were located too far from the city center.",
+            "They were prone to fires and poorly constructed.",
             "They were too expensive for most people to afford."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What role did slaves play in the urban population?",
           "options": [
-            "They made up a large part of the population and did manual and domestic labor.",
             "They were a small minority primarily working as scribes.",
             "They served as political advisors to the patricians.",
-            "They were strictly used for agricultural work outside the cities."
+            "They were strictly used for agricultural work outside the cities.",
+            "They made up a large part of the population and did manual and domestic labor."
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -4680,12 +4680,12 @@
         {
           "q": "What is the main purpose of the lecture?",
           "options": [
+            "To discuss an ecosystem that relies on chemical energy rather than sunlight.",
             "To describe the process of photosynthesis in marine plants.",
             "To explain how tectonic plates form mid-ocean ridges.",
-            "To discuss an ecosystem that relies on chemical energy rather than sunlight.",
             "To recount the history of deep-sea exploration submersibles."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "What did scientists believe before the discovery of hydrothermal vents?",
@@ -4712,20 +4712,20 @@
           "options": [
             "They filter microscopic plants from the water.",
             "They prey on blind shrimp and pale crabs.",
-            "They have chemosynthetic bacteria living inside them.",
-            "They absorb minerals directly from the superheated water."
+            "They absorb minerals directly from the superheated water.",
+            "They have chemosynthetic bacteria living inside them."
           ],
-          "answer": 2
+          "answer": 3
         },
         {
           "q": "What can be inferred about the search for extraterrestrial life based on this lecture?",
           "options": [
+            "It may target extreme environments previously thought uninhabitable.",
             "It is currently focused on finding planets with abundant sunlight.",
             "It has been largely abandoned due to a lack of funding.",
-            "It may target extreme environments previously thought uninhabitable.",
             "It has already discovered chemosynthetic bacteria on other planets."
           ],
-          "answer": 2
+          "answer": 0
         }
       ]
     },
@@ -4738,51 +4738,51 @@
           "q": "What is the main topic of the lecture?",
           "options": [
             "The life and musical contributions of Guido of Arezzo.",
-            "The history of Gregorian chant in the early Middle Ages.",
             "The historical development of musical notation systems.",
+            "The history of Gregorian chant in the early Middle Ages.",
             "The differences between monophonic and polyphonic music."
           ],
-          "answer": 2
+          "answer": 1
         },
         {
           "q": "Why was the earliest form of musical notation created?",
           "options": [
             "To allow composers to sell their music to the public.",
-            "To help monks remember a growing number of melodies.",
             "To teach children how to sing in church choirs.",
+            "To help monks remember a growing number of melodies.",
             "To record the precise rhythms of popular folk songs."
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "q": "What limitation did 'neumes' have when they were first used?",
           "options": [
             "They could only be written by skilled monks.",
-            "They did not show the exact pitches of the notes.",
             "They took up too much space on the parchment.",
-            "They were only used for secular music."
+            "They were only used for secular music.",
+            "They did not show the exact pitches of the notes."
           ],
-          "answer": 1
+          "answer": 3
         },
         {
           "q": "What was the significant contribution of Guido of Arezzo?",
           "options": [
+            "He introduced the use of horizontal lines for pitch.",
             "He invented polyphonic music.",
             "He created the first musical instruments.",
-            "He introduced the use of horizontal lines for pitch.",
             "He developed note shapes to indicate rhythm."
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "q": "According to the professor, what musical development necessitated the invention of rhythmic notation?",
           "options": [
             "The invention of the printing press.",
+            "The rise of music with multiple independent voices.",
             "The transition from sacred to secular music.",
-            "The desire to sing faster tempos.",
-            "The rise of music with multiple independent voices."
+            "The desire to sing faster tempos."
           ],
-          "answer": 3
+          "answer": 1
         }
       ]
     }
