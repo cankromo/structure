@@ -37,6 +37,11 @@ EXPECTED_COUNTS = {
     "speaking": 11,
 }
 
+EXPECTED_SPEAKING_DISTRIBUTION = {
+    "repeat": 7,
+    "interview": 4,
+}
+
 SECTION_ORDER = ["reading", "listening", "writing", "speaking"]
 
 
@@ -203,6 +208,13 @@ def validate_tests(questions, tests):
             if section_counts.get(section_name) != expected_count:
                 errors.append(
                     f"{test_id}: {section_name} count {section_counts.get(section_name)} must be {expected_count}"
+                )
+
+        speaking_distribution = distribution.get("speaking", {})
+        for question_type, expected_count in EXPECTED_SPEAKING_DISTRIBUTION.items():
+            if speaking_distribution.get(question_type) != expected_count:
+                errors.append(
+                    f"{test_id}: speaking {question_type} count {speaking_distribution.get(question_type)} must be {expected_count}"
                 )
 
         duplicate_used = sorted(item_id for item_id, count in Counter(used_ids).items() if count > 1)

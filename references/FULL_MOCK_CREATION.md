@@ -67,6 +67,7 @@ Listening must include these task types:
 Rules:
 
 - Total Listening item count must be exactly 47.
+- Before generating Listening items, read `references/LISTENING_TASKS_STYLE.md`.
 - Script text must not be shown to the user.
 - Audio playback must happen through the mock UI.
 - Conversations should use different speaker roles.
@@ -116,8 +117,12 @@ Task types:
 
 Rules:
 
+- Use exactly 7 Listen and Repeat items.
+- Use exactly 4 Take an Interview items.
 - Listen and Repeat prompts should be short, natural, and speech-like.
 - Take an Interview questions should ask for short spoken responses.
+- Before generating Listen and Repeat items, read `references/SPEAKING_REPEAT_STYLE.md`.
+- Before generating Take an Interview items, read `references/TAKE_INTERVIEW_STYLE.md`.
 - Do not break the MediaRecorder recording system.
 - All speaking recordings must be included in the export package.
 - Total Speaking item count must be exactly 11.
@@ -308,7 +313,7 @@ Writing:
 
 Speaking:
 
-- Listen and Repeat: X
-- Take an Interview: X
+- Listen and Repeat: 7
+- Take an Interview: 4
 
 Do not present subtask distributions as official exact ETS distributions.

@@ -73,7 +73,7 @@ Current non-official internal distribution used by the project:
 - Reading: Complete Words 20, Daily Life 12, Academic Passage 18
 - Listening: Choose Response 12, Conversations 16, Announcements 9, Academic Talks 10
 - Writing: Build Sentence 10, Email 1, Discussion 1
-- Speaking: Repeat 6, Interview 5
+- Speaking: Repeat 7, Interview 4
 
 Do not label this distribution as official ETS distribution.
 
@@ -92,7 +92,9 @@ Do not label this distribution as official ETS distribution.
 - Before generating Build a Sentence items, read `references/BUILD_SENTENCE_STYLE.md`.
 - Before generating Write an Email items, read `references/WRITE_EMAIL_STYLE.md`.
 - Before generating Academic Discussion writing items, read `references/ACADEMIC_DISCUSSION_STYLE.md`.
+- Before generating Listening items, read `references/LISTENING_TASKS_STYLE.md`.
 - Before generating Listen and Repeat items, read `references/SPEAKING_REPEAT_STYLE.md`.
+- Before generating Take an Interview items, read `references/TAKE_INTERVIEW_STYLE.md`.
 - Do not add new questions unless the content follows the quality rules in the relevant reference file.
 
 ## Schema Rules
