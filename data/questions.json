@@ -5275,143 +5275,283 @@
   "repeat": [
     {
       "id": "rep_001",
-      "text": "The campus bookstore closes at six this evening."
+      "text": "Scan each item before bagging it.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
     },
     {
       "id": "rep_002",
-      "text": "Students can borrow laboratory equipment from the service desk on the first floor."
+      "text": "Place heavy items in the bagging area.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
     },
     {
       "id": "rep_101",
-      "text": "The deadline for submitting the housing form has been extended until Friday afternoon."
+      "text": "Use the touch screen to choose your payment method.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
     },
     {
       "id": "rep_102",
-      "text": "Several students volunteered to organize the discussion after the guest lecture."
+      "text": "Check the total before the customer inserts a card.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
     },
     {
       "id": "rep_103",
-      "text": "The biology department recently purchased new microscopes for the introductory laboratory."
+      "text": "Remove any item that was scanned twice by mistake.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
     },
     {
       "id": "rep_104",
-      "text": "Participants should read the consent form carefully before signing their names."
+      "text": "If the scale gives an error, ask the customer to wait for assistance.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
     },
     {
       "id": "rep_105",
-      "text": "The professor emphasized that clear evidence is more important than a long introduction."
+      "text": "When the receipt prints, remind the customer to take all bags from the counter.",
+      "scenario_id": "repeat_grocery_self_checkout",
+      "scenario_intro": "You are working in a grocery store. Your manager is teaching you how to help customers use the self-checkout system. Listen to the manager and repeat what the manager says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     },
     {
       "id": "rep_106",
-      "text": "Campus buses will stop at the temporary shelter while the main station is repaired."
+      "text": "Load the paper before starting the printer.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
     },
     {
       "id": "rep_201",
-      "text": "The research methods workshop will begin fifteen minutes later than originally scheduled."
+      "text": "Select color printing from the menu.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
     },
     {
       "id": "rep_202",
-      "text": "Students should submit their laboratory notebooks before leaving the classroom today."
+      "text": "Place the document face down on the scanner glass.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
     },
     {
       "id": "rep_203",
-      "text": "The university museum is displaying photographs from several community history projects."
+      "text": "Check the preview before sending the file to print.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
     },
     {
       "id": "rep_204",
-      "text": "Clear organization can make a complex argument much easier for readers to follow."
+      "text": "Collect your pages from the tray after printing finishes.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
     },
     {
       "id": "rep_205",
-      "text": "The environmental club plans to plant trees near the river trail this weekend."
+      "text": "If the printer reports a paper jam, open the side panel carefully.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
     },
     {
       "id": "rep_206",
-      "text": "Participants may withdraw from the study at any time without losing course credit."
+      "text": "Contact the technology desk if the scanner does not save the file correctly.",
+      "scenario_id": "repeat_campus_print_center",
+      "scenario_intro": "You are helping a new student at the campus print center. A staff member explains how to use the printer and scanner. Listen to the staff member and repeat what the staff member says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     },
     {
       "id": "rep_301",
-      "text": "The comprehensive exam will cover all the material discussed during the first half of the semester."
+      "text": "Choose your meal from the display.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
     },
     {
       "id": "rep_302",
-      "text": "Students who wish to participate in the study abroad program must submit their applications by Friday."
+      "text": "Tap the drink size you prefer.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
     },
     {
       "id": "rep_303",
-      "text": "Although the experiment yielded unexpected results, the research team considered it a valuable learning experience."
+      "text": "Review your order before moving to payment.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
     },
     {
       "id": "rep_304",
-      "text": "Please ensure that your laboratory reports are properly formatted and include all relevant data tables."
+      "text": "Apply any discount code before confirming the total.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
     },
     {
       "id": "rep_401",
-      "text": "The administration announced that the new science center will open next semester."
+      "text": "Wait for your number to appear on the pickup screen.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
     },
     {
       "id": "rep_402",
-      "text": "Before conducting the experiment, make sure to calibrate all of the sensitive instruments carefully."
+      "text": "If a customer changes an order, return to the previous menu first.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
     },
     {
       "id": "rep_403",
-      "text": "Students are encouraged to participate in extracurricular activities to build a well-rounded resume."
+      "text": "When the meal is ready, direct the customer to the pickup window on the left.",
+      "scenario_id": "repeat_cafe_order_kiosk",
+      "scenario_intro": "You are training at a campus café. Your supervisor is teaching you how to guide customers through the ordering kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     },
     {
       "id": "rep_404",
-      "text": "The library's extensive collection of rare manuscripts is now available in a digital format."
+      "text": "Open the app and enter your password.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
     },
     {
       "id": "rep_405",
-      "text": "An essential part of the curriculum involves applying theoretical knowledge to real-world scenarios."
+      "text": "Check your balance on this screen.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
     },
     {
       "id": "rep_406",
-      "text": "If you require an extension on your assignment, you must contact your professor immediately."
+      "text": "Transfer money after choosing the correct account.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
     },
     {
       "id": "rep_407",
-      "text": "Tap the start button after you place your card on the reader."
+      "text": "Review the bill amount before you approve payment.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
     },
     {
       "id": "rep_408",
-      "text": "Make sure the confirmation number appears before closing the screen."
+      "text": "Save the confirmation number for your records.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
     },
     {
       "id": "rep_409",
-      "text": "Place the receipt in the tray if you need a printed copy."
+      "text": "If the transfer fails, check your internet connection and try again.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
     },
     {
       "id": "rep_410",
-      "text": "Check the service menu before selecting a delivery time."
+      "text": "Call customer support immediately if you notice an unfamiliar transaction.",
+      "scenario_id": "repeat_mobile_banking_app",
+      "scenario_intro": "You are learning how to explain a mobile banking app to customers. A trainer describes the steps for common account tasks. Listen to the trainer and repeat what the trainer says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     },
     {
       "id": "rep_411",
-      "text": "Please return the borrowed headset to the front desk after use."
+      "text": "Check the student identification card first.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
     },
     {
       "id": "rep_412",
-      "text": "You can update your mailing address through the account settings page."
+      "text": "Scan the barcode on the laptop case.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
     },
     {
       "id": "rep_413",
-      "text": "Scan the access card slowly until the green light appears."
+      "text": "Ask the student to sign the borrowing form.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
     },
     {
       "id": "rep_414",
-      "text": "Review the appointment details before you submit the request."
+      "text": "Explain when the device must be returned.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
     },
     {
       "id": "rep_415",
-      "text": "If the screen freezes, press cancel and wait for assistance."
+      "text": "Make sure all cables are inside the bag.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
     },
     {
       "id": "rep_416",
-      "text": "Choose the pickup location that is closest to your classroom."
+      "text": "If an item is missing, write a note before completing the checkout.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
     },
     {
       "id": "rep_417",
-      "text": "You should save your changes before leaving the registration portal."
+      "text": "Remind students that late returns may affect future equipment reservations.",
+      "scenario_id": "repeat_library_equipment_desk",
+      "scenario_intro": "You are working at the university library equipment desk. A librarian explains how to lend devices to students. Listen to the librarian and repeat what the librarian says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     }
   ],
   "interview": [

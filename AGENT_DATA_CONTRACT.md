@@ -127,6 +127,7 @@ Writing:
 Speaking:
 
 - `repeat` objects use `text`.
+- `repeat` objects may also use `scenario_id`, `scenario_intro`, `sequence`, and `level` for 7-sentence Listen and Repeat scenario sets.
 - `interview` objects use `prompt`.
 
 ## Required Agent Workflow

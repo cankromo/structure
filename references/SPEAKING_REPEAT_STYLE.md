@@ -21,6 +21,32 @@ Generated items belong under:
 
 Listen and Repeat prompts are short spoken instructions or practical statements. The user hears one sentence and repeats it aloud.
 
+## Seven-Sentence Scenario Sets
+
+The TOEFL-style pattern for this repo should use scenario-based sets:
+
+- One scenario introduction appears before a group of 7 repeat sentences.
+- The introduction explains the role and context, for example:
+  - the learner works in a store, café, library, office, or campus service area
+  - a manager, staff member, librarian, or trainer is explaining procedures
+  - the learner should listen and repeat only once
+- Each set contains exactly 7 `repeat` items sharing the same `scenario_id`.
+- Each item should include:
+  - `scenario_id`
+  - `scenario_intro`
+  - `sequence` from 1 to 7
+  - `level` such as `Easy`, `Medium`, or `Hard`
+  - `text`
+- Keep existing `id` and `text` fields because the UI and validator depend on them.
+
+Recommended progression inside each 7-sentence set:
+
+- Sentences 1-2: Easy, about 9-11 syllables or short spoken instructions.
+- Sentences 3-5: Medium, about 14-16 syllables or moderately longer instructions.
+- Sentences 6-7: Hard / memory-wall items, about 19-23 syllables or longer procedural instructions.
+
+All seven sentences should stay within one realistic scenario or topic. Do not mix unrelated contexts inside one set.
+
 Common contexts in the observed samples include:
 
 - printer, scanner, or kiosk instructions
