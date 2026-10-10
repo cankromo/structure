@@ -2301,6 +2301,251 @@
           "answer": 3
         }
       ]
+    },
+    {
+      "id": "rap_601",
+      "title": "Peatlands and Carbon Storage",
+      "topic": "Ecology",
+      "difficulty": "B2-C1",
+      "text": "Peatlands are wetlands in which partly decayed plant material accumulates over long periods of time. Because waterlogged soils slow the activity of decomposers, dead mosses, grasses, and shrubs do not break down completely. The resulting peat can store large amounts of carbon for thousands of years.\n\nAlthough peatlands cover only a small portion of Earth’s land surface, they contain a surprisingly large share of the planet’s soil carbon. This makes them important in discussions of climate change. When peatlands remain wet, carbon stays locked in the soil. However, when they are drained for farming, forestry, or construction, oxygen enters the soil and accelerates decomposition. Carbon that had been stored underground is then released into the atmosphere as carbon dioxide.\n\nRestoration projects often focus on raising the water table by blocking drainage channels. This process can be slow, and restored peatlands may not immediately function like undisturbed ones. Nevertheless, scientists argue that protecting existing peatlands is especially valuable because preventing carbon loss is usually easier than rebuilding a damaged ecosystem.",
+      "questions": [
+        {
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Peatlands are valuable ecosystems because they store carbon and can release it when damaged.",
+            "Peatlands are the most common type of wetland on Earth.",
+            "Peatlands are mainly useful because they provide land for farming.",
+            "Peatlands recover quickly after drainage channels are blocked."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “accelerates” in the passage is closest in meaning to",
+          "options": [
+            "measures",
+            "speeds up",
+            "prevents",
+            "explains"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, why does drainage threaten peatlands?",
+          "options": [
+            "It causes peatlands to become too cold for plant growth.",
+            "It removes all plant material from the soil.",
+            "It allows oxygen to enter the soil and increases decomposition.",
+            "It prevents farmers from using nearby land."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention “blocking drainage channels”?",
+          "options": [
+            "To describe one method used in peatland restoration",
+            "To show why peatlands cannot store carbon",
+            "To explain how farmers create new wetlands",
+            "To identify the cause of waterlogged soils"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_602",
+      "title": "The Role of Marginalia",
+      "topic": "History",
+      "difficulty": "B2-C1",
+      "text": "Marginalia are notes, symbols, or comments written in the margins of books and manuscripts. Although such marks may seem distracting to modern readers, historians often treat them as valuable evidence. They can reveal how earlier readers interpreted a text, what they questioned, and which ideas they considered important.\n\nIn printed books from the early modern period, marginal notes sometimes show active disagreement with an author. A reader might underline a claim, write a brief objection, or connect one passage to another source. These markings help scholars reconstruct reading practices that are rarely described in formal records. They also show that books were not always passive objects; they could become spaces for conversation between author and reader.\n\nMarginalia must be interpreted carefully, however. A note may have been added decades after a book was printed, and the identity of the writer is often uncertain. In addition, some markings are practical rather than intellectual, such as price calculations or ownership notes. Even with these limitations, marginalia provide a distinctive window into the history of reading.",
+      "questions": [
+        {
+          "q": "What does the passage suggest about marginalia?",
+          "options": [
+            "They can help historians understand how people responded to texts.",
+            "They were usually added by the authors of printed books.",
+            "They are mainly useful for determining the price of manuscripts.",
+            "They make early modern books impossible to interpret."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “reconstruct” in the passage is closest in meaning to",
+          "options": [
+            "criticize",
+            "recreate",
+            "replace",
+            "simplify"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "All of the following are mentioned as possible forms of marginalia EXCEPT",
+          "options": [
+            "brief objections",
+            "underlined claims",
+            "ownership notes",
+            "published book reviews"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Why does the author mention “price calculations”?",
+          "options": [
+            "To give an example of marginalia that may have a practical purpose",
+            "To argue that readers cared more about money than books",
+            "To show how historians determine the value of manuscripts",
+            "To explain why printed books became cheaper over time"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_603",
+      "title": "Animal Navigation and Magnetic Fields",
+      "topic": "Biology",
+      "difficulty": "B2-C1",
+      "text": "Many animals travel long distances with remarkable accuracy. Migrating birds, sea turtles, and some insects can move across unfamiliar areas and still arrive at suitable feeding or breeding sites. One explanation for this ability is magnetoreception, the capacity to sense Earth’s magnetic field.\n\nScientists have proposed several mechanisms for magnetoreception. In some species, tiny particles of magnetite, a magnetic mineral, may respond to changes in direction or intensity. Other research suggests that light-sensitive proteins in the eyes of birds could help them perceive magnetic information visually. These explanations are not mutually exclusive, and different animals may rely on different systems.\n\nStudying magnetoreception is challenging because navigation rarely depends on a single cue. Animals may combine magnetic information with the position of the sun, smells, landmarks, and learned routes. Experiments must therefore separate magnetic cues from other sources of information. Despite these difficulties, research on magnetoreception has changed how biologists think about animal movement, showing that some species perceive environmental signals that humans cannot easily detect.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the passage?",
+          "options": [
+            "To explain a possible sense that helps animals navigate",
+            "To show that birds navigate only by using landmarks",
+            "To argue that magnetic minerals are found in all animals",
+            "To compare human vision with the eyesight of sea turtles"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “capacity” in the passage is closest in meaning to",
+          "options": [
+            "habit",
+            "ability",
+            "distance",
+            "pattern"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, why is studying magnetoreception difficult?",
+          "options": [
+            "Earth’s magnetic field changes too quickly to measure.",
+            "Most animals avoid moving through unfamiliar places.",
+            "Animals often use several navigation cues at the same time.",
+            "Scientists cannot observe migrating animals in natural settings."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention “the position of the sun, smells, landmarks, and learned routes”?",
+          "options": [
+            "To identify additional cues animals may use while navigating",
+            "To list senses that are more important than magnetoreception",
+            "To explain why migration occurs only during daylight",
+            "To show that magnetic cues have been disproved"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_604",
+      "title": "Community Gardens in Cities",
+      "topic": "Social Sciences",
+      "difficulty": "B2-C1",
+      "text": "Community gardens are shared plots of land where residents grow vegetables, flowers, or herbs. In many cities, they appear in vacant lots, near apartment buildings, or beside schools. While their most obvious purpose is food production, researchers have found that these gardens can serve several social and environmental functions.\n\nOne benefit is that community gardens create spaces where neighbors interact. People who might otherwise rarely speak to one another may exchange tools, advice, or harvested produce. This contact can strengthen local networks and increase residents’ sense of belonging. Gardens can also provide educational opportunities, especially when schools use them to teach students about plant growth, nutrition, or urban ecology.\n\nHowever, community gardens are not automatically permanent or equally accessible. Some are built on land that may later be sold or developed. Others require fees, time, or physical ability that not all residents have. Urban planners therefore argue that successful garden projects need stable land agreements and inclusive rules. Without such planning, a garden may benefit only a small portion of the community it is meant to serve.",
+      "questions": [
+        {
+          "q": "Which of the following best expresses the main idea of the passage?",
+          "options": [
+            "Community gardens can provide social and educational benefits, but they require careful planning.",
+            "Community gardens are used mainly to replace supermarkets in large cities.",
+            "Community gardens are usually created by schools for science classes.",
+            "Community gardens succeed only when they are located near apartment buildings."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “inclusive” in the passage is closest in meaning to",
+          "options": [
+            "profitable",
+            "welcoming",
+            "temporary",
+            "strict"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the passage indicate about some community gardens?",
+          "options": [
+            "They are always protected from future development.",
+            "They require no time or effort from residents.",
+            "They may be difficult for some residents to use.",
+            "They prevent neighbors from exchanging produce."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention “tools, advice, or harvested produce”?",
+          "options": [
+            "To illustrate the kinds of exchanges that can occur among gardeners",
+            "To explain why gardens are expensive to maintain",
+            "To identify materials required by urban planners",
+            "To show that food production is the only goal of community gardens"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_605",
+      "title": "The Preservation of Digital Art",
+      "topic": "Art and Technology",
+      "difficulty": "B2-C1",
+      "text": "Museums have long developed methods for preserving paintings, sculptures, and photographs. Digital art, however, presents different challenges. A work may depend on specific software, hardware, screen resolution, or interactive features. If any of these elements becomes obsolete, the artwork may no longer function as the artist intended.\n\nOne preservation strategy is migration, in which a digital work is transferred to newer formats or systems. This approach can keep the work accessible, but it may change small details of its appearance or behavior. Another strategy is emulation, which uses modern technology to imitate an older computer environment. Emulation can preserve the experience of using outdated software, though it may require technical expertise and continuing maintenance.\n\nCurators also interview artists to understand which features of a work are essential. For some artists, exact visual appearance matters most. For others, the viewer’s interaction or the underlying concept is more important than the original device. As a result, preserving digital art often involves interpretation, not simply storage.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "The special difficulties and strategies involved in preserving digital art",
+            "The reasons museums prefer paintings to interactive artworks",
+            "The history of software used by digital artists",
+            "The process by which artists learn technical maintenance skills"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “obsolete” in the passage is closest in meaning to",
+          "options": [
+            "unpopular",
+            "outdated",
+            "expensive",
+            "unavailable"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, what is one possible disadvantage of migration?",
+          "options": [
+            "It prevents museums from displaying digital art.",
+            "It requires artists to create new versions of their work.",
+            "It may alter minor aspects of the artwork.",
+            "It can only be used with paintings and photographs."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention interviewing artists?",
+          "options": [
+            "To show how curators decide which aspects of a digital work must be preserved",
+            "To argue that artists should repair museum computers themselves",
+            "To explain why emulation is less useful than migration",
+            "To suggest that digital art is easier to preserve than sculpture"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "choose_response": [

@@ -31,7 +31,7 @@ In the current repo schema, generated items belong under:
 
 A strong academic passage should:
 
-- Be short enough for practice but substantial enough for several questions.
+- Be short enough for practice but substantial enough for several questions, usually about 180-230 words.
 - Usually contain 3-4 paragraphs.
 - Introduce a topic, explain key concepts, then discuss applications, effects, challenges, or examples.
 - Use university-level but accessible language.
@@ -51,7 +51,9 @@ Typical topics include:
 
 ## Question Mix
 
-Each passage should support multiple question types, such as:
+Based on the observed TOEFL Flex Practice-style samples, each Academic Passage set should normally contain 4 questions. A 5-question set is acceptable when the passage naturally supports it, but 4 questions should be treated as the default. Do not create 6-question Academic Passage sets unless the UI or test plan explicitly requires them.
+
+Each passage should support a balanced mix of question types, such as:
 
 - main idea
 - detail
@@ -62,6 +64,13 @@ Each passage should support multiple question types, such as:
 - sentence insertion, if the UI/schema supports it
 
 For this repo's current schema, use standard multiple-choice questions with four options unless the UI is explicitly extended.
+
+Recommended 4-question pattern:
+
+1. Main idea, inference, or broad detail
+2. Vocabulary in context
+3. Detail, EXCEPT/NOT mentioned, or inference
+4. Rhetorical purpose, author mention, or another inference/detail item
 
 ## Vocabulary Questions
 
@@ -123,7 +132,7 @@ When generating new passages:
 - Use clear paragraph progression.
 - Keep terminology manageable.
 - Define technical terms briefly when needed.
-- Include enough detail to support 4-6 questions.
+- Include enough detail to support 4 questions, or 5 if the passage naturally warrants it.
 - Do not overload the passage with lists of unrelated facts.
 - Avoid unstable current-event claims.
 
