@@ -38,6 +38,8 @@ Quality rules:
 
 ## Listen to a Conversation
 
+Before generating this task type, also read `references/CONVERSATION_STYLE.md`.
+
 Pattern:
 
 - A short conversation between two speakers.

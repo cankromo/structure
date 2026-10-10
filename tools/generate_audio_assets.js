@@ -8,6 +8,7 @@ const ROOT = path.resolve(__dirname, "..");
 const QUESTIONS_PATH = path.join(ROOT, "data", "questions.json");
 const OUT_DIR = path.join(ROOT, "assets", "audio");
 const TMP_DIR = path.join(OUT_DIR, ".tmp");
+const MANIFEST_PATH = path.join(OUT_DIR, "manifest.json");
 const VOICE = process.env.TOEFL_VOICE || "Ava (Premium)";
 const FALLBACK_VOICE = process.env.TOEFL_FALLBACK_VOICE || "Samantha";
 const RATE = process.env.TOEFL_VOICE_RATE || "145";
@@ -40,14 +41,22 @@ function hashText(text) {
   return crypto.createHash("sha1").update(text).digest("hex").slice(0, 12);
 }
 
-function writeAudio(id, text, voice) {
+function loadExistingManifest() {
+  try {
+    return JSON.parse(fs.readFileSync(MANIFEST_PATH, "utf8"));
+  } catch (error) {
+    return { files: {} };
+  }
+}
+
+function writeAudio(id, text, voice, existingManifest) {
   const clean = safeText(text);
   const wavPath = path.join(OUT_DIR, `${id}.wav`);
   const aiffPath = path.join(TMP_DIR, `${id}.aiff`);
-  const metaPath = path.join(TMP_DIR, `${id}.sha1`);
   const hash = hashText(`${voice}|${RATE}|${clean}`);
+  const previous = existingManifest.files && existingManifest.files[id];
 
-  if (fs.existsSync(wavPath) && fs.existsSync(metaPath) && fs.readFileSync(metaPath, "utf8") === hash) {
+  if (fs.existsSync(wavPath) && previous && previous.text_hash === hash) {
     return { id, file: `assets/audio/${id}.wav`, text_hash: hash, skipped: true };
   }
 
@@ -61,7 +70,6 @@ function writeAudio(id, text, voice) {
     throw new Error(`afconvert failed for ${id}: ${convertResult.stderr || convertResult.stdout}`);
   }
 
-  fs.writeFileSync(metaPath, hash);
   fs.rmSync(aiffPath, { force: true });
   return { id, file: `assets/audio/${id}.wav`, text_hash: hash, skipped: false };
 }
@@ -106,13 +114,14 @@ function main() {
   }
 
   const questions = JSON.parse(fs.readFileSync(QUESTIONS_PATH, "utf8"));
+  const existingManifest = loadExistingManifest();
   const items = collectItems(questions);
   const files = {};
   let generated = 0;
   let skipped = 0;
 
   for (const item of items) {
-    const result = writeAudio(item.id, item.text, voice);
+    const result = writeAudio(item.id, item.text, voice, existingManifest);
     files[item.id] = {
       type: item.type,
       file: result.file,
@@ -123,7 +132,7 @@ function main() {
   }
 
   fs.writeFileSync(
-    path.join(OUT_DIR, "manifest.json"),
+    MANIFEST_PATH,
     JSON.stringify(
       {
         generated_at: new Date().toISOString(),

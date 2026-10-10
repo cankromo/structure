@@ -21,19 +21,41 @@ This task is the TOEFL-style Write an Email task. In the current repo schema, ge
 
 A strong Write an Email prompt should include:
 
-- A realistic situation.
+- A realistic situation, often 2-4 sentences.
 - A named or clearly defined recipient.
 - A clear reason for writing.
-- Three bullet-like content requirements.
-- A reminder to write in complete sentences.
-- A visible `To:` and `Subject:` line in the reference/task framing when useful.
+- The exact instruction frame: `Write an email to [recipient]. In your email, do the following.`
+- Three separate content requirements, each on its own line.
+- The sentence: `Write as much as you can and in complete sentences.`
+- A `Your Response:` line.
+- Visible `To:` and `Subject:` lines.
 
 Typical task flow:
 
 1. Describe the situation.
 2. Tell the test taker who to email.
-3. Give three concrete things the email must do.
-4. Ask the test taker to write as much as possible in complete sentences.
+3. Introduce the three requirements with `In your email, do the following.`
+4. Give three concrete things the email must do, one per line.
+5. Ask the test taker to write as much as possible in complete sentences.
+6. Provide `Your Response:`, `To:`, and `Subject:` starter lines.
+
+Recommended prompt template:
+
+```text
+You are ...
+You need to ...
+
+Write an email to [recipient]. In your email, do the following.
+[Requirement 1]
+[Requirement 2]
+[Requirement 3]
+Write as much as you can and in complete sentences.
+
+Your Response:
+
+To: [recipient]
+Subject: [short subject]
+```
 
 ## Common Scenario Types
 
@@ -101,6 +123,8 @@ Before adding a new `email` item:
 - Confirm the recipient is clear.
 - Confirm the situation is realistic.
 - Confirm there are exactly three distinct content requirements.
+- Confirm the three requirements appear as separate instruction lines.
+- Confirm `Your Response:`, `To:`, and `Subject:` are included.
 - Confirm the requirements naturally fit into one email.
 - Confirm the test taker can answer without outside knowledge.
 - Confirm the prompt is fully original.

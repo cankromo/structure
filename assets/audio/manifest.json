@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:38:36.187Z",
+  "generated_at": "2026-10-10T18:58:09.659Z",
   "voice": "Ava (Premium)",
   "rate": 145,
   "format": "wav",
@@ -299,6 +299,46 @@
       "type": "conversations",
       "file": "assets/audio/conv_404.wav",
       "text_hash": "fe0f9d45bac5"
+    },
+    "conv_501": {
+      "type": "conversations",
+      "file": "assets/audio/conv_501.wav",
+      "text_hash": "c56ae68a6167"
+    },
+    "conv_502": {
+      "type": "conversations",
+      "file": "assets/audio/conv_502.wav",
+      "text_hash": "d1a83fe05b00"
+    },
+    "conv_503": {
+      "type": "conversations",
+      "file": "assets/audio/conv_503.wav",
+      "text_hash": "f5af1d9b21f2"
+    },
+    "conv_504": {
+      "type": "conversations",
+      "file": "assets/audio/conv_504.wav",
+      "text_hash": "668256a9bbbc"
+    },
+    "conv_505": {
+      "type": "conversations",
+      "file": "assets/audio/conv_505.wav",
+      "text_hash": "6a08103e08bc"
+    },
+    "conv_506": {
+      "type": "conversations",
+      "file": "assets/audio/conv_506.wav",
+      "text_hash": "c5b1966b781e"
+    },
+    "conv_507": {
+      "type": "conversations",
+      "file": "assets/audio/conv_507.wav",
+      "text_hash": "1b41ea95798b"
+    },
+    "conv_508": {
+      "type": "conversations",
+      "file": "assets/audio/conv_508.wav",
+      "text_hash": "2cf2fc50745c"
     },
     "ann_001": {
       "type": "announcements",

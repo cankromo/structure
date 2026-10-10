@@ -4109,6 +4109,390 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "conv_501",
+      "title": "Laptop Charging Problem",
+      "turns": [
+        [
+          "Student",
+          "My laptop keeps shutting down even when the battery says it is half full."
+        ],
+        [
+          "Staff Member",
+          "Have you tried using a different charger or checking the battery health report?"
+        ],
+        [
+          "Student",
+          "I tried another charger yesterday, but the same thing happened during my online quiz."
+        ],
+        [
+          "Staff Member",
+          "Then the battery may need service. You should back up your files before bringing it in."
+        ],
+        [
+          "Student",
+          "I can do that tonight. I need it fixed before my presentation on Friday."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have with her laptop?",
+          "options": [
+            "It shuts down before the battery is empty.",
+            "It will not connect to the Internet.",
+            "It cannot open her online quiz.",
+            "It has lost all of her saved files."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the staff member suggest the student do before bringing in the laptop?",
+          "options": [
+            "Buy a different charger",
+            "Back up her files",
+            "Cancel her presentation",
+            "Retake her online quiz"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_502",
+      "title": "Reserving a Study Room",
+      "turns": [
+        [
+          "Student",
+          "I tried to reserve a study room for tomorrow, but the website says none are available."
+        ],
+        [
+          "Librarian",
+          "Tomorrow is the first week of final exams, so the rooms filled up quickly."
+        ],
+        [
+          "Student",
+          "Oh, I need somewhere quiet for my group to practice our biology presentation."
+        ],
+        [
+          "Librarian",
+          "The media room is open in the morning, but it has to be reserved at the front desk."
+        ],
+        [
+          "Student",
+          "Great. I will come by before my ten o’clock class."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student need a room?",
+          "options": [
+            "To meet with a professor",
+            "To take a final exam",
+            "To practice a group presentation",
+            "To watch a biology video"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What will the student probably do before class?",
+          "options": [
+            "Check the library website again",
+            "Ask to extend the exam schedule",
+            "Move the meeting to the cafeteria",
+            "Reserve the media room at the front desk"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_503",
+      "title": "Wrong Textbook Edition",
+      "turns": [
+        [
+          "Student",
+          "I just realized I bought the wrong edition of the economics textbook."
+        ],
+        [
+          "Bookstore Clerk",
+          "Is it for Professor Lane’s introductory course?"
+        ],
+        [
+          "Student",
+          "Yes. The syllabus says third edition, but I bought the second edition because it was cheaper."
+        ],
+        [
+          "Bookstore Clerk",
+          "Some chapters were reorganized, so the page numbers will not match the assignments."
+        ],
+        [
+          "Student",
+          "Then I should exchange it today before I start the reading."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What mistake did the student make?",
+          "options": [
+            "He bought an older edition of the textbook.",
+            "He bought a book for the wrong course.",
+            "He forgot to buy the textbook before class.",
+            "He purchased a book with missing chapters."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the clerk say the second edition may cause problems?",
+          "options": [
+            "It costs more than the newer edition.",
+            "Its page numbers may not match the assignments.",
+            "It is not sold by the bookstore anymore.",
+            "Its cover looks similar to another textbook."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_504",
+      "title": "Campus Shuttle Delay",
+      "turns": [
+        [
+          "Student",
+          "Do you know why the campus shuttle is not stopping here today?"
+        ],
+        [
+          "Staff Member",
+          "The road by the science building is closed for repairs, so the route changed this week."
+        ],
+        [
+          "Student",
+          "That explains it. I waited here yesterday and almost missed my lab."
+        ],
+        [
+          "Staff Member",
+          "Use the temporary stop across from the gym until Friday afternoon."
+        ],
+        [
+          "Student",
+          "Thanks. I will leave earlier today just in case."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the woman trying to find out?",
+          "options": [
+            "Why her lab was canceled",
+            "When the science building will reopen",
+            "Why the shuttle is not using its usual stop",
+            "Where she can repair her bicycle"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the staff member tell her to do?",
+          "options": [
+            "Wait inside the science building",
+            "Call the shuttle driver directly",
+            "Take the shuttle only after Friday",
+            "Use a temporary stop near the gym"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_505",
+      "title": "Poster Printing Issue",
+      "turns": [
+        [
+          "Student",
+          "The colors on my research poster look much darker than they did on my computer screen."
+        ],
+        [
+          "Staff Member",
+          "That can happen when the file uses a screen color setting instead of a print color setting."
+        ],
+        [
+          "Student",
+          "I did not know there was a difference. The conference starts tomorrow morning."
+        ],
+        [
+          "Staff Member",
+          "If you send me the original file, I can adjust it and print another copy this afternoon."
+        ],
+        [
+          "Student",
+          "Thank you. I will email it as soon as I get back to my dorm."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have?",
+          "options": [
+            "Her poster was printed with colors that are too dark.",
+            "Her conference was moved to another afternoon.",
+            "Her computer screen stopped working.",
+            "Her dorm printer cannot print large pages."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the staff member offer to do?",
+          "options": [
+            "Design a new poster topic",
+            "Adjust the file and print another copy",
+            "Move the conference to the afternoon",
+            "Teach the student how to use email"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_506",
+      "title": "Missed Office Hours",
+      "turns": [
+        [
+          "Student",
+          "I came by during your office hours yesterday, but your door was closed."
+        ],
+        [
+          "Professor",
+          "I am sorry. I had to attend an unexpected department meeting. I posted a note on the course website."
+        ],
+        [
+          "Student",
+          "I must have missed it. I wanted to ask about the outline for my paper."
+        ],
+        [
+          "Professor",
+          "I can meet after class today, or you can email me your outline for comments."
+        ],
+        [
+          "Student",
+          "Meeting after class would be better. I have several questions."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why was the professor unavailable yesterday?",
+          "options": [
+            "She was teaching another class.",
+            "She was reviewing paper outlines.",
+            "She attended an unexpected meeting.",
+            "She forgot to unlock her office door."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the student decide to do?",
+          "options": [
+            "Email the professor after the paper is finished",
+            "Check the course website during class",
+            "Change the topic of the paper",
+            "Meet with the professor after class"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_507",
+      "title": "Gym Membership Renewal",
+      "turns": [
+        [
+          "Student",
+          "My gym card stopped working this morning, even though I paid for the semester pass."
+        ],
+        [
+          "Staff Member",
+          "Let me check. It looks like your payment went through, but the card was not activated."
+        ],
+        [
+          "Student",
+          "That is a relief. I thought I might have missed the deadline."
+        ],
+        [
+          "Staff Member",
+          "No, the system just needs to update. I can activate it manually right now."
+        ],
+        [
+          "Student",
+          "Great. I was hoping to use the pool before lunch."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have?",
+          "options": [
+            "His gym card is not working.",
+            "He lost his semester pass.",
+            "He missed the payment deadline.",
+            "The pool is closed before lunch."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the staff member say about the payment?",
+          "options": [
+            "It was never received by the gym.",
+            "It went through successfully.",
+            "It was made after the deadline.",
+            "It was applied to the wrong student account."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_508",
+      "title": "Changing a Volunteer Shift",
+      "turns": [
+        [
+          "Student",
+          "I signed up to volunteer at the campus food drive on Saturday morning, but my exam review was moved to the same time."
+        ],
+        [
+          "Coordinator",
+          "Thanks for letting me know. We still need help sorting donations in the afternoon."
+        ],
+        [
+          "Student",
+          "That would work. I was worried I would have to cancel completely."
+        ],
+        [
+          "Coordinator",
+          "No problem. I will switch you to the two o’clock shift and send a confirmation."
+        ],
+        [
+          "Student",
+          "Perfect. I can come right after the review session ends."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student need to change her volunteer time?",
+          "options": [
+            "She forgot where the food drive is located.",
+            "She no longer wants to sort donations.",
+            "She has an exam review at the same time.",
+            "She has to attend a meeting with the coordinator."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What will the coordinator do?",
+          "options": [
+            "Cancel the student’s volunteer registration",
+            "Ask another student to attend the review session",
+            "Change the location of the food drive",
+            "Move the student to an afternoon shift"
+          ],
+          "answer": 3
+        }
+      ]
     }
   ],
   "announcements": [
@@ -5742,31 +6126,43 @@
   "email": [
     {
       "id": "we_001",
-      "prompt": "You reserved a university study room for an important group meeting, but another group was using the room. Write an email to library staff explaining what happened, how it affected your group, and asking how to prevent the same problem in the future."
+      "prompt": "You reserved a university study room for an important group meeting this week. When your group arrived, another group was already using the room, and you could not begin your meeting on time. You want to contact the library staff about the problem.\n\nWrite an email to the library staff. In your email, do the following.\nExplain what happened when your group arrived at the study room.\nDescribe how the problem affected your group meeting.\nAsk how you can prevent the same problem from happening again.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Library Staff\nSubject: Problem with study room reservation"
     },
     {
       "id": "we_101",
-      "prompt": "You signed up for a required workshop, but when you arrived, your name was not on the attendance list. Write an email to the workshop coordinator explaining the situation, describing why the workshop is important for you, and asking what you should do next."
+      "prompt": "You signed up for a required university workshop. When you arrived at the workshop, your name was not on the attendance list, even though you registered before the deadline. You need to contact the workshop coordinator.\n\nWrite an email to the workshop coordinator. In your email, do the following.\nExplain the situation with the attendance list.\nDescribe why the workshop is important for you.\nAsk what you should do to receive credit for attending.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Workshop Coordinator\nSubject: Attendance list problem"
     },
     {
       "id": "we_201",
-      "prompt": "You borrowed a piece of equipment from a campus media center, but it stopped working during an important class project. Write an email to the media center explaining what happened, how it affected your project, and asking what you should do next."
+      "prompt": "You borrowed a piece of equipment from the campus media center for an important class project. During your project work, the equipment stopped working and your group could not finish recording on schedule. You need to contact the media center.\n\nWrite an email to the media center staff. In your email, do the following.\nDescribe what happened with the borrowed equipment.\nExplain how the problem affected your class project.\nAsk what you should do next about the equipment and your project.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Media Center Staff\nSubject: Problem with borrowed equipment"
     },
     {
       "id": "we_301",
-      "prompt": "You are the president of the university's film club. The university has recently announced a significant budget cut for student organizations, which means your club won't be able to afford the equipment you planned to rent for the upcoming film festival. Write an email to the Director of Student Affairs explaining the importance of the film festival and requesting alternative funding or a partial exemption from the budget cut."
+      "prompt": "You are the president of your university's film club. The university has announced a significant budget cut for student organizations, and your club may not be able to rent the equipment needed for an upcoming film festival. You want to contact the Director of Student Affairs.\n\nWrite an email to the Director of Student Affairs. In your email, do the following.\nExplain what the upcoming film festival is and why it is important.\nDescribe how the budget cut would affect the club's plans.\nAsk whether alternative funding or a partial exemption is possible.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Director of Student Affairs\nSubject: Funding request for film festival"
     },
     {
       "id": "we_401",
-      "prompt": "You recently discovered that the campus bookstore ordered the second edition of your chemistry textbook instead of the required third edition. Write an email to the bookstore manager explaining the issue, describing how this affects your class, and asking how they plan to resolve the situation."
+      "prompt": "You recently discovered that the campus bookstore ordered the second edition of your chemistry textbook instead of the required third edition. Several students in your class may have bought the wrong book. You want to contact the bookstore manager.\n\nWrite an email to the bookstore manager. In your email, do the following.\nExplain the problem with the textbook edition.\nDescribe how this issue affects students in your class.\nAsk how the bookstore plans to resolve the problem.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Bookstore Manager\nSubject: Wrong chemistry textbook edition"
     },
     {
       "id": "we_501",
-      "prompt": "You borrowed a projector from the campus media office for a group presentation, but the projector would not connect to any of your laptops. Write an email to Ms. Rivera at the media office. In your email, describe the problem, explain how it affected your presentation, and ask what can be done to prevent the same issue for your next presentation. Write as much as you can and in complete sentences.\n\nTo: Ms. Rivera\nSubject: Problem with borrowed projector"
+      "prompt": "You borrowed a projector from the campus media office for a group presentation. When your group tried to use it, the projector would not connect to any of your laptops, and the presentation did not go as planned. You need to contact Ms. Rivera at the media office.\n\nWrite an email to Ms. Rivera. In your email, do the following.\nDescribe the problem with the borrowed projector.\nExplain how the problem affected your presentation.\nAsk what can be done to prevent the same issue for your next presentation.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Ms. Rivera\nSubject: Problem with borrowed projector"
     },
     {
       "id": "we_502",
-      "prompt": "You and your classmates want to organize a weekend volunteer event at a local community garden. You think your friend Jordan can help coordinate the plan. Write an email to Jordan. In your email, suggest a date and time for the event, explain what tasks volunteers would do, and ask Jordan to help contact classmates who might be interested. Write as much as you can and in complete sentences.\n\nTo: Jordan\nSubject: Volunteer event idea"
+      "prompt": "You and your classmates want to organize a weekend volunteer event at a local community garden. You need to choose a date, plan the volunteer tasks, and invite other students to participate. You think your friend Jordan can help coordinate the plan.\n\nWrite an email to Jordan. In your email, do the following.\nSuggest a date and time for the volunteer event.\nExplain what tasks the volunteers would do at the garden.\nAsk Jordan to help contact classmates who might be interested.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Jordan\nSubject: Volunteer event idea"
+    },
+    {
+      "id": "we_601",
+      "prompt": "You are planning a one-day visit to a science museum with two classmates next month. You need to decide on the date, buy tickets in advance, and arrange transportation from campus. You want to ask your classmate Maya for help.\n\nWrite an email to Maya. In your email, do the following.\nSuggest a date for the museum visit and explain why it is a good choice.\nDescribe what needs to be arranged before the trip.\nAsk Maya to help organize transportation from campus.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Maya\nSubject: Planning our science museum visit"
+    },
+    {
+      "id": "we_602",
+      "prompt": "You recently joined your university's photography club. The club is planning an outdoor photo exhibition, and members need to help with choosing photos, setting up display boards, and advertising the event. You are writing to the club members.\n\nWrite an email to the photography club members. In your email, do the following.\nState what the upcoming event will be.\nExplain the tasks that members need to help with.\nSuggest a meeting time to discuss details and assign responsibilities.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Photography Club Members\nSubject: Outdoor photo exhibition planning"
+    },
+    {
+      "id": "we_603",
+      "prompt": "Your apartment building has had several problems with the laundry room recently, including broken machines and water on the floor. These problems have made it difficult for residents to do laundry safely. You want to contact the building manager, Ms. Collins.\n\nWrite an email to Ms. Collins. In your email, do the following.\nDescribe the problems you have noticed in the laundry room.\nExplain how these problems are affecting residents.\nRequest repairs and ask when the laundry room can be checked.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Ms. Collins\nSubject: Laundry room repair request"
     }
   ],
   "discussion": [

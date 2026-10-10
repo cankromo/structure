@@ -93,6 +93,7 @@ Do not label this distribution as official ETS distribution.
 - Before generating Write an Email items, read `references/WRITE_EMAIL_STYLE.md`.
 - Before generating Academic Discussion writing items, read `references/ACADEMIC_DISCUSSION_STYLE.md`.
 - Before generating Listening items, read `references/LISTENING_TASKS_STYLE.md`.
+- Before generating Listen to a Conversation items, read `references/CONVERSATION_STYLE.md`.
 - Before generating Listen to an Academic Talk items, read `references/ACADEMIC_TALK_STYLE.md`.
 - Before generating Listen and Repeat items, read `references/SPEAKING_REPEAT_STYLE.md`.
 - Before generating Take an Interview items, read `references/TAKE_INTERVIEW_STYLE.md`.
