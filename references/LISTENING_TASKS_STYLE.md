@@ -68,6 +68,8 @@ Quality rules:
 
 ## Listen to an Academic Talk
 
+Before generating this task type, also read `references/ACADEMIC_TALK_STYLE.md`.
+
 Pattern:
 
 - A short academic mini-lecture or classroom explanation.

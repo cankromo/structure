@@ -5030,6 +5030,288 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "talk_501",
+      "title": "Frame Narratives in Literature",
+      "text": "Today I want to look at a storytelling technique called the frame narrative. In a frame narrative, one story is placed inside another story. The outer story gives readers a situation in which the inner story is being told, often by a traveler, witness, or older character remembering events. This structure can make a story feel more authentic because readers know who is telling it and why.\n\nBut the frame also shapes how readers interpret the inner story. For example, if the outer narrator seems doubtful or emotionally involved, readers may question parts of the account. The technique can also create distance between the reader and the main events, allowing an author to comment on memory, truth, or social values.\n\nOne challenge is that the frame must feel necessary. If the outer story does not affect the meaning of the inner story, it may seem like an unnecessary decoration. Next, we will compare two novels that use frame narratives for very different purposes.",
+      "questions": [
+        {
+          "q": "What is the main topic of the talk?",
+          "options": [
+            "A technique for placing one story inside another",
+            "The history of travel writing in modern novels",
+            "Reasons that authors avoid using narrators",
+            "A method for removing personal memory from fiction"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the speaker say about the outer story in a frame narrative?",
+          "options": [
+            "It usually gives away the ending of the inner story.",
+            "It can influence how readers understand the inner story.",
+            "It is always more important than the events it introduces.",
+            "It prevents readers from questioning the narrator."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the speaker mention a narrator who seems doubtful or emotionally involved?",
+          "options": [
+            "To explain why frame narratives are rarely believable",
+            "To suggest that emotional narrators should be removed from novels",
+            "To show how the frame can make readers question the inner story",
+            "To contrast novels with short stories"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What will the speaker probably discuss next?",
+          "options": [
+            "The biography of a famous traveler",
+            "The process of publishing a framed story",
+            "Several ways to memorize a long narrative",
+            "Two novels that use the same structure differently"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "talk_502",
+      "title": "Exoplanet Detection Methods",
+      "text": "In astronomy, one of the most exciting developments has been the discovery of planets outside our solar system, called exoplanets. Since these planets are usually too faint to see directly, astronomers rely on indirect methods. One common method is the transit method. If a planet passes in front of its star from our point of view, the star’s light dims slightly. By measuring that regular dimming, scientists can estimate the planet’s size and orbit.\n\nAnother approach is the radial velocity method. A planet’s gravity pulls on its star, causing the star to wobble a little. That wobble changes the color of the starlight in a measurable way. This method can help estimate the planet’s mass.\n\nEach method has limits. The transit method works best when the orbit is lined up just right, while radial velocity is better for large planets close to their stars. Still, using both methods together gives astronomers stronger evidence about distant planetary systems.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "How scientists find planets that are difficult to see directly",
+            "Why stars produce different colors of light",
+            "The reason planets in our solar system have stable orbits",
+            "How telescopes photograph planets near distant stars"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "According to the speaker, what happens during a planetary transit?",
+          "options": [
+            "A star briefly becomes brighter than usual.",
+            "A planet passes in front of a star and blocks a small amount of light.",
+            "A planet changes the color of its atmosphere.",
+            "A star moves out of its regular orbit around a planet."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the speaker mention a star that “wobbles”?",
+          "options": [
+            "To explain why exoplanets cannot have regular orbits",
+            "To show that stars are usually smaller than nearby planets",
+            "To describe evidence used in the radial velocity method",
+            "To identify a problem with the transit method"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the speaker imply about combining detection methods?",
+          "options": [
+            "It makes direct photographs unnecessary in every case.",
+            "It works only for planets inside our solar system.",
+            "It proves that all distant planets are large and close to stars.",
+            "It is useful because the methods provide different kinds of evidence."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "talk_503",
+      "title": "Market Segmentation",
+      "text": "Today we are discussing market segmentation, a basic concept in marketing. Companies rarely try to sell a product to everyone in exactly the same way. Instead, they divide a broad market into smaller groups of consumers who share certain characteristics. These groups may be based on age, income, location, lifestyle, or purchasing behavior.\n\nThe purpose of segmentation is not just to label customers. It helps a company design products and messages that fit a particular group’s needs. For example, a company selling running shoes might advertise one model to competitive athletes and another to people who walk for exercise. The shoes could be similar, but the message and features emphasized would differ.\n\nHowever, segmentation can become a problem if it relies on stereotypes or outdated information. Consumer preferences change, and a group that looked attractive last year may respond differently this year. That is why companies often revise their segments after collecting new data.",
+      "questions": [
+        {
+          "q": "What is the main topic of the talk?",
+          "options": [
+            "A strategy for dividing consumers into useful groups",
+            "The history of athletic shoe design",
+            "The reasons companies should advertise to everyone equally",
+            "A method for lowering the price of consumer products"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the speaker mention running shoes?",
+          "options": [
+            "To argue that sports products are difficult to market",
+            "To give an example of messages aimed at different consumer groups",
+            "To show that athletes buy more products than other consumers",
+            "To explain why income is the only useful market category"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What problem with segmentation does the speaker mention?",
+          "options": [
+            "It prevents companies from collecting data.",
+            "It requires companies to sell only one product.",
+            "It can depend on stereotypes or old information.",
+            "It makes consumers ignore advertising completely."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the speaker imply about consumer preferences?",
+          "options": [
+            "They are usually identical across age groups.",
+            "They are impossible for companies to study.",
+            "They depend only on where people live.",
+            "They can change over time."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "talk_504",
+      "title": "Urban Heat Islands",
+      "text": "Let’s consider a problem in environmental planning known as the urban heat island effect. Cities are often warmer than nearby rural areas, especially at night. This happens partly because asphalt, concrete, and dark rooftops absorb heat during the day and release it slowly after sunset. Buildings can also block wind, making it harder for warm air to disperse.\n\nThe effect matters because higher temperatures can increase energy use. When a city stays hot, residents use more air conditioning, which raises electricity demand. Heat can also create health risks for older adults and people without access to cool indoor spaces.\n\nPlanners have several ways to reduce the problem. Planting trees provides shade and cools the air through evaporation. Some cities also use reflective roofing materials that absorb less sunlight. These solutions do not eliminate urban heat completely, but they can lower temperatures enough to make neighborhoods safer and more comfortable.",
+      "questions": [
+        {
+          "q": "What is the talk mostly about?",
+          "options": [
+            "A planning problem caused by cities retaining heat",
+            "Why rural areas are becoming warmer than cities",
+            "The history of air conditioning in apartment buildings",
+            "A new method for replacing concrete with asphalt"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "According to the speaker, why do dark rooftops contribute to urban heat islands?",
+          "options": [
+            "They release cool air too quickly after sunset.",
+            "They absorb heat and release it slowly.",
+            "They prevent electricity from reaching buildings.",
+            "They create strong winds between buildings."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the speaker mention older adults?",
+          "options": [
+            "To argue that cities should be designed mainly for retired people",
+            "To explain why rural temperatures are easier to measure",
+            "To identify a group that may be especially vulnerable to heat",
+            "To show who uses reflective roofing materials most often"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the speaker say about trees and reflective roofs?",
+          "options": [
+            "They increase the need for air conditioning.",
+            "They work only in rural communities.",
+            "They make city neighborhoods less comfortable at night.",
+            "They are examples of ways to reduce urban heat."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "talk_505",
+      "title": "The Placebo Effect",
+      "text": "In psychology and medicine, the placebo effect refers to real changes in a person’s symptoms that occur after receiving a treatment with no active medical ingredient. For instance, a patient might take a sugar pill but experience less pain because they believe they have received a real painkiller.\n\nThis does not mean the patient is pretending. Expectations can influence attention, stress levels, and even chemical processes in the brain. That is why researchers must account for the placebo effect when testing new medicines. In a controlled trial, one group receives the actual treatment while another group receives a placebo. If the treatment group improves more than the placebo group, researchers have stronger evidence that the medicine itself is effective.\n\nThe placebo effect also raises ethical questions. Doctors generally should not deceive patients, yet positive expectations can support recovery. Next class, we will discuss how medical professionals try to use patient expectations without being dishonest.",
+      "questions": [
+        {
+          "q": "What is the main topic of the talk?",
+          "options": [
+            "A response caused partly by a patient’s expectations",
+            "A medicine that works faster than ordinary painkillers",
+            "A method for proving that all symptoms are imaginary",
+            "A technique doctors use to avoid controlled trials"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the speaker mention a sugar pill?",
+          "options": [
+            "To show that placebos can contain strong chemicals",
+            "To give an example of a treatment with no active medical ingredient",
+            "To explain why painkillers are no longer tested in studies",
+            "To describe a medicine commonly prescribed by doctors"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the speaker say about controlled trials?",
+          "options": [
+            "They are designed to eliminate patient expectations entirely.",
+            "They require doctors to deceive every participant.",
+            "They compare an actual treatment with a placebo.",
+            "They are used only when a medicine has already failed."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What will the speaker probably discuss next?",
+          "options": [
+            "The cost of manufacturing sugar pills",
+            "The history of painkiller advertising",
+            "Reasons controlled trials should be abandoned",
+            "Ways to use patient expectations ethically"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "talk_506",
+      "title": "Dendrochronology and Climate History",
+      "text": "Today we will discuss dendrochronology, the study of tree rings. Each year, many trees add a new layer of growth. In favorable years, when water and sunlight are plentiful, the ring may be wide. In stressful years, such as during drought, the ring may be narrow. By comparing ring patterns across many trees, scientists can build long records of environmental conditions.\n\nThis method is useful because some trees live for centuries, and wood from old buildings or archaeological sites can extend the timeline even further. If the pattern in an ancient wooden beam matches part of a living tree record, researchers can estimate when the tree was cut.\n\nTree rings are not perfect climate records, however. Growth can be affected by disease, competition with nearby trees, or damage from insects. For that reason, scientists compare many samples instead of relying on a single tree. Next, we will examine a case study from a dry region where tree rings revealed repeated droughts.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "A way to study past environments by examining tree rings",
+            "The process by which insects damage modern forests",
+            "The construction methods used in ancient wooden buildings",
+            "A debate about whether trees need sunlight to grow"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "According to the speaker, what can a narrow tree ring indicate?",
+          "options": [
+            "A year when the tree was cut for construction",
+            "A year when conditions such as drought limited growth",
+            "A tree that grew near an archaeological site",
+            "A tree that received too much water and sunlight"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the speaker mention wood from old buildings?",
+          "options": [
+            "To show that ancient builders avoided using trees",
+            "To argue that building wood is more reliable than living trees",
+            "To explain how researchers may extend tree-ring timelines",
+            "To describe a source of insect damage in forests"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What limitation of dendrochronology does the speaker mention?",
+          "options": [
+            "Only tropical trees produce annual rings.",
+            "Tree rings cannot be compared across different samples.",
+            "Archaeological wood is always too damaged to study.",
+            "Tree growth can be influenced by factors other than climate."
+          ],
+          "answer": 3
+        }
+      ]
     }
   ],
   "build_sentence": [
