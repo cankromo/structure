@@ -12,6 +12,7 @@ const MANIFEST_PATH = path.join(OUT_DIR, "manifest.json");
 const VOICE = process.env.TOEFL_VOICE || "Ava (Premium)";
 const FALLBACK_VOICE = process.env.TOEFL_FALLBACK_VOICE || "Samantha";
 const RATE = process.env.TOEFL_VOICE_RATE || "145";
+const AUDIO_BUILD = "pad-v2";
 
 function run(command, args) {
   const result = spawnSync(command, args, { encoding: "utf8" });
@@ -53,7 +54,9 @@ function writeAudio(id, text, voice, existingManifest) {
   const clean = safeText(text);
   const wavPath = path.join(OUT_DIR, `${id}.wav`);
   const aiffPath = path.join(TMP_DIR, `${id}.aiff`);
-  const hash = hashText(`${voice}|${RATE}|${clean}`);
+  const rawWavPath = path.join(TMP_DIR, `${id}.raw.wav`);
+  const paddedWavPath = path.join(TMP_DIR, `${id}.padded.wav`);
+  const hash = hashText(`${voice}|${RATE}|${AUDIO_BUILD}|${clean}`);
   const previous = existingManifest.files && existingManifest.files[id];
 
   if (fs.existsSync(wavPath) && previous && previous.text_hash === hash) {
@@ -65,12 +68,36 @@ function writeAudio(id, text, voice, existingManifest) {
     throw new Error(`say failed for ${id}: ${sayResult.stderr || sayResult.stdout}`);
   }
 
-  const convertResult = run("afconvert", ["-f", "WAVE", "-d", "LEI16@22050", aiffPath, wavPath]);
+  const convertResult = run("afconvert", ["-f", "WAVE", "-d", "LEI16@22050", aiffPath, rawWavPath]);
   if (convertResult.status !== 0) {
     throw new Error(`afconvert failed for ${id}: ${convertResult.stderr || convertResult.stdout}`);
   }
 
+  const padResult = run("ffmpeg", [
+    "-y",
+    "-hide_banner",
+    "-loglevel",
+    "error",
+    "-i",
+    rawWavPath,
+    "-af",
+    "adelay=120:all=1,apad=pad_dur=0.35",
+    "-ar",
+    "22050",
+    "-ac",
+    "1",
+    paddedWavPath,
+  ]);
+
+  if (padResult.status === 0) {
+    fs.copyFileSync(paddedWavPath, wavPath);
+  } else {
+    fs.copyFileSync(rawWavPath, wavPath);
+  }
+
   fs.rmSync(aiffPath, { force: true });
+  fs.rmSync(rawWavPath, { force: true });
+  fs.rmSync(paddedWavPath, { force: true });
   return { id, file: `assets/audio/${id}.wav`, text_hash: hash, skipped: false };
 }
 
