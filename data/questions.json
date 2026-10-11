@@ -1413,6 +1413,60 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "rdl_601",
+      "title": "Campus Bike Storage Notice",
+      "text": "Campus Housing Notice\n\nBeginning Monday, all bicycles stored inside residence hall stairwells will be removed for safety reasons. Students may use the covered bike racks behind Elm Hall or register for a space in the locked storage room. Registration is free, but spaces are limited. Bikes not claimed within two weeks after removal will be donated to a local charity.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the notice?",
+          "options": [
+            "To explain a new safety rule about bicycle storage",
+            "To announce a charity bicycle sale",
+            "To invite students to repair damaged bicycles",
+            "To describe changes to residence hall parking"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about the locked storage room?",
+          "options": [
+            "It is available only to students who pay a fee.",
+            "It has fewer spaces than the number of possible users.",
+            "It is located inside Elm Hall stairwells.",
+            "It will close after two weeks."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_602",
+      "title": "Email About Lab Notebook Pickup",
+      "text": "Subject: Lab Notebooks Ready for Pickup\n\nHello Biology Students,\n\nYour graded lab notebooks are now available in the department office. Please pick them up by Friday afternoon because the office will be closed next week for maintenance. If you need written comments for your final report, review the notes inside the back cover before meeting with your teaching assistant.",
+      "questions": [
+        {
+          "q": "What is the email mainly about?",
+          "options": [
+            "A change in final report requirements",
+            "A maintenance problem in the biology lab",
+            "A deadline for collecting graded notebooks",
+            "A meeting with all teaching assistants"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Where should students look for comments on their work?",
+          "options": [
+            "On the department website",
+            "In the biology lab storage room",
+            "On a form from the office",
+            "Inside the back cover of the notebook"
+          ],
+          "answer": 3
+        }
+      ]
     }
   ],
   "academic_passage": [
@@ -2544,6 +2598,251 @@
             "To suggest that digital art is easier to preserve than sculpture"
           ],
           "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_606",
+      "title": "The Value of Seed Banks",
+      "topic": "Biology",
+      "difficulty": "B2-C1",
+      "text": "Seed banks are facilities that store seeds from many plant species under carefully controlled conditions. By keeping seeds dry and cold, scientists can preserve them for years or even decades. These collections are important because plant varieties may disappear from farms or natural habitats as climates shift and land use changes.\n\nOne major purpose of seed banks is to protect genetic diversity. A crop variety that is not widely grown today may contain traits that become valuable in the future, such as resistance to drought or disease. If that variety has been preserved, plant breeders can use it to develop stronger crops.\n\nSeed banks also support ecological restoration. After a fire, flood, or construction project damages an area, stored seeds from native plants can help rebuild the local ecosystem. However, seed banking is not a complete solution. Some seeds cannot survive long-term storage, and plants also need suitable habitats in which to grow.",
+      "questions": [
+        {
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Seed banks preserve plant diversity that may be useful for agriculture and restoration.",
+            "Seed banks are used mainly to sell rare plants to farmers.",
+            "Seed banks can replace the need to protect natural habitats.",
+            "Seed banks store only plants that are already widely grown."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “traits” in the passage is closest in meaning to",
+          "options": [
+            "locations",
+            "features",
+            "prices",
+            "methods"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, how can seed banks help after environmental damage?",
+          "options": [
+            "They can prevent all future fires and floods.",
+            "They can keep construction projects from expanding.",
+            "They can provide native seeds for restoration.",
+            "They can make damaged soil unnecessary for plants."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What limitation of seed banks does the author mention?",
+          "options": [
+            "Scientists cannot keep seeds cold enough to preserve them.",
+            "Plant breeders refuse to use stored crop varieties.",
+            "Seed banks are useful only in tropical ecosystems.",
+            "Some seeds do not remain viable in storage for long periods."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "rap_607",
+      "title": "Acoustic Design in Ancient Theaters",
+      "topic": "Archaeology",
+      "difficulty": "B2-C1",
+      "text": "Ancient theaters were often built with careful attention to sound. In large open-air spaces, performers needed to be heard by audiences sitting far from the stage. Builders used the shape of the seating area, the slope of the ground, and the materials of the structure to improve acoustic conditions.\n\nMany Greek theaters, for example, were constructed on hillsides in a semicircular form. This arrangement helped direct sound upward and outward toward the audience. Stone seats may also have reflected sound waves, making speech clearer. Although ancient builders did not use modern acoustic science, they developed practical solutions through observation and experience.\n\nResearchers today study these theaters using computer models and sound measurements. Their work shows that good acoustics depended on several factors working together rather than on one simple secret. The location, design, and audience size all influenced how well voices could be heard.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "How ancient theater design helped audiences hear performances",
+            "Why Greek plays were usually performed indoors",
+            "How modern microphones changed theater design",
+            "Why ancient builders avoided using stone seats"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “arrangement” in the passage is closest in meaning to",
+          "options": [
+            "performance",
+            "design",
+            "argument",
+            "measurement"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the passage suggest about ancient builders?",
+          "options": [
+            "They copied their theater designs from computer models.",
+            "They were unable to make large outdoor theaters effective.",
+            "They solved acoustic problems without modern scientific tools.",
+            "They cared more about decoration than sound quality."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention computer models?",
+          "options": [
+            "To show that ancient theaters must be rebuilt with technology",
+            "To argue that modern theaters have worse sound than ancient ones",
+            "To describe the tools used by ancient performers",
+            "To explain how researchers study ancient theater acoustics today"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "rap_608",
+      "title": "Memory and Sleep",
+      "topic": "Psychology",
+      "difficulty": "B2-C1",
+      "text": "Sleep plays an important role in memory. During the day, people take in large amounts of information, but not all of it becomes stable long-term memory. Researchers have found that certain stages of sleep help the brain organize and strengthen important information while reducing attention to less useful details.\n\nOne process involved is memory consolidation. After a person studies a new skill or set of facts, the brain may reactivate related patterns during sleep. This reactivation appears to help connect new information with existing knowledge. As a result, sleep after learning can improve later performance on tests or tasks.\n\nThe relationship between sleep and memory is not simple, however. The amount of sleep, the timing of sleep, and the type of material being learned can all affect results. In addition, staying up late to study may seem productive, but it can reduce the brain’s ability to store information effectively.",
+      "questions": [
+        {
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Sleep can help the brain strengthen and organize memories.",
+            "People remember everything they learn during the day.",
+            "Studying late at night is always the best way to improve memory.",
+            "Memory consolidation occurs only before a person falls asleep."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “stable” in the passage is closest in meaning to",
+          "options": [
+            "unusual",
+            "lasting",
+            "recent",
+            "simple"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, what may happen during sleep after learning?",
+          "options": [
+            "The brain may remove all details from recent experiences.",
+            "A person may stop connecting new facts to older knowledge.",
+            "The brain may reactivate patterns related to new information.",
+            "A person may learn material without studying it first."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention staying up late to study?",
+          "options": [
+            "To prove that sleep is unnecessary before tests",
+            "To show that all students need the same study schedule",
+            "To identify the only cause of poor academic performance",
+            "To point out a habit that may reduce effective memory storage"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "rap_609",
+      "title": "Markets in Medieval Towns",
+      "topic": "History",
+      "difficulty": "B2-C1",
+      "text": "Markets were central to the growth of many medieval towns. Farmers, craftspeople, and merchants gathered on market days to exchange goods such as grain, cloth, tools, and livestock. These regular gatherings helped connect rural producers with urban consumers and encouraged towns to expand.\n\nLocal authorities often regulated markets carefully. They controlled where stalls could be placed, checked weights and measures, and collected fees from sellers. Such rules were intended to reduce conflict and make trade more predictable. A town with a reliable market could attract more visitors, which benefited inns, workshops, and other local businesses.\n\nMarkets also had social importance. People came not only to buy and sell but also to hear news, meet neighbors, and arrange future work. For this reason, historians view markets as more than economic institutions. They were places where commercial, political, and social life overlapped.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "The economic and social roles of markets in medieval towns",
+            "The decline of farming in medieval Europe",
+            "The reasons medieval towns avoided regulating trade",
+            "The development of modern department stores"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “regulated” in the passage is closest in meaning to",
+          "options": [
+            "advertised",
+            "controlled",
+            "expanded",
+            "ignored"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, why did authorities check weights and measures?",
+          "options": [
+            "To prevent farmers from entering towns",
+            "To help merchants avoid paying local fees",
+            "To make trade more predictable and reduce conflict",
+            "To limit the number of people hearing news"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention hearing news and meeting neighbors?",
+          "options": [
+            "To argue that most people visited markets without buying anything",
+            "To explain why authorities stopped collecting market fees",
+            "To compare rural producers with urban consumers",
+            "To show that markets served social functions as well as economic ones"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "rap_610",
+      "title": "Adaptive Reuse of Buildings",
+      "topic": "Architecture",
+      "difficulty": "B2-C1",
+      "text": "Adaptive reuse is the practice of giving an old building a new function while keeping much of its original structure. A factory might become apartments, or a former train station might become a public library. This approach has become popular in cities that want to preserve historic character while meeting current needs.\n\nOne advantage of adaptive reuse is environmental. Reusing an existing structure can reduce the demand for new materials and decrease construction waste. It can also protect buildings that have cultural value for local residents. When people recognize familiar structures in new roles, they may feel a stronger connection to the neighborhood.\n\nHowever, adaptive reuse can be complicated. Older buildings may not meet modern safety codes, accessibility standards, or energy requirements. Architects must balance preservation with practical changes. If this balance is successful, an old building can remain meaningful while serving a completely new purpose.",
+      "questions": [
+        {
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Adaptive reuse gives old buildings new purposes while preserving important features.",
+            "Adaptive reuse requires cities to stop constructing new buildings entirely.",
+            "Old factories are usually impossible to convert into housing.",
+            "Historic buildings have little value once their original use ends."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word “demand” in the passage is closest in meaning to",
+          "options": [
+            "design",
+            "need",
+            "cost",
+            "supply"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the passage, what is one environmental benefit of adaptive reuse?",
+          "options": [
+            "It prevents all safety problems in old buildings.",
+            "It makes buildings return to their original function.",
+            "It can reduce construction waste.",
+            "It eliminates the need for architects."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What challenge of adaptive reuse does the author mention?",
+          "options": [
+            "Residents usually reject buildings with historic character.",
+            "New materials are always cheaper than reused structures.",
+            "Libraries cannot operate in former train stations.",
+            "Older buildings may need changes to meet modern standards."
+          ],
+          "answer": 3
         }
       ]
     }
@@ -4493,6 +4792,486 @@
           "answer": 3
         }
       ]
+    },
+    {
+      "id": "conv_601",
+      "title": "Changing a Tutoring Appointment",
+      "turns": [
+        [
+          "Student",
+          "I scheduled a tutoring appointment for this afternoon, but my chemistry lab was moved to the same time."
+        ],
+        [
+          "Tutor",
+          "That happens during exam week. Do you want to reschedule for tomorrow morning?"
+        ],
+        [
+          "Student",
+          "Yes, if possible. I mainly need help reviewing equilibrium problems."
+        ],
+        [
+          "Tutor",
+          "I have an opening at nine thirty, and I can prepare extra practice questions."
+        ],
+        [
+          "Student",
+          "That would be perfect. I will bring my notes from lecture."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student need to change the appointment?",
+          "options": [
+            "Her lab time changed.",
+            "She finished the assignment early.",
+            "The tutor canceled the session.",
+            "She lost her chemistry notes."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will the tutor do?",
+          "options": [
+            "Open the lab early",
+            "Prepare practice questions",
+            "Move the lecture notes online",
+            "Review a different subject"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_602",
+      "title": "Coffee Shop Receipt",
+      "turns": [
+        [
+          "Customer",
+          "I think I was charged twice for the same coffee this morning."
+        ],
+        [
+          "Cashier",
+          "Let me check the transaction history. Did you pay with a card?"
+        ],
+        [
+          "Customer",
+          "Yes, and my banking app shows two identical charges."
+        ],
+        [
+          "Cashier",
+          "I see the duplicate. I can process a refund, but it may take a day to appear."
+        ],
+        [
+          "Customer",
+          "That is fine. I just wanted to make sure it was corrected."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the customer report?",
+          "options": [
+            "A drink order was prepared incorrectly.",
+            "The banking app stopped working.",
+            "A payment appears twice.",
+            "A refund was sent to the wrong card."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the cashier say about the refund?",
+          "options": [
+            "It cannot be processed today.",
+            "It requires a manager from the bank.",
+            "It will be given only as store credit.",
+            "It may not appear immediately."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_603",
+      "title": "History Reading List",
+      "turns": [
+        [
+          "Student",
+          "I could not find one of the articles on the history reading list."
+        ],
+        [
+          "Professor",
+          "Which one is missing? The library changed some database links last week."
+        ],
+        [
+          "Student",
+          "The article about early trade routes opens to an error page."
+        ],
+        [
+          "Professor",
+          "Thanks for telling me. I will upload a PDF copy to the course site tonight."
+        ],
+        [
+          "Student",
+          "Great. I wanted to read it before our discussion tomorrow."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have?",
+          "options": [
+            "An online article link does not work.",
+            "The professor changed the discussion topic.",
+            "The library removed all history databases.",
+            "A PDF file contains the wrong article."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will the professor do?",
+          "options": [
+            "Cancel tomorrow’s discussion",
+            "Upload a copy of the article",
+            "Ask the student to visit the library",
+            "Replace the article with a book chapter"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_604",
+      "title": "Dorm Heating Issue",
+      "turns": [
+        [
+          "Student",
+          "The heater in my dorm room keeps turning off during the night."
+        ],
+        [
+          "Resident Assistant",
+          "Have you submitted a maintenance request through the housing portal?"
+        ],
+        [
+          "Student",
+          "I tried, but the portal says my room number does not exist."
+        ],
+        [
+          "Resident Assistant",
+          "That is probably a system error. Send me a screenshot, and I will contact maintenance directly."
+        ],
+        [
+          "Student",
+          "Thanks. It has been hard to sleep because the room gets so cold."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have with the housing portal?",
+          "options": [
+            "It shows the wrong maintenance schedule.",
+            "It says the heater has already been repaired.",
+            "It will not accept the student’s room number.",
+            "It does not allow screenshots to be uploaded."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the resident assistant offer to do?",
+          "options": [
+            "Bring a new heater to the room",
+            "Move the student to another dorm",
+            "Reset the student’s course account",
+            "Contact maintenance directly"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_605",
+      "title": "Missing Art Supplies",
+      "turns": [
+        [
+          "Student",
+          "The paint set I ordered for class arrived without the brushes."
+        ],
+        [
+          "Store Clerk",
+          "I am sorry about that. Was the package sealed when you received it?"
+        ],
+        [
+          "Student",
+          "Yes, so I think the brushes were never packed. I need them for tomorrow’s studio class."
+        ],
+        [
+          "Store Clerk",
+          "We can give you a replacement set today if you bring the receipt."
+        ],
+        [
+          "Student",
+          "I have the digital receipt on my phone. I can come by after lunch."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is missing from the student’s order?",
+          "options": [
+            "Paint brushes",
+            "A digital receipt",
+            "A studio schedule",
+            "A replacement package"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the clerk say the student should bring?",
+          "options": [
+            "The original box",
+            "The receipt",
+            "A class syllabus",
+            "A different paint set"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_606",
+      "title": "Changing Research Topic",
+      "turns": [
+        [
+          "Student",
+          "I am worried that my research topic is too broad for a ten-page paper."
+        ],
+        [
+          "Professor",
+          "What are you planning to write about?"
+        ],
+        [
+          "Student",
+          "The entire history of public transportation in large cities."
+        ],
+        [
+          "Professor",
+          "That is too much. You might focus on one city and one period of change."
+        ],
+        [
+          "Student",
+          "That makes sense. I will narrow it to subway expansion in the 1970s."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What concern does the student have?",
+          "options": [
+            "The professor assigned too few pages.",
+            "The library has no sources on cities.",
+            "The paper topic is too broad.",
+            "The deadline was moved earlier."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does the professor suggest?",
+          "options": [
+            "Adding more historical background",
+            "Changing to a completely different course",
+            "Writing about several transportation systems",
+            "Choosing one city and time period"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_607",
+      "title": "Cafeteria Allergy Labels",
+      "turns": [
+        [
+          "Student",
+          "I noticed that some cafeteria dishes today did not have allergy labels."
+        ],
+        [
+          "Manager",
+          "Thank you for telling me. Which station was missing them?"
+        ],
+        [
+          "Student",
+          "The soup station. I have a nut allergy, so I need that information before choosing food."
+        ],
+        [
+          "Manager",
+          "I understand. I will check with the kitchen and replace the labels right away."
+        ],
+        [
+          "Student",
+          "I appreciate it. I just want to be careful."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why is the student concerned?",
+          "options": [
+            "The student needs allergy information before eating.",
+            "The soup station closed earlier than expected.",
+            "The cafeteria stopped serving hot food.",
+            "The manager changed the menu prices."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will the manager do?",
+          "options": [
+            "Remove all soup from the menu",
+            "Replace the missing labels",
+            "Ask the student to eat elsewhere",
+            "Schedule a meeting with students"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_608",
+      "title": "Theater Ticket Mix-up",
+      "turns": [
+        [
+          "Student",
+          "I bought a ticket for Friday’s play, but the confirmation email says Saturday."
+        ],
+        [
+          "Box Office Clerk",
+          "Let me look it up. Sometimes the system changes dates if one performance sells out."
+        ],
+        [
+          "Student",
+          "I need Friday because my parents will be visiting that evening."
+        ],
+        [
+          "Box Office Clerk",
+          "There are still two seats left for Friday. I can exchange the ticket now."
+        ],
+        [
+          "Student",
+          "Thank you. I will take one of those seats."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the problem with the ticket?",
+          "options": [
+            "It has the wrong seat number.",
+            "It was never paid for.",
+            "It is for the wrong day.",
+            "It is for a sold-out play."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the student need a Friday ticket?",
+          "options": [
+            "The student performs in the play Saturday.",
+            "The box office closes on Saturday.",
+            "The ticket price is lower on Friday.",
+            "The student’s parents will be visiting."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "conv_609",
+      "title": "Printer Account Balance",
+      "turns": [
+        [
+          "Student",
+          "The printer says my account balance is zero, but I added money this morning."
+        ],
+        [
+          "Lab Assistant",
+          "Did you add it through the campus app or at the front desk?"
+        ],
+        [
+          "Student",
+          "Through the app. The payment receipt is in my email."
+        ],
+        [
+          "Lab Assistant",
+          "Then the printer system may not have updated. I can print your document from the staff computer."
+        ],
+        [
+          "Student",
+          "That would help. My assignment is due in an hour."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have?",
+          "options": [
+            "The printer does not show the money added to the account.",
+            "The student forgot to send the assignment by email.",
+            "The campus app printed the wrong document.",
+            "The front desk refused to accept payment."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the lab assistant offer to do?",
+          "options": [
+            "Add money through the app",
+            "Print the document from a staff computer",
+            "Extend the assignment deadline",
+            "Repair the printer after class"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_610",
+      "title": "Garden Club Meeting",
+      "turns": [
+        [
+          "Student",
+          "Is tonight’s garden club meeting still outside? The weather forecast says heavy rain."
+        ],
+        [
+          "Club President",
+          "We decided to move it to the student center. I sent a message this morning."
+        ],
+        [
+          "Student",
+          "I did not see it. Are we still discussing the spring planting schedule?"
+        ],
+        [
+          "Club President",
+          "Yes, and we will also choose volunteers for Saturday’s cleanup."
+        ],
+        [
+          "Student",
+          "Good. I will tell the two new members in my biology class."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What did the club change?",
+          "options": [
+            "The club president",
+            "The planting schedule",
+            "The meeting location",
+            "The cleanup date"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What else will the club discuss besides the planting schedule?",
+          "options": [
+            "A biology exam review",
+            "New membership fees",
+            "A weather forecast",
+            "Volunteers for a cleanup"
+          ],
+          "answer": 3
+        }
+      ]
     }
   ],
   "announcements": [
@@ -4927,6 +5706,154 @@
             "Food waste and compostables."
           ],
           "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "ann_601",
+      "title": "Library Elevator Maintenance",
+      "text": "Attention library visitors. The elevator in the east wing will be out of service from Monday morning through Wednesday afternoon for scheduled maintenance. During this time, visitors who need step-free access should use the west entrance, where staff members will be available to help locate materials from upper floors. Study rooms on the second floor will remain open, but reservations may take longer to reach. Thank you for your patience while the work is completed.",
+      "questions": [
+        {
+          "q": "What is the announcement mainly about?",
+          "options": [
+            "Temporary elevator maintenance in the library",
+            "New study room reservation rules",
+            "A permanent closing of the east entrance",
+            "A change in library opening hours"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should visitors needing step-free access do?",
+          "options": [
+            "Wait until Wednesday to visit",
+            "Use the west entrance",
+            "Reserve only first-floor study rooms",
+            "Bring their own materials from upper floors"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What may happen during the maintenance period?",
+          "options": [
+            "All study rooms will be closed.",
+            "Staff will stop helping visitors find materials.",
+            "Getting to second-floor reservations may take longer.",
+            "The library will cancel upper-floor classes."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "ann_602",
+      "title": "Campus Blood Drive",
+      "text": "This is a reminder that the student health center will host a campus blood drive this Thursday from ten a.m. to four p.m. in the student union ballroom. Donors should bring a photo ID and eat a full meal before arriving. Walk-ins are welcome, but students with appointments will be served first. Volunteers are also needed to guide donors to the waiting area and hand out snacks after donation.",
+      "questions": [
+        {
+          "q": "What event is being announced?",
+          "options": [
+            "A student health lecture",
+            "A volunteer training course",
+            "A photo identification workshop",
+            "A campus blood drive"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What are donors advised to do before arriving?",
+          "options": [
+            "Eat a full meal",
+            "Attend a training session",
+            "Pick up snacks from the union",
+            "Visit the health center the day before"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the speaker say about appointments?",
+          "options": [
+            "Appointments are required for all donors.",
+            "Students with appointments will be served first.",
+            "Appointments must be made at the ballroom entrance.",
+            "Students should cancel appointments if they want to volunteer."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_603",
+      "title": "Art Building Entrance Change",
+      "text": "Please note that the main entrance to the art building will be closed tomorrow because new display cases are being installed in the lobby. Students and faculty should enter through the courtyard door on the north side of the building. Signs will be posted to direct visitors. Classes will meet as scheduled, but students carrying large projects should arrive a few minutes early because the temporary entrance is narrower than the main doors.",
+      "questions": [
+        {
+          "q": "Why will the main entrance be closed?",
+          "options": [
+            "The courtyard door is being painted.",
+            "Art classes have been moved online.",
+            "New display cases are being installed.",
+            "Large projects are being removed from the lobby."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Where should people enter the building?",
+          "options": [
+            "Through the main lobby",
+            "Through the faculty office",
+            "Through the display area",
+            "Through the courtyard door"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Why should some students arrive early?",
+          "options": [
+            "The temporary entrance is narrower than the main doors.",
+            "Their classes will begin earlier than usual.",
+            "They need to help install the display cases.",
+            "The courtyard will close before noon."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_604",
+      "title": "Career Fair Room Change",
+      "text": "The location of tomorrow’s engineering career fair has changed. Because more employers registered than expected, the event will now take place in the recreation center instead of the engineering atrium. The fair will still run from one to five p.m. Students should bring copies of their resumes and check in at the table near the main entrance. Shuttle buses will run every fifteen minutes from the engineering building to the recreation center.",
+      "questions": [
+        {
+          "q": "Why was the career fair moved?",
+          "options": [
+            "The engineering atrium is being repaired.",
+            "More employers registered than expected.",
+            "The recreation center is closer to student housing.",
+            "Shuttle buses cannot stop near the atrium."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What should students bring?",
+          "options": [
+            "A recreation center membership card",
+            "A list of engineering classes",
+            "Copies of their resumes",
+            "Proof of shuttle registration"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How can students get from the engineering building to the new location?",
+          "options": [
+            "By checking in at the atrium",
+            "By walking through the main entrance",
+            "By registering with employers online",
+            "By taking shuttle buses"
+          ],
+          "answer": 3
         }
       ]
     }

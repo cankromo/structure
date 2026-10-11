@@ -21,6 +21,7 @@
           {
             "type": "daily_life",
             "ids": [
+              "rdl_601",
               "rdl_101",
               "rdl_102",
               "rdl_103"
@@ -29,9 +30,10 @@
           {
             "type": "academic_passage",
             "ids": [
-              "rap_101",
-              "rap_102",
-              "rap_103"
+              "rap_501",
+              "rap_502",
+              "rap_601",
+              "rap_602"
             ]
           }
         ],
@@ -56,10 +58,12 @@
           {
             "type": "conversations",
             "ids": [
-              "conv_101",
-              "conv_102",
-              "conv_103",
-              "conv_104"
+              "conv_501",
+              "conv_502",
+              "conv_503",
+              "conv_504",
+              "conv_505",
+              "conv_506"
             ]
           },
           {
@@ -67,14 +71,16 @@
             "ids": [
               "ann_101",
               "ann_102",
-              "ann_103"
+              "ann_103",
+              "ann_601",
+              "ann_602"
             ]
           },
           {
             "type": "academic_talks",
             "ids": [
-              "talk_101",
-              "talk_102"
+              "talk_501",
+              "talk_502"
             ]
           }
         ],
@@ -153,6 +159,7 @@
           {
             "type": "daily_life",
             "ids": [
+              "rdl_602",
               "rdl_201",
               "rdl_202",
               "rdl_203"
@@ -161,9 +168,10 @@
           {
             "type": "academic_passage",
             "ids": [
-              "rap_201",
-              "rap_202",
-              "rap_203"
+              "rap_603",
+              "rap_604",
+              "rap_605",
+              "rap_606"
             ]
           }
         ],
@@ -188,10 +196,12 @@
           {
             "type": "conversations",
             "ids": [
-              "conv_201",
-              "conv_202",
-              "conv_203",
-              "conv_204"
+              "conv_507",
+              "conv_508",
+              "conv_601",
+              "conv_602",
+              "conv_603",
+              "conv_604"
             ]
           },
           {
@@ -199,14 +209,16 @@
             "ids": [
               "ann_201",
               "ann_202",
-              "ann_203"
+              "ann_203",
+              "ann_603",
+              "ann_604"
             ]
           },
           {
             "type": "academic_talks",
             "ids": [
-              "talk_201",
-              "talk_202"
+              "talk_503",
+              "talk_504"
             ]
           }
         ],
@@ -285,6 +297,7 @@
           {
             "type": "daily_life",
             "ids": [
+              "rdl_001",
               "rdl_401",
               "rdl_402",
               "rdl_403"
@@ -293,9 +306,10 @@
           {
             "type": "academic_passage",
             "ids": [
-              "rap_401",
-              "rap_402",
-              "rap_403"
+              "rap_607",
+              "rap_608",
+              "rap_609",
+              "rap_610"
             ]
           }
         ],
@@ -320,10 +334,12 @@
           {
             "type": "conversations",
             "ids": [
-              "conv_401",
-              "conv_402",
-              "conv_403",
-              "conv_404"
+              "conv_605",
+              "conv_606",
+              "conv_607",
+              "conv_608",
+              "conv_609",
+              "conv_610"
             ]
           },
           {
@@ -331,14 +347,16 @@
             "ids": [
               "ann_401",
               "ann_402",
-              "ann_403"
+              "ann_403",
+              "ann_301",
+              "ann_302"
             ]
           },
           {
             "type": "academic_talks",
             "ids": [
-              "talk_401",
-              "talk_402"
+              "talk_505",
+              "talk_506"
             ]
           }
         ],

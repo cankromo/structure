@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:58:09.659Z",
+  "generated_at": "2026-10-11T06:58:40.111Z",
   "voice": "Ava (Premium)",
   "rate": 145,
   "format": "wav",
@@ -340,6 +340,56 @@
       "file": "assets/audio/conv_508.wav",
       "text_hash": "2cf2fc50745c"
     },
+    "conv_601": {
+      "type": "conversations",
+      "file": "assets/audio/conv_601.wav",
+      "text_hash": "9abeb2eac787"
+    },
+    "conv_602": {
+      "type": "conversations",
+      "file": "assets/audio/conv_602.wav",
+      "text_hash": "e140c28e9028"
+    },
+    "conv_603": {
+      "type": "conversations",
+      "file": "assets/audio/conv_603.wav",
+      "text_hash": "d040fc799b03"
+    },
+    "conv_604": {
+      "type": "conversations",
+      "file": "assets/audio/conv_604.wav",
+      "text_hash": "5874a0525a4a"
+    },
+    "conv_605": {
+      "type": "conversations",
+      "file": "assets/audio/conv_605.wav",
+      "text_hash": "a922c5c4068a"
+    },
+    "conv_606": {
+      "type": "conversations",
+      "file": "assets/audio/conv_606.wav",
+      "text_hash": "79acbf2adb56"
+    },
+    "conv_607": {
+      "type": "conversations",
+      "file": "assets/audio/conv_607.wav",
+      "text_hash": "bc8d8840ae9f"
+    },
+    "conv_608": {
+      "type": "conversations",
+      "file": "assets/audio/conv_608.wav",
+      "text_hash": "6496603d4de4"
+    },
+    "conv_609": {
+      "type": "conversations",
+      "file": "assets/audio/conv_609.wav",
+      "text_hash": "6ba770a20172"
+    },
+    "conv_610": {
+      "type": "conversations",
+      "file": "assets/audio/conv_610.wav",
+      "text_hash": "969d5879dc6f"
+    },
     "ann_001": {
       "type": "announcements",
       "file": "assets/audio/ann_001.wav",
@@ -399,6 +449,26 @@
       "type": "announcements",
       "file": "assets/audio/ann_403.wav",
       "text_hash": "3fa0eea7fe59"
+    },
+    "ann_601": {
+      "type": "announcements",
+      "file": "assets/audio/ann_601.wav",
+      "text_hash": "7bc2767a4d60"
+    },
+    "ann_602": {
+      "type": "announcements",
+      "file": "assets/audio/ann_602.wav",
+      "text_hash": "08a63d3bcb9f"
+    },
+    "ann_603": {
+      "type": "announcements",
+      "file": "assets/audio/ann_603.wav",
+      "text_hash": "b6096f2f95c7"
+    },
+    "ann_604": {
+      "type": "announcements",
+      "file": "assets/audio/ann_604.wav",
+      "text_hash": "6027a5894b94"
     },
     "talk_001": {
       "type": "academic_talks",

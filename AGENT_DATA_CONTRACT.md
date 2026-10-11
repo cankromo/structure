@@ -70,8 +70,8 @@ Every full mock test must have these exact item totals:
 
 Current non-official internal distribution used by the project:
 
-- Reading: Complete Words 20, Daily Life 12, Academic Passage 18
-- Listening: Choose Response 12, Conversations 16, Announcements 9, Academic Talks 10
+- Reading: Complete Words 20, Daily Life 14, Academic Passage 16
+- Listening: Choose Response 12, Conversations 12, Announcements 15, Academic Talks 8
 - Writing: Build Sentence 10, Email 1, Discussion 1
 - Speaking: Repeat 7, Interview 4
 
