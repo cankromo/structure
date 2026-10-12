@@ -808,16 +808,17 @@
       "title": "Coral Reef Recovery",
       "topic": "oceanography",
       "difficulty": "B2-C1",
-      "text": "Coral reefs can recover from disturbance, but the process depends on local conditions. After a sev___ bleaching event, surviving corals may reg___ slowly if water quality rem____ stable and algae are kept under control. Young corals need cle__ surfaces where they can att___ and grow. Fish that gra__ on algae help maint___ this balance, while pollution can red___ recovery rates. Because reefs support fisheries and tourism, scientists mon____ both biological changes and human activities near damaged areas.",
+      "text": "Coral reefs can recover from disturbance, but the process depends on local conditions. After a sev___ bleaching event, surviving corals may rec____ slowly if water quality rem____ stable and algae are kept under control. Young corals need cle__ surfaces where they can att___ and grow. Fish that gra__ on algae help maint___ this balance, while pollution can red___ recovery rates. Because reefs support coa____ fisheries and tourism, scientists mon____ both biological changes and human activities near damaged areas.",
       "answers": [
         "ere",
-        "row",
+        "over",
         "ains",
         "ar",
         "ach",
         "ze",
         "ain",
         "uce",
+        "stal",
         "itor"
       ]
     },
@@ -826,7 +827,7 @@
       "title": "The Value of Marginal Notes",
       "topic": "education",
       "difficulty": "B2-C1",
-      "text": "Students often remember readings better when they actively mark important ideas. Marginal notes enc______ readers to pause, sum______ arguments, and con____ new information with earlier material. A brief question in the mar___ can reveal confusion before it becomes a larger problem. Highlighting alone may feel eff______, but it often req_____ little thought. In contrast, written comments make learning more del_______ because students must choose words that rep______ the passage accurately and explain why an idea matters.",
+      "text": "Students often remember readings better when they actively mark important ideas. Marginal notes enc______ readers to pause, sum______ arguments, and con____ new information with earlier material. A brief question in the mar___ can reveal confusion before it becomes a larger problem. Highlighting alone may feel eff______, but it req_____ little thought. Written comments make learning more del_______ because students com____ ideas, rep______ the passage accurately, and review them lat__.",
       "answers": [
         "ourage",
         "marize",
@@ -835,7 +836,9 @@
         "icient",
         "uires",
         "iberate",
-        "resent"
+        "pare",
+        "resent",
+        "er"
       ]
     },
     {
@@ -843,15 +846,18 @@
       "title": "Volcanic Ash Layers",
       "topic": "geology",
       "difficulty": "B2-C1",
-      "text": "Volcanic ash can preserve a surprisingly precise record of past eruptions. When ash sett___ over a landscape, it forms a thin layer that may rem___ visible in soil or lake sediment. Because each eruption has a dist_______ chemical signature, geologists can mat__ ash from distant sites to the same event. These layers help est______ timelines for climate shifts, human settlement, and ecological change. However, wind can red_________ ash unevenly, so researchers comp___ multiple locations before drawing regional conclusions.",
+      "text": "Volcanic ash can preserve a surprisingly precise record of past eruptions. When ash sett___ over a landscape, it may rem___ visible in soil or lake sed_____. Because each eruption has a dist_______ chemical signature, geologists can mat__ ash from distant sites to the same event. These pre____ layers help est______ timelines for climate shifts, human settlement, and ecological change. Wind can red_________ ash unevenly, so researchers comp___ evidence from multiple reg_____ locations before drawing broad conclusions.",
       "answers": [
         "les",
         "ain",
+        "iment",
         "inctive",
         "ch",
+        "cise",
         "ablish",
         "istribute",
-        "are"
+        "are",
+        "ional"
       ]
     },
     {
@@ -859,12 +865,14 @@
       "title": "Bird Migration Timing",
       "topic": "animal behavior",
       "difficulty": "B2-C1",
-      "text": "Many migratory birds time their journeys to match seasonal changes in food supply. If spring temp________ rise earlier than usual, insects may app___ before birds arrive at breeding sites. This mismatch can aff___ how many chicks survive. Some species adj___ migration dates in response to environmental cues, but others are more dep______ on day length. Researchers track these pat_____ with banding data and satellite tags, hoping to pred___ which populations are most vuln______ to rapid climate change.",
+      "text": "Many migratory birds time their journeys to match seasonal changes in food supply. If spring temp________ rise earlier than usual, insects may app___ before birds arrive at breed___ sites. This mismatch can aff___ how many chicks survive. Some species adj___ migration dates in response to seas____ cues, but others are more dep______ on day length. Researchers track these pat_____ with satellite tags, hoping to pred___ which populations are most vuln______ to rapid climate change.",
       "answers": [
         "eratures",
         "ear",
+        "ing",
         "ect",
         "ust",
+        "onal",
         "endent",
         "terns",
         "ict",
@@ -876,15 +884,18 @@
       "title": "Public Libraries and Access",
       "topic": "social sciences",
       "difficulty": "B2-C1",
-      "text": "Public libraries provide resources that extend far beyond printed books. In many comm_______, libraries off__ internet access, language classes, job-search support, and quiet study space. These services are esp_______ important for residents who lack reliable technology at home. Librarians also help users eval____ information, which is increasingly valuable in a crowded media environment. When funding is lim____, library systems must pri_______ programs carefully while still pres______ open access for different age groups and educational needs.",
+      "text": "Public libraries provide resources that extend far beyond printed books. In many comm_______, libraries off__ internet access, language classes, job-search support, and quiet study space. These services are esp_______ important for residents who lack reli____ technology at home. Librarians also help users eval____ information in crowded dig____ environments. When funding is lim____, library systems must pri_______ programs carefully while still pres______ open acc___ for different age groups and educational needs.",
       "answers": [
         "unities",
         "er",
         "ecially",
+        "able",
         "uate",
+        "ital",
         "ited",
         "oritize",
-        "erving"
+        "erving",
+        "ess"
       ]
     },
     {
@@ -892,15 +903,18 @@
       "title": "Memory and Emotion",
       "topic": "psychology",
       "difficulty": "B2-C1",
-      "text": "Emotion can influence what people notice and later remember. Events that feel sur_______ or important often rec____ more attention, which can strengthen memory formation. However, emotional memories are not always acc_____. Stress may nar___ focus toward central details while causing people to miss background information. Over time, ret______ a memory can also change it slightly. Psychologists therefore exam___ both confidence and accuracy, because a vivid memory may feel reli____ even when some details have been altered.",
+      "text": "Emotion can influence what people notice and later remember. Events that feel sur_______ or important often rec____ more attention, which can strengthen memory formation. However, emotional memories are not always acc_____. Stress may nar___ focus toward cen____ details while causing people to miss background information. Over time, ret______ a memory can also change it slightly. Psychologists exam___ both conf______ and accuracy, because a vivid memory may feel reli____ even when details have been alt____.",
       "answers": [
         "prising",
         "eive",
         "urate",
         "row",
+        "tral",
         "elling",
         "ine",
-        "able"
+        "idence",
+        "able",
+        "ered"
       ]
     },
     {
@@ -908,13 +922,18 @@
       "title": "Urban Food Markets",
       "topic": "history",
       "difficulty": "B2-C1",
-      "text": "Food markets have long shaped the organization of urban neighborhoods. In premodern cities, markets attr_____ farmers, merchants, cooks, and customers from many social groups. Their loc_____ near gates or central squares made trade more eff______, but also created noise and waste. City officials often reg______ market hours, stall placement, and sanitation to reduce conflict. Records of these rules reveal how auth_______ balanced economic activity with public order. Markets were therefore not only places of exchange but also centers of civic management.",
+      "text": "Food markets have long shaped the organization of urban neighborhoods. In premodern cities, markets attr_____ farmers, merchants, cooks, and customers from many social groups. Their loc_____ near gates or cen____ squares made trade more eff______, but also created noise and waste. City officials often reg______ market hours, stall placement, and sani______ to reduce con_____. Records reveal how auth_______ balanced econ____ activity with public order. Markets were places of exch____ and centers of civic management.",
       "answers": [
         "acted",
         "ation",
+        "tral",
         "icient",
         "ulated",
-        "orities"
+        "tation",
+        "flict",
+        "orities",
+        "omic",
+        "ange"
       ]
     },
     {
@@ -922,14 +941,113 @@
       "title": "Plant Roots and Soil",
       "topic": "biology",
       "difficulty": "B2-C1",
-      "text": "Plant roots do more than anchor stems in the ground. As roots exp___ through soil, they cre___ channels that improve air movement and water infiltration. Fine roots abs___ nutrients, while older roots can store energy for future growth. Many plants also rel____ compounds that influence nearby microbes. These interactions aff___ decomposition, disease resistance, and nutrient cycling. Because root systems are mostly hidden, scientists use imaging tools and soil samples to inv________ how underground growth supports the visible parts of ecosystems.",
+      "text": "Plant roots do more than anchor stems in the ground. As roots exp___ through soil, they cre___ chan____ that improve air movement and water infiltration. Fine roots abs___ nutr_____, while older roots can store energy for future growth. Many plants also rel____ compounds that influence nearby mic_____. These interactions aff___ decomposition, disease resistance, and nutrient cycling. Because root systems are mostly hidden, scientists use imaging tools to inv________ how underground growth supports vis____ ecosystems.",
       "answers": [
         "and",
         "ate",
+        "nels",
         "orb",
+        "ients",
         "ease",
+        "robes",
         "ect",
-        "estigate"
+        "estigate",
+        "ible"
+      ]
+    },
+    {
+      "id": "cw_712",
+      "title": "Glacier Movement",
+      "topic": "geology",
+      "difficulty": "B2-C1",
+      "text": "Glaciers may look motionless, but they slowly reshape mountain landscapes. As ice acc________ over many years, its weight comp____ lower layers and causes the glacier to fl__. Rocks trapped at the base scra__ valley floors, while melting water trans_____ sediment away from the ice. The rate of movement dep____ on temperature, slope, and thick____. By studying mor_____, scratches, and deposits, geologists recon______ past climates and identify areas where melting could aff___ water supplies.",
+      "answers": [
+        "umulates",
+        "acts",
+        "ow",
+        "pe",
+        "ports",
+        "ends",
+        "ness",
+        "aines",
+        "struct",
+        "ect"
+      ]
+    },
+    {
+      "id": "cw_713",
+      "title": "Pollination Networks",
+      "topic": "ecology",
+      "difficulty": "B2-C1",
+      "text": "Pollination links plants and animals in complex ecological networks. Bees, moths, birds, and bats trans___ pollen as they move between flowers in search of food. Some plants dep___ on a nar___ group of pollinators, while others attr___ many species. This div______ can make ecosystems more res______ if one pollinator declines. Habitat loss and pesticide use may dis____ these relationships. Ecologists mea____ visitation rates, comp___ seed production, and study how network structure supp____ plant reproduction.",
+      "answers": [
+        "fer",
+        "end",
+        "row",
+        "act",
+        "ersity",
+        "ilient",
+        "rupt",
+        "sure",
+        "are",
+        "orts"
+      ]
+    },
+    {
+      "id": "cw_714",
+      "title": "The Spread of Paper",
+      "topic": "history",
+      "difficulty": "B2-C1",
+      "text": "The spread of paper changed how information moved across societies. Compared with bamboo, wood, or parchment, paper was lig____, cheaper, and easier to store. Officials could rec___ taxes, merchants could tra__ transactions, and scholars could cir______ notes more widely. As production tech______ improved, written communication became more acc_______ to people outside elite institutions. Paper did not automatically create literacy, but it low____ practical barriers, supp_____ administration, exp_____ education, and fac________ long-distance trade.",
+      "answers": [
+        "hter",
+        "ord",
+        "ck",
+        "culate",
+        "niques",
+        "essible",
+        "ered",
+        "orted",
+        "anded",
+        "ilitated"
+      ]
+    },
+    {
+      "id": "cw_715",
+      "title": "Sleep and Learning",
+      "topic": "psychology",
+      "difficulty": "B2-C1",
+      "text": "Sleep plays an important role in learning and memory. During sleep, the brain appears to reor______ recent experiences and strengthen useful connections. Students who study and then sleep often rem_____ material better than those who stay awake. Lack of sleep can red___ attention, slo_ problem solving, and make errors more lik___. Short naps may ben____ learning when they include deeper stages of sleep. Researchers cont____ to investigate how timing, dur_____, qual___, and stress int_____ with academic performance.",
+      "answers": [
+        "ganize",
+        "ember",
+        "uce",
+        "w",
+        "ely",
+        "efit",
+        "inue",
+        "ation",
+        "ity",
+        "eract"
+      ]
+    },
+    {
+      "id": "cw_716",
+      "title": "River Deltas",
+      "topic": "earth science",
+      "difficulty": "B2-C1",
+      "text": "River deltas form where flowing water slows and drops sediment near a coast or lake. Over time, layers of sand and mud acc_______, creating flat land crossed by chan____. Deltas often supp___ farming, fishing, and dense settlements because their soils are fer____. Yet they are vuln______ to flooding, erosion, and sea-level rise. Dams can red___ the sediment supply, while canals may alt__ natural water flow. Scientists mon____ delta change with maps, satellites, and field sur____ to gui__ safer planning.",
+      "answers": [
+        "umulate",
+        "nels",
+        "ort",
+        "tile",
+        "erable",
+        "uce",
+        "er",
+        "itor",
+        "veys",
+        "de"
       ]
     }
   ],
