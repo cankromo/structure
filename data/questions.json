@@ -802,6 +802,135 @@
         "de",
         "ond"
       ]
+    },
+    {
+      "id": "cw_704",
+      "title": "Coral Reef Recovery",
+      "topic": "oceanography",
+      "difficulty": "B2-C1",
+      "text": "Coral reefs can recover from disturbance, but the process depends on local conditions. After a sev___ bleaching event, surviving corals may reg___ slowly if water quality rem____ stable and algae are kept under control. Young corals need cle__ surfaces where they can att___ and grow. Fish that gra__ on algae help maint___ this balance, while pollution can red___ recovery rates. Because reefs support fisheries and tourism, scientists mon____ both biological changes and human activities near damaged areas.",
+      "answers": [
+        "ere",
+        "row",
+        "ains",
+        "ar",
+        "ach",
+        "ze",
+        "ain",
+        "uce",
+        "itor"
+      ]
+    },
+    {
+      "id": "cw_705",
+      "title": "The Value of Marginal Notes",
+      "topic": "education",
+      "difficulty": "B2-C1",
+      "text": "Students often remember readings better when they actively mark important ideas. Marginal notes enc______ readers to pause, sum______ arguments, and con____ new information with earlier material. A brief question in the mar___ can reveal confusion before it becomes a larger problem. Highlighting alone may feel eff______, but it often req_____ little thought. In contrast, written comments make learning more del_______ because students must choose words that rep______ the passage accurately and explain why an idea matters.",
+      "answers": [
+        "ourage",
+        "marize",
+        "nect",
+        "gin",
+        "icient",
+        "uires",
+        "iberate",
+        "resent"
+      ]
+    },
+    {
+      "id": "cw_706",
+      "title": "Volcanic Ash Layers",
+      "topic": "geology",
+      "difficulty": "B2-C1",
+      "text": "Volcanic ash can preserve a surprisingly precise record of past eruptions. When ash sett___ over a landscape, it forms a thin layer that may rem___ visible in soil or lake sediment. Because each eruption has a dist_______ chemical signature, geologists can mat__ ash from distant sites to the same event. These layers help est______ timelines for climate shifts, human settlement, and ecological change. However, wind can red_________ ash unevenly, so researchers comp___ multiple locations before drawing regional conclusions.",
+      "answers": [
+        "les",
+        "ain",
+        "inctive",
+        "ch",
+        "ablish",
+        "istribute",
+        "are"
+      ]
+    },
+    {
+      "id": "cw_707",
+      "title": "Bird Migration Timing",
+      "topic": "animal behavior",
+      "difficulty": "B2-C1",
+      "text": "Many migratory birds time their journeys to match seasonal changes in food supply. If spring temp________ rise earlier than usual, insects may app___ before birds arrive at breeding sites. This mismatch can aff___ how many chicks survive. Some species adj___ migration dates in response to environmental cues, but others are more dep______ on day length. Researchers track these pat_____ with banding data and satellite tags, hoping to pred___ which populations are most vuln______ to rapid climate change.",
+      "answers": [
+        "eratures",
+        "ear",
+        "ect",
+        "ust",
+        "endent",
+        "terns",
+        "ict",
+        "erable"
+      ]
+    },
+    {
+      "id": "cw_708",
+      "title": "Public Libraries and Access",
+      "topic": "social sciences",
+      "difficulty": "B2-C1",
+      "text": "Public libraries provide resources that extend far beyond printed books. In many comm_______, libraries off__ internet access, language classes, job-search support, and quiet study space. These services are esp_______ important for residents who lack reliable technology at home. Librarians also help users eval____ information, which is increasingly valuable in a crowded media environment. When funding is lim____, library systems must pri_______ programs carefully while still pres______ open access for different age groups and educational needs.",
+      "answers": [
+        "unities",
+        "er",
+        "ecially",
+        "uate",
+        "ited",
+        "oritize",
+        "erving"
+      ]
+    },
+    {
+      "id": "cw_709",
+      "title": "Memory and Emotion",
+      "topic": "psychology",
+      "difficulty": "B2-C1",
+      "text": "Emotion can influence what people notice and later remember. Events that feel sur_______ or important often rec____ more attention, which can strengthen memory formation. However, emotional memories are not always acc_____. Stress may nar___ focus toward central details while causing people to miss background information. Over time, ret______ a memory can also change it slightly. Psychologists therefore exam___ both confidence and accuracy, because a vivid memory may feel reli____ even when some details have been altered.",
+      "answers": [
+        "prising",
+        "eive",
+        "urate",
+        "row",
+        "elling",
+        "ine",
+        "able"
+      ]
+    },
+    {
+      "id": "cw_710",
+      "title": "Urban Food Markets",
+      "topic": "history",
+      "difficulty": "B2-C1",
+      "text": "Food markets have long shaped the organization of urban neighborhoods. In premodern cities, markets attr_____ farmers, merchants, cooks, and customers from many social groups. Their loc_____ near gates or central squares made trade more eff______, but also created noise and waste. City officials often reg______ market hours, stall placement, and sanitation to reduce conflict. Records of these rules reveal how auth_______ balanced economic activity with public order. Markets were therefore not only places of exchange but also centers of civic management.",
+      "answers": [
+        "acted",
+        "ation",
+        "icient",
+        "ulated",
+        "orities"
+      ]
+    },
+    {
+      "id": "cw_711",
+      "title": "Plant Roots and Soil",
+      "topic": "biology",
+      "difficulty": "B2-C1",
+      "text": "Plant roots do more than anchor stems in the ground. As roots exp___ through soil, they cre___ channels that improve air movement and water infiltration. Fine roots abs___ nutrients, while older roots can store energy for future growth. Many plants also rel____ compounds that influence nearby microbes. These interactions aff___ decomposition, disease resistance, and nutrient cycling. Because root systems are mostly hidden, scientists use imaging tools and soil samples to inv________ how underground growth supports the visible parts of ecosystems.",
+      "answers": [
+        "and",
+        "ate",
+        "orb",
+        "ease",
+        "ect",
+        "estigate"
+      ]
     }
   ],
   "daily_life": [
