@@ -1049,6 +1049,63 @@
         "veys",
         "de"
       ]
+    },
+    {
+      "id": "cw_801",
+      "title": "Mangrove Roots",
+      "topic": "ecology",
+      "difficulty": "B2-C1",
+      "text": "Mangrove forests grow where ocean tides meet river water along tropical coasts. Their roots ext___ above muddy soil, sta______ shorelines, and trap sed_____ before it washes away. These forests prov___ nursery habitat for young fish and crabs, while their leaves con_______ organic matter to coastal food webs. Because mangroves toler___ salt and low oxygen, they occupy areas where many trees cannot survive. Clearing land can red___ their protective value, exp___ communities to storm damage, sust___ fisheries, and require long-term mon____ by scientists.",
+      "answers": [
+        "end",
+        "bilize",
+        "iment",
+        "ide",
+        "tribute",
+        "ate",
+        "uce",
+        "ose",
+        "ain",
+        "itor"
+      ]
+    },
+    {
+      "id": "cw_802",
+      "title": "Museum Conservation",
+      "topic": "art history",
+      "difficulty": "B2-C1",
+      "text": "Museum conservation involves slowing damage while preserving the meaning of an object. Conservators exam___ materials carefully before they cle__ surfaces, repair wea_____ areas, or adjust storage conditions. Light, moisture, dust, and temp_______ changes can all aff___ paintings, textiles, and paper records. A treatment that seems help___ at first may cause problems later, so decisions are made cau_______ and doc_______ in detail. This process helps future specialists under_____ changes and protect hist______ context.",
+      "answers": [
+        "ine",
+        "an",
+        "kened",
+        "erature",
+        "ect",
+        "ful",
+        "tiously",
+        "umented",
+        "stand",
+        "orical"
+      ]
+    },
+    {
+      "id": "cw_803",
+      "title": "Deep-Sea Exploration",
+      "topic": "oceanography",
+      "difficulty": "B2-C1",
+      "text": "The deep ocean remains one of the least observed environments on Earth. Remotely operated vehicles allow scientists to desc___ below the reach of divers and coll___ images, samples, and measurements. At great depths, pressure is ext____, sunlight is abs___, and organisms often depend on chem____ energy rather than photosynthesis. Each expedition can rev___ unfamiliar species or geological features. Because ship time is exp______, researchers plan routes carefully, pri_______ questions, doc_____ observations, and compare findings with shallow-water sur____.",
+      "answers": [
+        "end",
+        "ect",
+        "reme",
+        "ent",
+        "ical",
+        "eal",
+        "ensive",
+        "oritize",
+        "ument",
+        "veys"
+      ]
     }
   ],
   "daily_life": [
@@ -1945,6 +2002,133 @@
             "They will not be fixed during the workshop"
           ],
           "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "rdl_801",
+      "title": "Campus Mailroom Notice",
+      "topic": "campus",
+      "difficulty": "B2-C1",
+      "text": "MAILROOM NOTICE\n\nBeginning next week, students who receive packages must show a student ID and the pickup code from the notification email. Packages will be held for seven calendar days. After that period, unclaimed packages may be returned to the sender. Students who cannot pick up a package because of illness or travel may authorize another student by completing the online permission form before the deadline.",
+      "questions": [
+        {
+          "q": "What is the notice mainly about?",
+          "options": [
+            "New requirements for picking up packages",
+            "A change in student ID card design",
+            "A plan to close the mailroom for travel",
+            "A new service for sending packages"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What must students show at pickup?",
+          "options": [
+            "A sender address and a travel form",
+            "A student ID and pickup code",
+            "A calendar and permission form",
+            "A package label and class schedule"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What may happen to packages after seven days?",
+          "options": [
+            "They may be moved to another campus",
+            "They may be opened by mailroom staff",
+            "They may be returned to the sender",
+            "They may be delivered to classrooms"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about the online permission form?",
+          "options": [
+            "It lets someone else pick up a student’s package",
+            "It replaces the need for a pickup code",
+            "It is required for every package sender",
+            "It can be completed after the deadline"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_802",
+      "title": "Community Center Email",
+      "topic": "community",
+      "difficulty": "B2-C1",
+      "text": "Subject: Pottery Class Schedule\n\nThank you for enrolling in the beginner pottery class at the community center. The first meeting has been moved from Monday to Wednesday because the kiln room is being inspected. All other meetings will still take place on Mondays. Clay and basic tools will be provided, but participants should bring an apron or wear clothing that can get dirty. Please reply by Friday if the new first-session date creates a conflict.",
+      "questions": [
+        {
+          "q": "Why was the first meeting moved?",
+          "options": [
+            "The instructor is unavailable",
+            "The kiln room is being inspected",
+            "Participants requested a later date",
+            "The community center is buying tools"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What should participants bring or wear?",
+          "options": [
+            "An apron or suitable clothing",
+            "Their own clay and tools",
+            "A printed inspection report",
+            "A payment receipt"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should someone do if Wednesday is a problem?",
+          "options": [
+            "Attend only the Monday meetings",
+            "Call the kiln inspector",
+            "Reply by Friday",
+            "Bring extra clay"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "rdl_803",
+      "title": "Workplace Lunch Message",
+      "topic": "workplace",
+      "difficulty": "B2-C1",
+      "text": "Message from Human Resources\n\nFriday’s staff lunch will be held in the training room instead of the cafeteria because new tables are being delivered to the cafeteria that morning. The lunch will still begin at noon. Employees with dietary restrictions should update their preferences in the staff portal by Wednesday afternoon. Anyone who signed up to help set up should arrive fifteen minutes early.",
+      "questions": [
+        {
+          "q": "What change is being announced?",
+          "options": [
+            "The lunch location has changed",
+            "The lunch has been canceled",
+            "The staff portal is closing",
+            "The cafeteria will open earlier"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why will the lunch not be in the cafeteria?",
+          "options": [
+            "A training session is scheduled there",
+            "New tables are being delivered",
+            "Dietary forms are being collected",
+            "Employees requested a quieter room"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who should arrive early?",
+          "options": [
+            "Employees with dietary restrictions",
+            "All Human Resources staff",
+            "People helping with setup",
+            "Employees using the cafeteria"
+          ],
+          "answer": 2
         }
       ]
     }
@@ -3550,6 +3734,133 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "rap_801",
+      "title": "Biochar and Soil",
+      "topic": "environment",
+      "difficulty": "B2-C1",
+      "text": "Biochar is a charcoal-like material produced by heating plant matter in a low-oxygen environment. When added to soil, it can improve the soil’s ability to hold water and nutrients. This makes it potentially useful in areas where soils are sandy or degraded.\n\nBiochar also attracts interest because it stores carbon in a stable form. Instead of allowing plant waste to decompose quickly and release carbon dioxide, the heating process can lock some carbon into a material that remains in soil for a long time.\n\nHowever, biochar is not equally effective everywhere. Its benefits depend on the original plant material, the temperature used to produce it, and the soil to which it is added. Researchers therefore test biochar under local conditions before recommending it as a general solution.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "A soil material that may improve soil and store carbon",
+            "A farming method that removes all carbon from soil",
+            "A plant disease caused by low oxygen",
+            "A new way to replace soil with sand"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word \"degraded\" in the passage is closest in meaning to",
+          "options": [
+            "damaged",
+            "wet",
+            "expensive",
+            "recent"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why might biochar help with climate concerns?",
+          "options": [
+            "It causes plant waste to decompose faster",
+            "It can store carbon in a stable form",
+            "It prevents all plants from releasing oxygen",
+            "It removes the need for local soil tests"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the passage suggest about using biochar?",
+          "options": [
+            "It works the same way in every soil",
+            "It should be tested under local conditions",
+            "It is useful only in forests",
+            "It is produced without heating plant matter"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rap_802",
+      "title": "Apprenticeship in Medieval Cities",
+      "topic": "history",
+      "difficulty": "B2-C1",
+      "text": "In many medieval European cities, apprenticeship was a common path into skilled work. A young person lived with or worked for a master craftsperson, learning practical skills through observation and repeated practice. The arrangement often lasted several years and included rules about behavior, payment, and training.\n\nApprenticeship helped maintain standards within a trade. Guilds, or associations of workers in the same occupation, sometimes monitored training and controlled who could become a master. This protected customers from poor workmanship, but it also limited competition.\n\nThe system was not purely educational. Masters benefited from apprentice labor, while apprentices gained access to tools, contacts, and specialized knowledge. For historians, apprenticeship contracts provide evidence about family decisions, urban economies, and the organization of labor.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the passage?",
+          "options": [
+            "To explain how apprenticeship functioned in medieval cities",
+            "To compare farming and craft labor in rural areas",
+            "To argue that guilds disappeared because of apprentices",
+            "To describe the invention of modern factories"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The word \"maintain\" in the passage is closest in meaning to",
+          "options": [
+            "preserve",
+            "question",
+            "replace",
+            "measure"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is suggested about guilds?",
+          "options": [
+            "They sometimes restricted who could become a master",
+            "They gave apprentices complete freedom from rules",
+            "They were formed only by customers",
+            "They avoided involvement in training"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the author mention apprenticeship contracts?",
+          "options": [
+            "To show that historians can learn about labor organization from them",
+            "To prove that apprentices never lived with masters",
+            "To explain why contracts were always informal",
+            "To argue that tools were more important than training"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_803",
+      "title": "Sound Mapping",
+      "topic": "urban studies",
+      "difficulty": "B2-C1",
+      "text": "Sound mapping is a method used to study the acoustic character of a place. Researchers record sounds at different locations and times, then represent the results on a map. The goal is not simply to measure noise levels but to understand how people experience an environment.\n\nA park with birds, voices, and distant traffic may be perceived differently from a street with the same average volume but harsher mechanical sounds. Sound maps can therefore help planners identify places that feel restful or stressful.",
+      "questions": [
+        {
+          "q": "What is sound mapping mainly used to study?",
+          "options": [
+            "The acoustic character and experience of places",
+            "The cost of building urban parks",
+            "The speed of traffic on city streets",
+            "The visual design of maps"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the author compare a park and a street?",
+          "options": [
+            "To show that average volume alone may not explain sound experience",
+            "To argue that parks are always louder than streets",
+            "To show that birds create mechanical sounds",
+            "To explain why planners avoid recording sounds"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "choose_response": [
@@ -4221,6 +4532,193 @@
         "The hall is near the lecture office.",
         "I was full after breakfast.",
         "Morning lectures start early."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_801",
+      "prompt": "Could you tell me where the advising office is?",
+      "options": [
+        "It is on the second floor of Mason Hall.",
+        "The advisor was very helpful.",
+        "I told the office yesterday.",
+        "The floor was recently cleaned."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_802",
+      "prompt": "I forgot to attach the file to my email.",
+      "options": [
+        "The email arrived at noon.",
+        "You can send a follow-up message with the file.",
+        "The attachment was interesting.",
+        "I forgot my notebook too."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_803",
+      "prompt": "Do you know if the bookstore is open on Sundays?",
+      "options": [
+        "The bookstore sells used books.",
+        "Sunday is after Saturday.",
+        "Yes, but only in the afternoon.",
+        "I bought it at the bookstore."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_804",
+      "prompt": "Would you mind checking my introduction before class?",
+      "options": [
+        "The class introduction was short.",
+        "I checked out a library book.",
+        "The class starts before noon.",
+        "Sure, send it to me now."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_805",
+      "prompt": "Why is the computer lab closed today?",
+      "options": [
+        "The computers are being updated.",
+        "I use the lab often.",
+        "Today is a busy day.",
+        "The computer is on the desk."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_806",
+      "prompt": "Can I still register for the volunteer trip?",
+      "options": [
+        "The trip leaves at seven.",
+        "Yes, there are a few spaces left.",
+        "Volunteers work outdoors.",
+        "I registered my bicycle."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_807",
+      "prompt": "I need to return this camera by five o’clock.",
+      "options": [
+        "The photo is very clear.",
+        "Five cameras were returned.",
+        "The media desk closes at five thirty.",
+        "I need a camera for class."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_808",
+      "prompt": "Should we include the survey results in the final report?",
+      "options": [
+        "The survey was online.",
+        "The final report is due soon.",
+        "I included my name already.",
+        "Yes, they support our main argument."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_809",
+      "prompt": "The guest lecture was moved to a larger room.",
+      "options": [
+        "That makes sense; many students wanted to attend.",
+        "The guest moved here last year.",
+        "The room is near the lecture notes.",
+        "I wanted a larger backpack."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_810",
+      "prompt": "Do you have time to practice the presentation this evening?",
+      "options": [
+        "The presentation was yesterday.",
+        "Yes, after my lab ends.",
+        "Time practice is useful.",
+        "The evening class was canceled."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_811",
+      "prompt": "I cannot find the article Professor Kim assigned.",
+      "options": [
+        "Professor Kim writes clearly.",
+        "The article was assigned last week.",
+        "Try searching the library database by title.",
+        "I found my assignment folder."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_812",
+      "prompt": "Is the campus shuttle running during the break?",
+      "options": [
+        "The break room is downstairs.",
+        "The shuttle is blue.",
+        "Campus is quiet during breaks.",
+        "Yes, but on a reduced schedule."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_813",
+      "prompt": "I think the printer charged me twice.",
+      "options": [
+        "You should report it to the print desk.",
+        "The printer is beside the window.",
+        "I printed two pages.",
+        "The charge was announced online."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_814",
+      "prompt": "Could you explain what the professor meant by peer review?",
+      "options": [
+        "The professor reviewed my grade.",
+        "It means classmates give feedback on each other’s work.",
+        "My peers are in the same class.",
+        "The review session is tomorrow."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_815",
+      "prompt": "Do we need tickets for the student concert?",
+      "options": [
+        "The concert starts at eight.",
+        "Student tickets are discounted.",
+        "No, admission is free.",
+        "I need to practice music."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_816",
+      "prompt": "I missed the deadline for choosing a lab partner.",
+      "options": [
+        "The lab partner was absent.",
+        "Deadlines are listed online.",
+        "I chose the biology lab.",
+        "Ask the instructor to assign you to a group."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_817",
+      "prompt": "The outdoor movie might be canceled if it rains.",
+      "options": [
+        "Then we should check the event page before going.",
+        "The movie was filmed outdoors.",
+        "Rain is common this season.",
+        "I canceled my subscription."
       ],
       "answer": 0
     }
@@ -6482,6 +6980,271 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "conv_801",
+      "title": "Finding a Practice Room",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I reserved a piano practice room, but the door code is not working."
+        ],
+        [
+          "Staff Member",
+          "Did you use the code from today’s confirmation email?"
+        ],
+        [
+          "Student",
+          "I used the one from last week. I did not realize it changed."
+        ],
+        [
+          "Staff Member",
+          "The codes reset every Monday. I can print the current one for you."
+        ],
+        [
+          "Student",
+          "Great. Will I lose part of my reserved time?"
+        ],
+        [
+          "Staff Member",
+          "No, I will extend your reservation by fifteen minutes."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have?",
+          "options": [
+            "A room code does not work",
+            "A piano is out of tune",
+            "A confirmation email was deleted",
+            "A reservation was canceled"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will the staff member do?",
+          "options": [
+            "Change all Monday reservations",
+            "Print the current code and extend the time",
+            "Move the piano to another room",
+            "Send a new email next week"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_802",
+      "title": "Changing a Research Topic",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Professor, I started my paper on urban gardens, but I found more sources about rooftop farms."
+        ],
+        [
+          "Professor",
+          "Those topics are related. Are you thinking of narrowing your focus?"
+        ],
+        [
+          "Student",
+          "Yes. Rooftop farms seem more specific, and I already have three good articles."
+        ],
+        [
+          "Professor",
+          "That sounds reasonable. Send me a revised thesis by Friday."
+        ],
+        [
+          "Student",
+          "Do I need to redo the annotated bibliography?"
+        ],
+        [
+          "Professor",
+          "Only replace the sources that no longer fit."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What does the student want to do?",
+          "options": [
+            "Change the focus of a paper",
+            "Drop a course",
+            "Interview rooftop farmers",
+            "Miss a Friday deadline"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the professor ask the student to send?",
+          "options": [
+            "A complete final paper",
+            "A revised thesis",
+            "A garden design",
+            "A list of classmates"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_803",
+      "title": "Borrowing a Projector",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "Hi, I need a projector for our club meeting tonight."
+        ],
+        [
+          "Staff Member",
+          "Portable projectors must be reserved twenty-four hours in advance."
+        ],
+        [
+          "Student",
+          "Oh, I did not know that. Is there any option for today?"
+        ],
+        [
+          "Staff Member",
+          "The large meeting room has a built-in projector and is free after six."
+        ],
+        [
+          "Student",
+          "Could I reserve that room instead?"
+        ],
+        [
+          "Staff Member",
+          "Yes, but you will need your club advisor’s approval."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why can’t the student borrow a portable projector immediately?",
+          "options": [
+            "The projectors are broken",
+            "They require advance reservation",
+            "The club advisor has one",
+            "The meeting room is locked"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What alternative does the staff member suggest?",
+          "options": [
+            "Using a room with a built-in projector",
+            "Canceling the club meeting",
+            "Buying a new projector",
+            "Moving the meeting to tomorrow morning"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "conv_804",
+      "title": "Cafeteria Account",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "My cafeteria account shows a negative balance, but I added money yesterday."
+        ],
+        [
+          "Staff Member",
+          "Sometimes online payments take a day to appear. Do you have the receipt?"
+        ],
+        [
+          "Student",
+          "Yes, it is on my phone."
+        ],
+        [
+          "Staff Member",
+          "Good. I can give you a temporary meal pass for today while the payment is processed."
+        ],
+        [
+          "Student",
+          "Will I need to come back tomorrow?"
+        ],
+        [
+          "Staff Member",
+          "Only if the balance has not updated by noon."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What is the student’s problem?",
+          "options": [
+            "A payment has not appeared in his account",
+            "He lost a cafeteria receipt",
+            "He cannot find the dining hall",
+            "His meal pass expired last week"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the staff member offer?",
+          "options": [
+            "A refund for yesterday’s payment",
+            "A temporary meal pass",
+            "A new phone receipt",
+            "A different online account"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "conv_805",
+      "title": "Poster Session Setup",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I am presenting at tomorrow’s poster session. Do presenters set up before lunch?"
+        ],
+        [
+          "Coordinator",
+          "Actually, setup begins at two, right after the morning workshops end."
+        ],
+        [
+          "Student",
+          "I thought the session opened at two."
+        ],
+        [
+          "Coordinator",
+          "Visitors arrive at three. The first hour is only for presenters to arrange their posters."
+        ],
+        [
+          "Student",
+          "Should I bring tape?"
+        ],
+        [
+          "Coordinator",
+          "No, we provide clips for the display boards."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What does the student misunderstand?",
+          "options": [
+            "When presenters can set up",
+            "Where the workshops are held",
+            "Who may visit the session",
+            "How large posters should be"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What will be provided for presenters?",
+          "options": [
+            "Lunch after the workshops",
+            "Clips for display boards",
+            "Extra printed posters",
+            "Tape for the walls"
+          ],
+          "answer": 1
+        }
+      ]
     }
   ],
   "announcements": [
@@ -7276,6 +8039,107 @@
             "To change the workshop time"
           ],
           "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_801",
+      "title": "Library Quiet Floor",
+      "text": "Attention students. Starting Monday, the third floor of the library will be reserved as a quiet study floor during final exam week. Group discussion rooms on that floor will be closed, but rooms on the first floor may still be reserved online. Library staff ask students to silence phones and take conversations to the lobby. The quiet floor policy will end after Friday evening.",
+      "questions": [
+        {
+          "q": "What is the announcement mainly about?",
+          "options": [
+            "A temporary quiet study policy",
+            "A permanent library closure",
+            "A new phone checkout service",
+            "A change to online room reservations"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where can students reserve group discussion rooms?",
+          "options": [
+            "On the first floor",
+            "On the third floor",
+            "In the lobby",
+            "At the exam office"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "When will the policy end?",
+          "options": [
+            "After Monday morning",
+            "After Friday evening",
+            "At the beginning of exam week",
+            "When all rooms are reserved"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_802",
+      "title": "Student Theater Auditions",
+      "text": "The student theater group will hold auditions for its spring play this Thursday and Friday from six to eight p.m. in the black-box theater. Students do not need previous acting experience, but they should prepare a one-minute reading from any play or story. Crew positions in lighting, costumes, and stage management are also available. Sign-up sheets are posted outside the theater office.",
+      "questions": [
+        {
+          "q": "What is being announced?",
+          "options": [
+            "Auditions for a student play",
+            "A required theater history class",
+            "The closing of the theater office",
+            "A change in spring course registration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students prepare?",
+          "options": [
+            "A one-minute reading",
+            "A costume design",
+            "A lighting schedule",
+            "A registration payment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can be inferred about students who do not want to act?",
+          "options": [
+            "They may help with crew positions",
+            "They cannot participate in the play",
+            "They must audition on Friday",
+            "They need previous experience"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "ann_803",
+      "title": "Bike Path Repair",
+      "text": "Please be aware that the bike path behind the science building will be closed tomorrow while crews repair cracked pavement. Cyclists should use the marked detour along College Avenue. Pedestrians may still use the sidewalk beside the building, but they should watch for equipment near the north entrance. Repairs are expected to finish by late afternoon.",
+      "questions": [
+        {
+          "q": "Why will the bike path be closed?",
+          "options": [
+            "Crews will repair cracked pavement",
+            "A bicycle race will take place",
+            "The science building will be locked",
+            "College Avenue is being widened"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should cyclists use instead?",
+          "options": [
+            "The sidewalk beside the science building",
+            "The detour along College Avenue",
+            "The north entrance hallway",
+            "The parking area behind the library"
+          ],
+          "answer": 1
         }
       ]
     }
@@ -8186,6 +9050,147 @@
           "answer": 2
         }
       ]
+    },
+    {
+      "id": "talk_801",
+      "title": "Kin Selection",
+      "text": "Today we will discuss kin selection, a concept in evolutionary biology. It helps explain why an animal might behave in a way that seems costly to itself but beneficial to relatives. For example, a ground squirrel may give an alarm call when it sees a predator. The call can attract attention to the caller, which is risky. However, if nearby relatives escape because of the warning, genes shared among family members may still be more likely to survive. This does not mean animals consciously calculate genetic relationships. Rather, natural selection can favor behaviors that, over many generations, increase the survival of shared genes. Kin selection is especially useful for studying social insects, cooperative breeding birds, and alarm-calling mammals. Next, we will compare kin selection with reciprocal altruism, where help is exchanged between nonrelatives.",
+      "questions": [
+        {
+          "q": "What is the main topic of the talk?",
+          "options": [
+            "A concept explaining helpful behavior toward relatives",
+            "A method animals use to avoid all predators",
+            "A theory about conscious decision making in animals",
+            "A way insects communicate with plants"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does the speaker mention a ground squirrel?",
+          "options": [
+            "To give an example of risky behavior that may help relatives",
+            "To show that squirrels cannot recognize predators",
+            "To argue that alarm calls are always selfish",
+            "To compare mammals with social insects"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the speaker say about animal awareness?",
+          "options": [
+            "Animals consciously calculate genetic relationships",
+            "Kin selection requires language",
+            "The behavior does not require conscious calculation",
+            "Only insects show kin-selected behavior"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What will the speaker probably discuss next?",
+          "options": [
+            "A different explanation for helpful behavior between nonrelatives",
+            "The anatomy of ground squirrels",
+            "Methods for planting cooperative bird habitats",
+            "The history of insect classification"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "talk_802",
+      "title": "Ceramic Analysis",
+      "text": "In archaeology, ceramic analysis is the study of pottery fragments to understand past societies. Pottery is useful because it is durable and often survives long after wood, cloth, or food remains have disappeared. Researchers examine the shape, decoration, and clay composition of fragments. Shape can suggest how a vessel was used, such as for cooking, storage, or serving food. Decoration may reveal cultural preferences or contacts with other groups. Clay composition can sometimes identify where a pot was made, especially if local clay sources differ chemically. Ceramic evidence must be interpreted carefully, though. A pot found at a site may have been traded, reused, or repaired. Still, when combined with other evidence, ceramics can help reconstruct daily life, exchange networks, and technological skills.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "How pottery fragments help archaeologists study past societies",
+            "Why pottery is less durable than cloth and wood",
+            "How archaeologists repair broken pottery for museums",
+            "Why all ancient pots were used for cooking"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What can vessel shape suggest?",
+          "options": [
+            "How the vessel may have been used",
+            "The exact age of the clay source",
+            "The language spoken by its maker",
+            "The number of people at a site"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why is clay composition useful?",
+          "options": [
+            "It always proves a pot was repaired",
+            "It can sometimes show where a pot was made",
+            "It prevents pottery from breaking",
+            "It reveals what food was stored inside"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What caution does the speaker mention?",
+          "options": [
+            "Pottery is never found at archaeological sites",
+            "A pot may have been traded or reused",
+            "Decoration cannot provide any information",
+            "Clay sources are chemically identical everywhere"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "talk_803",
+      "title": "Urban Tree Inventories",
+      "text": "Urban tree inventories are organized records of trees in a city. A basic inventory may include each tree’s species, location, size, and health condition. City planners use this information to decide where pruning is needed, which trees may be dangerous, and which neighborhoods lack shade. Inventories also help estimate environmental benefits, such as cooling, storm-water absorption, and carbon storage. Collecting the data can be challenging because trees grow, die, and are damaged by storms or construction. As a result, inventories must be updated regularly. Some cities now combine field inspections with satellite images and public reporting apps. These tools do not replace trained arborists, but they can make it easier to notice problems quickly and plan maintenance more efficiently.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "How cities record and use information about trees",
+            "Why cities remove most trees from streets",
+            "How satellite images replace all field workers",
+            "Why tree species cannot be identified in cities"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which information might be included in a tree inventory?",
+          "options": [
+            "A tree’s species and health condition",
+            "A list of all city residents",
+            "The history of every storm",
+            "The cost of private gardens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why must inventories be updated regularly?",
+          "options": [
+            "Trees change or may be damaged over time",
+            "Arborists avoid using technology",
+            "Storm-water absorption never changes",
+            "Neighborhood shade is illegal to measure"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the speaker imply about apps and satellite images?",
+          "options": [
+            "They can support but not fully replace expert inspection",
+            "They make tree maintenance unnecessary",
+            "They are useful only in forests",
+            "They prevent residents from reporting problems"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "build_sentence": [
@@ -8701,6 +9706,96 @@
         "leave",
         "after the concert?"
       ]
+    },
+    {
+      "id": "bs_801",
+      "parts": [
+        "do you know",
+        "whether the campus bookstore",
+        "will be open",
+        "during orientation week?"
+      ]
+    },
+    {
+      "id": "bs_802",
+      "parts": [
+        "can you tell me",
+        "if the chemistry review session",
+        "starts",
+        "after lunch?"
+      ]
+    },
+    {
+      "id": "bs_803",
+      "parts": [
+        "where should we",
+        "submit",
+        "the final version",
+        "of the poster?"
+      ]
+    },
+    {
+      "id": "bs_804",
+      "parts": [
+        "do you know",
+        "who approved",
+        "the new schedule",
+        "for lab assistants?"
+      ]
+    },
+    {
+      "id": "bs_805",
+      "parts": [
+        "can you tell me",
+        "whether the shuttle",
+        "stops near",
+        "the museum entrance?"
+      ]
+    },
+    {
+      "id": "bs_806",
+      "parts": [
+        "what time",
+        "does the advising office",
+        "close",
+        "on Fridays?"
+      ]
+    },
+    {
+      "id": "bs_807",
+      "parts": [
+        "do you know if",
+        "the workshop materials",
+        "are available",
+        "online?"
+      ]
+    },
+    {
+      "id": "bs_808",
+      "parts": [
+        "which room",
+        "has been reserved",
+        "for tomorrow’s",
+        "group meeting?"
+      ]
+    },
+    {
+      "id": "bs_809",
+      "parts": [
+        "can you tell me",
+        "why the lecture",
+        "was moved",
+        "to a larger hall?"
+      ]
+    },
+    {
+      "id": "bs_810",
+      "parts": [
+        "where can students",
+        "pick up",
+        "their replacement ID cards",
+        "this afternoon?"
+      ]
     }
   ],
   "email": [
@@ -8747,6 +9842,10 @@
     {
       "id": "we_701",
       "prompt": "You are helping organize a one-day volunteer event at a local animal shelter next month. You need to choose a date, explain what volunteers will do, and arrange transportation from campus. You want to ask your classmate Morgan for help.\n\nWrite an email to Morgan. In your email, do the following.\nSuggest a date for the volunteer event and explain why it is a good choice.\nDescribe the tasks that volunteers will do at the shelter.\nAsk for help arranging transportation from campus.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Morgan\nSubject: Help organizing the shelter volunteer event"
+    },
+    {
+      "id": "we_801",
+      "prompt": "You are planning a weekend photography trip with several classmates. You need to choose a location, decide what equipment people should bring, and arrange a meeting place before departure. You want to ask your friend Taylor for help organizing the trip.\n\nWrite an email to Taylor. In your email, do the following.\nSuggest a location for the photography trip and explain why it is a good choice.\nDescribe what equipment everyone should bring.\nAsk for help choosing a meeting place before departure.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Taylor\nSubject: Photography trip planning"
     }
   ],
   "discussion": [
@@ -8793,6 +9892,10 @@
     {
       "id": "ad_701",
       "prompt": "Your professor is teaching a class on education and technology. Write a post responding to the professor's question.\n\nIn your response, you should do the following.\nExpress and support your opinion.\nMake a contribution to the discussion in your own words.\nAn effective response will contain at least 100 words.\n\nDr. Patel\n\nThis week we are discussing how students should use artificial intelligence tools while learning. Some instructors believe students should be allowed to use AI tools for brainstorming and editing as long as they write the final work themselves. Others worry that these tools can prevent students from developing their own thinking. In your opinion, should universities allow limited use of AI tools in coursework? Why or why not?\n\nLena\tI think limited use should be allowed. Students already use dictionaries, grammar checkers, and online databases, so AI can be another support tool. If teachers set clear rules, students can use it to organize ideas without letting it replace their own work.\n\nOmar\tI am cautious about allowing it. Even when students say they are only brainstorming, they may start depending on suggestions from the tool. If that happens too often, they might become less confident in developing original arguments on their own."
+    },
+    {
+      "id": "ad_801",
+      "prompt": "Your professor is teaching a class on environmental studies. Write a post responding to the professor's question.\n\nIn your response, you should do the following.\nExpress and support your opinion.\nMake a contribution to the discussion in your own words.\nAn effective response will contain at least 100 words.\n\nDr. Morales\n\nThis week we are discussing transportation choices on university campuses. Some people think universities should invest more money in bicycle paths and pedestrian areas, while others think improving shuttle buses should be the priority. Which approach do you think would benefit students more, and why?\n\nAisha\tI think campuses should focus on bicycle paths and walking areas. These changes encourage students to be active and reduce traffic near classroom buildings. They can also make the campus feel safer and more pleasant.\n\nBen\tI would prioritize shuttle buses. Not all students live close enough to bike or walk, and some students have mobility limitations. Reliable buses help more people get to class on time, especially during bad weather."
     }
   ],
   "repeat": [
@@ -9299,6 +10402,62 @@
       "scenario_intro": "You are working at a university information desk. A supervisor is training you to help visitors use the campus check-in kiosk. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
       "sequence": 7,
       "level": "Hard"
+    },
+    {
+      "id": "rep_801",
+      "text": "Greet each visitor at the table.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
+    },
+    {
+      "id": "rep_802",
+      "text": "Check the name badge before giving directions.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
+    },
+    {
+      "id": "rep_803",
+      "text": "Point guests toward the auditorium after they sign in.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
+    },
+    {
+      "id": "rep_804",
+      "text": "Use the printed map to explain where each activity is located.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
+    },
+    {
+      "id": "rep_805",
+      "text": "Remind families that the afternoon workshops require separate tickets.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
+    },
+    {
+      "id": "rep_806",
+      "text": "If a session is full, help visitors choose another activity on the same floor.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
+    },
+    {
+      "id": "rep_807",
+      "text": "When the final tour begins, ask late arrivals to wait near the information table.",
+      "scenario_id": "repeat_event_information_table",
+      "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     }
   ],
   "interview": [
@@ -9397,6 +10556,22 @@
     {
       "id": "int_704",
       "prompt": "Do you agree or disagree that students should participate in campus clubs or organizations? Give reasons and examples."
+    },
+    {
+      "id": "int_801",
+      "prompt": "Describe a time when you had to manage several responsibilities at once. What did you do to stay organized?"
+    },
+    {
+      "id": "int_802",
+      "prompt": "Some students prefer learning from videos, while others prefer reading articles or books. Which do you prefer, and why?"
+    },
+    {
+      "id": "int_803",
+      "prompt": "Talk about a campus service or community service that you think is useful. Why is it important?"
+    },
+    {
+      "id": "int_804",
+      "prompt": "Do you agree or disagree that students should work part time while studying? Give reasons and examples."
     }
   ]
 }
