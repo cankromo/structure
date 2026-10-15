@@ -1106,6 +1106,44 @@
         "ument",
         "veys"
       ]
+    },
+    {
+      "id": "cw_901",
+      "title": "Restoring Urban Streams",
+      "topic": "ecology",
+      "difficulty": "B2-C1",
+      "text": "Urban streams are often hidden beneath roads and buildings, yet they can still shape local ecosystems. When a city uncovers a stream, engineers first exa____ the water flow and iden____ sources of pollution. They may rem___ concrete channels and repl___ them with stones, plants, and gently curving banks. These changes slow the water, redu__ the risk of flooding, and cre___ small habitats for insects and birds. Restoration can also conn___ neighborhoods to green space. However, projects require long-term moni______, since heavy rain or nearby construction may alte_ the channel. Residents are often inv_____ in observing wildlife and reporting problems. A successful project therefore combines careful design with continued community attention.",
+      "answers": [
+        "mine",
+        "tify",
+        "ove",
+        "ace",
+        "ce",
+        "ate",
+        "ect",
+        "toring",
+        "r",
+        "olved"
+      ]
+    },
+    {
+      "id": "cw_902",
+      "title": "How Maps Preserve Memory",
+      "topic": "history",
+      "difficulty": "B2-C1",
+      "text": "Maps do more than show where places are; they also record what people considered important. A map made for travelers may high_____ roads and bridges, while one prepared for farmers may emph_____ soil and water sources. Historians comp___ maps from different periods to trace how towns exp_____ or how borders shifted. Yet a map is never a complete picture of reality. Its maker must sel___ which details to include and how to lab__ them. Even the choice of scale can aff___ what a reader notices. For this reason, researchers exa____ maps alongside letters, photographs, and official records. These sources can reve__ whose perspective a map represents and which areas were left out. Reading maps critically helps scholars under_____ both physical change and social priorities.",
+      "answers": [
+        "light",
+        "asize",
+        "are",
+        "anded",
+        "ect",
+        "el",
+        "ect",
+        "mine",
+        "al",
+        "stand"
+      ]
     }
   ],
   "daily_life": [
@@ -2129,6 +2167,191 @@
             "Employees using the cafeteria"
           ],
           "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "rdl_901",
+      "title": "Studio Access Update",
+      "topic": "everyday communication",
+      "difficulty": "B2-C1",
+      "text": "Message from Campus Arts\n\nThe ceramics studio will open at 10 a.m. this Saturday because staff are inspecting the ventilation system in the morning. Students with booked sessions may use the printmaking room until the studio opens. Please collect a temporary access card from the arts office by Friday at 4 p.m. Your regular card will work again once the inspection is complete.",
+      "questions": [
+        {
+          "q": "Why will the ceramics studio open late?",
+          "options": [
+            "Staff are inspecting its ventilation system",
+            "A class has reserved it all day",
+            "The arts office is moving",
+            "Students requested a schedule change"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should students with Saturday bookings do before Friday afternoon?",
+          "options": [
+            "Cancel their sessions",
+            "Collect a temporary access card",
+            "Move their work to the library",
+            "Contact the printmaking instructor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What can be inferred about the regular access card?",
+          "options": [
+            "It will be unusable during the inspection",
+            "It has expired permanently",
+            "It opens the printmaking room only",
+            "It must be returned on Saturday"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_902",
+      "title": "Neighborhood Garden Notice",
+      "topic": "everyday communication",
+      "difficulty": "B2-C1",
+      "text": "Community Garden Board\n\nWatering hours are changing next week. Gardeners may use the shared hose before 9 a.m. or after 6 p.m. to reduce evaporation during the warmest part of the day. The east gate will remain locked while its latch is repaired; please enter through the gate beside the tool shed. A volunteer work session is still scheduled for Sunday morning.",
+      "questions": [
+        {
+          "q": "What is the main purpose of the notice?",
+          "options": [
+            "To announce new watering hours and an entrance change",
+            "To recruit gardeners for a new plot",
+            "To cancel the Sunday work session",
+            "To explain how to repair a hose"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why are watering hours limited?",
+          "options": [
+            "To avoid using water during the hottest hours",
+            "Because the hose is being replaced",
+            "To keep the tool shed unlocked",
+            "Because volunteers meet in the morning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where should gardeners enter?",
+          "options": [
+            "Through the east gate",
+            "Beside the tool shed",
+            "Through the community center",
+            "By the parking lot"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_903",
+      "title": "Museum Workshop Email",
+      "topic": "everyday communication",
+      "difficulty": "B2-C1",
+      "text": "From: Programs Team\n\nThank you for registering for Saturday’s printmaking workshop. Please arrive fifteen minutes early so we can distribute materials and review safety instructions. The museum will provide paper and ink, but participants should bring an apron or wear clothes that can get stained. If you can no longer attend, reply to this message by Thursday so we can offer your place to someone on the waiting list.",
+      "questions": [
+        {
+          "q": "What is the email mainly doing?",
+          "options": [
+            "Confirming workshop arrangements and giving participants instructions",
+            "Offering a permanent museum position",
+            "Announcing a change in the museum’s opening hours",
+            "Requesting donations of art supplies"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should a participant bring?",
+          "options": [
+            "Paper",
+            "Ink",
+            "An apron or suitable clothing",
+            "A safety manual"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why should someone who cannot attend reply by Thursday?",
+          "options": [
+            "To receive a refund for materials",
+            "So another person can take the place",
+            "To reschedule the workshop",
+            "So the museum can cancel the event"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "rdl_904",
+      "title": "Library Study Room Reminder",
+      "topic": "everyday communication",
+      "difficulty": "B2-C1",
+      "text": "Library Services\n\nYour group has reserved Study Room 4 from 2:00 to 4:00 p.m. on Wednesday. The room is on the second floor, near the language collection. Please check in at the service desk within ten minutes of your reservation start time; otherwise, the room may be released to other students. Whiteboards are available, but markers must be borrowed from the desk.",
+      "questions": [
+        {
+          "q": "What must the group do to keep its reservation?",
+          "options": [
+            "Check in within ten minutes",
+            "Bring its own whiteboard",
+            "Arrive before 1:30",
+            "Borrow books from the language collection"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where can the group get markers?",
+          "options": [
+            "At the service desk",
+            "In Study Room 4",
+            "Near the main entrance",
+            "From the language collection"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What may happen if the group is late to check in?",
+          "options": [
+            "Its room may be given to someone else",
+            "Its reservation will be extended",
+            "The service desk will close",
+            "The whiteboard will be removed"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rdl_905",
+      "title": "Apartment Maintenance Message",
+      "topic": "everyday communication",
+      "difficulty": "B2-C1",
+      "text": "Building Manager\n\nA contractor will test the fire alarms in Building C on Tuesday between 11 a.m. and 1 p.m. The alarms may sound briefly during this period, but no evacuation is required unless a staff member gives further instructions. Please keep the hallway outside your apartment clear so technicians can reach each unit. Residents who need an alternative testing time should contact the office by Monday noon.",
+      "questions": [
+        {
+          "q": "What does the message tell residents about Tuesday?",
+          "options": [
+            "Fire alarms will be tested during a two-hour period",
+            "The building will be closed all day",
+            "Residents must leave the building at 11",
+            "A contractor will repair apartment doors"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should residents do if they need a different testing time?",
+          "options": [
+            "Contact the office by Monday noon",
+            "Wait in the hallway on Tuesday",
+            "Speak directly to a technician after 1 p.m.",
+            "Silence the alarm themselves"
+          ],
+          "answer": 0
         }
       ]
     }
@@ -3861,6 +4084,202 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "rap_901",
+      "title": "The Value of Seed Banks",
+      "topic": "botany",
+      "difficulty": "B2-C1",
+      "text": "Seed banks preserve seeds under controlled conditions so that plant diversity remains available for research and future restoration. Seeds are dried and stored at low temperatures, which slows the processes that cause them to lose the ability to grow. Not every species can be stored this way, however. Some tropical plants produce seeds that are damaged by drying, so researchers must maintain living collections or use other preservation methods.\n\nA seed bank is not simply a warehouse. Staff periodically test samples to see whether they still germinate. If germination rates fall, new seeds may need to be collected from wild populations. This work requires careful records about where each sample came from, because seeds from different regions may have traits suited to different conditions.\n\nSeed banks cannot protect plants from every threat, such as the loss of the habitats where they naturally grow. Still, they provide a reserve of genetic material that can support scientific study and, in some cases, the rebuilding of damaged populations.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "Why tropical plants grow faster in cold conditions",
+            "How farmers choose seeds for commercial crops",
+            "Why most wild habitats are no longer useful",
+            "How seed banks preserve plant material and what their limits are"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The word “germinate” is closest in meaning to",
+          "options": [
+            "become dry",
+            "spread widely",
+            "begin to grow",
+            "change color"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why do staff keep records of where seeds came from?",
+          "options": [
+            "Researchers must return every seed to its original field",
+            "Regional origin may relate to traits suited to particular conditions",
+            "The records determine how cold the storage room should be",
+            "Wild seeds cannot be tested without a location name"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What limitation of seed banks does the author mention?",
+          "options": [
+            "They cannot by themselves prevent natural habitats from being lost",
+            "They can preserve only seeds from tropical plants",
+            "They do not allow scientists to study plant genetics",
+            "They require seeds to be stored at warm temperatures"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_902",
+      "title": "Public Clocks and Shared Time",
+      "topic": "social history",
+      "difficulty": "B2-C1",
+      "text": "Before accurate personal watches became common, public clocks helped communities coordinate daily activity. A clock tower could signal when markets opened, when workers should begin a shift, or when a town meeting was due to start. The sound of a bell made the time available even to people who could not read a clock face.\n\nAs rail travel expanded, local time differences became a practical problem. A town might set its clock according to the sun, while a nearby city used a slightly different time. Train companies needed schedules that passengers and staff could interpret consistently, so standardized time systems gradually gained influence. Public clocks were adjusted to match these systems.\n\nToday, phones provide precise time to individuals, but public clocks still appear in stations and civic spaces. Their role is less essential for measurement and more connected to shared expectations: they offer a visible reference point in places where people meet and move together.",
+      "questions": [
+        {
+          "q": "What is the main idea of the passage?",
+          "options": [
+            "Personal watches were invented to replace railway schedules",
+            "Town meetings caused the creation of rail travel",
+            "Public clocks are more accurate than phones",
+            "Public clocks have served both practical coordination and shared social purposes"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Why did rail companies need standardized time?",
+          "options": [
+            "The sun was not visible near railway stations",
+            "Workers refused to use public clocks",
+            "Different local times made schedules difficult to interpret consistently",
+            "Passengers could not hear town bells"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the author mention bells?",
+          "options": [
+            "To suggest that bells measured time more accurately",
+            "To show how time signals could reach people who could not read a clock face",
+            "To explain why clocks were removed from town centers",
+            "To compare railway engines with market activity"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the author imply about public clocks today?",
+          "options": [
+            "They can still provide a common reference in shared spaces",
+            "They are necessary because phones cannot show time",
+            "They are used mainly to set local railway times",
+            "They have no purpose beyond decoration"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_903",
+      "title": "Learning Through Museum Labels",
+      "topic": "education",
+      "difficulty": "B2-C1",
+      "text": "Museum labels are often treated as miniature textbooks, but their purpose is more complicated. A label must give visitors enough information to understand an object while leaving room for direct observation. If it explains every detail, visitors may focus on reading instead of looking. If it says too little, the object can seem disconnected from its history.\n\nSome museums address this tension by asking questions rather than presenting only facts. A label might invite visitors to notice a repair, compare two materials, or consider why an object was made in a particular shape. This approach encourages active looking. It also recognizes that visitors bring different experiences and may notice different features.\n\nThe most useful labels therefore guide attention without dictating a single response. They combine clear context with prompts that help visitors make their own observations. Designers test labels with visitors and revise them when wording is confusing or when people overlook the feature the label was meant to highlight.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "Why museums should remove historical objects",
+            "How visitors can write textbook chapters",
+            "Why all museum labels should be longer",
+            "How museum labels can support visitors’ understanding and observation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What does “tension” refer to in paragraph 1?",
+          "options": [
+            "The difficulty of moving objects between galleries",
+            "The contrast between old and new museum buildings",
+            "The need to provide context while encouraging direct observation",
+            "A disagreement between museum visitors and staff"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why might a label ask visitors to notice a repair?",
+          "options": [
+            "To direct visitors away from the object’s materials",
+            "To encourage them to examine the object actively",
+            "To explain that the object is too damaged to display",
+            "To show that all repairs are historically unimportant"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What can be inferred about label designers?",
+          "options": [
+            "They may revise text after seeing how visitors respond",
+            "They avoid testing labels with museum visitors",
+            "They expect every visitor to interpret an object identically",
+            "They focus only on the amount of text on a wall"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "rap_904",
+      "title": "Cooling Roofs in Dense Cities",
+      "topic": "urban planning",
+      "difficulty": "B2-C1",
+      "text": "Roofs absorb sunlight during the day and release heat after sunset. In dense neighborhoods, where many buildings stand close together, this stored heat can make evenings warmer than nearby rural areas. One response is to use “cool roofs,” whose light-colored or reflective surfaces send more sunlight back into the atmosphere than conventional dark roofing.\n\nThe effect depends on local conditions. A roof that reflects sunlight can reduce the need for indoor cooling in a hot climate, but in a cold region it may also reduce useful warmth during winter. Roof design must therefore be considered alongside building insulation, seasonal weather, and the people who use the building.\n\nResearchers also distinguish between the temperature of a roof and the temperature experienced across a neighborhood. A single reflective roof may have little effect on surrounding streets, while many treated buildings can contribute to broader cooling. This is why city programs often combine roof changes with shade trees and other measures rather than treating one building as a complete solution.",
+      "questions": [
+        {
+          "q": "What is the passage mainly about?",
+          "options": [
+            "Why dark roofs are required in cold and hot climates",
+            "How rural neighborhoods store more heat than cities",
+            "Why insulation should be removed from city buildings",
+            "How reflective roofs can help manage urban heat and why context matters"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The word “conventional” is closest in meaning to",
+          "options": [
+            "expensive",
+            "unusual",
+            "usual",
+            "temporary"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the passage discuss cold regions?",
+          "options": [
+            "To show that dark roofs reflect more sunlight",
+            "To show that reflective roofs may have different effects across climates",
+            "To argue that cool roofs work only in winter",
+            "To explain why cities should avoid insulation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the author suggest about city cooling programs?",
+          "options": [
+            "They may combine roof changes with other measures",
+            "One reflective roof can cool an entire city",
+            "Trees prevent roofs from releasing heat",
+            "Only new buildings can benefit from cooling"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "choose_response": [
@@ -4721,6 +5140,138 @@
         "I canceled my subscription."
       ],
       "answer": 0
+    },
+    {
+      "id": "lcr_901",
+      "prompt": "The seminar room is locked, and the speaker arrives in ten minutes.",
+      "options": [
+        "I’ll call the building desk for access.",
+        "The seminar was about architecture.",
+        "Ten minutes is a long walk.",
+        "I locked my bicycle outside."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_902",
+      "prompt": "Do you know whether the history exhibit is still open?",
+      "options": [
+        "I studied history last term.",
+        "The exhibit has several photographs.",
+        "Open the window if it is warm.",
+        "It closes at six, so there is time to visit."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_903",
+      "prompt": "I’m not sure which bus goes to the sports center.",
+      "options": [
+        "The center has a swimming pool.",
+        "The bus driver is on vacation.",
+        "There’s a route map beside the stop.",
+        "I play sports every weekend."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_904",
+      "prompt": "Could you send me the notes from yesterday’s workshop?",
+      "options": [
+        "I wrote my name on the note.",
+        "Of course; I’ll email them this afternoon.",
+        "The workshop room was upstairs.",
+        "Yesterday was especially sunny."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_905",
+      "prompt": "The printer says my account has no remaining pages.",
+      "options": [
+        "You can add pages through the library portal.",
+        "The printer is near the window.",
+        "I printed a map last week.",
+        "Accounts are usually open on Fridays."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_906",
+      "prompt": "Would you rather meet before class or during lunch?",
+      "options": [
+        "The class has twenty students.",
+        "I prefer the blue notebook.",
+        "We met at the station yesterday.",
+        "Lunch would give us more time to talk."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_907",
+      "prompt": "I left my water bottle in the lecture hall.",
+      "options": [
+        "I bought a bottle yesterday.",
+        "The hall is being painted blue.",
+        "Let’s ask the staff at the lost-and-found desk.",
+        "The lecture was about water quality."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_908",
+      "prompt": "The weather forecast says the outdoor market may be windy.",
+      "options": [
+        "I forecasted the meeting time.",
+        "I’ll bring clips to keep the table signs in place.",
+        "The market sells fresh vegetables.",
+        "Wind turbines produce electricity."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "lcr_909",
+      "prompt": "I thought the application deadline was next Friday.",
+      "options": [
+        "It was moved up, so we should submit it by Wednesday.",
+        "Friday is my busiest day.",
+        "The application has several pages.",
+        "I thought the office was closed."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "lcr_910",
+      "prompt": "Can I borrow your charger until the study group ends?",
+      "options": [
+        "The group meets in the library.",
+        "I charged my phone last night.",
+        "Borrowing books is free.",
+        "Sure, just leave it in my mailbox afterward."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "lcr_911",
+      "prompt": "The cafeteria has run out of the soup special.",
+      "options": [
+        "The cafeteria is on the ground floor.",
+        "I ran around the track earlier.",
+        "I’ll choose the lentil salad instead.",
+        "Soup is usually served in bowls."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "lcr_912",
+      "prompt": "Do you happen to know where Maya put the sign-up sheet?",
+      "options": [
+        "Reception starts at nine.",
+        "She left it beside the reception computer.",
+        "Maya signed up for a language class.",
+        "The sheet music is in the cabinet."
+      ],
+      "answer": 1
     }
   ],
   "conversations": [
@@ -7245,6 +7796,324 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "id": "conv_901",
+      "title": "Field Trip Permission",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I submitted the form for the geology field trip, but the portal still says my place is unconfirmed."
+        ],
+        [
+          "Advisor",
+          "Did you also upload the emergency contact page? The form is only complete when both files are there."
+        ],
+        [
+          "Student",
+          "I missed that page. Can I bring a printed copy tomorrow?"
+        ],
+        [
+          "Advisor",
+          "Yes, give it to the trip coordinator before the bus leaves at eight."
+        ],
+        [
+          "Student",
+          "I’ll print it tonight and arrive early."
+        ],
+        [
+          "Advisor",
+          "Good. Then they can update your registration before departure."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why is the student’s place not confirmed?",
+          "options": [
+            "The student has not paid for the bus",
+            "The trip has been postponed",
+            "The portal is closed for maintenance",
+            "The emergency contact page is missing"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What will the student probably do next?",
+          "options": [
+            "Upload a photograph of the bus",
+            "Cancel the registration",
+            "Print the missing page and arrive early",
+            "Call the geology professor after the trip"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "conv_902",
+      "title": "Language Lab Reservation",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I booked a language lab booth for four, but my project partner says the recording software is unavailable there."
+        ],
+        [
+          "Staff Member",
+          "The software is installed only in booths one through six. Which booth did you reserve?"
+        ],
+        [
+          "Student",
+          "Number nine. I chose it because it was near the entrance."
+        ],
+        [
+          "Staff Member",
+          "I can move you to booth four at the same time. It is available for an hour."
+        ],
+        [
+          "Student",
+          "That works. We only need about forty minutes to record the dialogue."
+        ],
+        [
+          "Staff Member",
+          "I’ll update the reservation now."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What problem does the student have?",
+          "options": [
+            "The language lab is closed",
+            "The partner cannot attend",
+            "The recording is too long",
+            "The reserved booth lacks the needed software"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What does the staff member do?",
+          "options": [
+            "Installs new software in booth nine",
+            "Cancels the partner’s booking",
+            "Moves the reservation to another booth",
+            "Extends the recording deadline"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "conv_903",
+      "title": "Research Poster Printing",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I’m trying to print my research poster, but the preview cuts off the title at the edge."
+        ],
+        [
+          "Print Center Staff",
+          "It sounds like the file has a smaller page size than the poster paper. Did you export it using the large-format template?"
+        ],
+        [
+          "Student",
+          "No, I used the standard slide template. Is it too late to fix?"
+        ],
+        [
+          "Staff Member",
+          "Not at all. Copy your text and images into the poster template on our website, then upload it again."
+        ],
+        [
+          "Student",
+          "I’ll do that now. I need to pick it up before four."
+        ],
+        [
+          "Staff Member",
+          "If it arrives by two, we can have it ready."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why is the title being cut off?",
+          "options": [
+            "The printer has run out of ink",
+            "The title uses a font that is too small",
+            "The poster contains too many images",
+            "The file page size does not match the poster paper"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What should the student do?",
+          "options": [
+            "Wait until the next day to print",
+            "Bring standard paper from the library",
+            "Use the large-format template and upload the file again",
+            "Remove the title from the poster"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "conv_904",
+      "title": "Volunteer Shift Change",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I’m scheduled at the campus garden Saturday morning, but my lab section was moved to that time."
+        ],
+        [
+          "Coordinator",
+          "Could you switch with someone on the afternoon shift? We still need two volunteers then."
+        ],
+        [
+          "Student",
+          "I can stay after lunch, but I have to leave by four."
+        ],
+        [
+          "Coordinator",
+          "That’s fine. The afternoon shift ends at three-thirty. I’ll update the roster."
+        ],
+        [
+          "Student",
+          "Thanks. Should I tell the other volunteer?"
+        ],
+        [
+          "Coordinator",
+          "I’ll message the whole group so everyone sees the change."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why does the student need a different shift?",
+          "options": [
+            "The garden is closed in the morning",
+            "The student forgot to sign up",
+            "The coordinator changed the location",
+            "A lab section was rescheduled"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "When will the student work?",
+          "options": [
+            "After four in the evening",
+            "On Sunday afternoon",
+            "In the afternoon until three-thirty",
+            "Saturday morning before the lab"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "conv_905",
+      "title": "Borrowing a Recorder",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "I need to record an interview for my media class. Can I borrow one of the department recorders overnight?"
+        ],
+        [
+          "Office Assistant",
+          "Yes, but the checkout form must be signed by your instructor first."
+        ],
+        [
+          "Student",
+          "She is teaching until noon. Could I reserve one now and bring the form later?"
+        ],
+        [
+          "Office Assistant",
+          "I can hold recorder three for you until two, but it cannot leave the office before the form is approved."
+        ],
+        [
+          "Student",
+          "I’ll meet her after class and come back before two."
+        ],
+        [
+          "Office Assistant",
+          "Great. Please bring your student card too."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "What does the student want to do?",
+          "options": [
+            "Schedule a meeting with the assistant",
+            "Join a media department",
+            "Return an overdue camera",
+            "Borrow a recorder for a class interview"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What must happen before the recorder can leave the office?",
+          "options": [
+            "The assistant must call the class",
+            "The student must pay a deposit",
+            "The instructor must sign the checkout form",
+            "The student must record a sample"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "conv_906",
+      "title": "Campus Shuttle Stop",
+      "difficulty": "B2-C1",
+      "turns": [
+        [
+          "Student",
+          "The shuttle passed me without stopping at the science annex this morning."
+        ],
+        [
+          "Staff Member",
+          "That stop is temporarily moved across the courtyard because construction blocks the usual curb."
+        ],
+        [
+          "Student",
+          "I didn’t see a sign there. Is the change listed online?"
+        ],
+        [
+          "Staff Member",
+          "Yes, the transit page has a map, and we put a notice at the main library stop."
+        ],
+        [
+          "Student",
+          "I’ll check the map before my afternoon class."
+        ],
+        [
+          "Staff Member",
+          "The temporary stop is beside the blue information kiosk."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "Why did the shuttle not stop where the student expected?",
+          "options": [
+            "The shuttle does not serve the science annex",
+            "Construction canceled the route for the day",
+            "The student was at the wrong campus",
+            "The stop has been temporarily relocated"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Where is the temporary stop?",
+          "options": [
+            "Across from the sports center",
+            "Inside the science annex",
+            "Beside the blue information kiosk",
+            "At the main library entrance"
+          ],
+          "answer": 2
+        }
+      ]
     }
   ],
   "announcements": [
@@ -8138,6 +9007,191 @@
             "The detour along College Avenue",
             "The north entrance hallway",
             "The parking area behind the library"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_901",
+      "title": "Campus Book Fair",
+      "text": "The annual campus book fair will take place in the student center on Thursday and Friday. Local authors will speak in the small auditorium at noon each day. Visitors who want to sell used textbooks should register at the welcome table by Wednesday afternoon. Payment at the fair is accepted by card or campus account; cash cannot be accepted this year.",
+      "questions": [
+        {
+          "q": "Where will the fair take place?",
+          "options": [
+            "In the main library",
+            "At the arts building",
+            "In the outdoor market",
+            "In the student center"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What must used-book sellers do?",
+          "options": [
+            "Pay with a campus account",
+            "Bring books on Friday only",
+            "Register by Wednesday afternoon",
+            "Speak in the auditorium"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What can be inferred about payment?",
+          "options": [
+            "Authors must register to sell books",
+            "Cash will not be accepted",
+            "Only cash is accepted",
+            "Campus accounts cannot be used"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_902",
+      "title": "Swimming Pool Hours",
+      "text": "Due to a regional swim meet, the recreation center pool will close to general users at 3 p.m. this Saturday. The fitness rooms will remain open until their regular closing time. Lap swimming will resume Sunday morning, but family swim will begin one hour later than usual, at 11 a.m. Please check in at the front desk before entering the pool area.",
+      "questions": [
+        {
+          "q": "Why will the pool close early on Saturday?",
+          "options": [
+            "The pool is being repaired",
+            "The recreation center is closing permanently",
+            "A family event begins at three",
+            "A regional swim meet is taking place"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which facility will remain open on Saturday?",
+          "options": [
+            "The family changing area",
+            "The outdoor courts",
+            "The fitness rooms",
+            "The pool for general users"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "When will family swim begin Sunday?",
+          "options": [
+            "At 3 p.m.",
+            "At 11 a.m.",
+            "At 10 a.m.",
+            "At noon"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_903",
+      "title": "Art Building Elevator",
+      "text": "The elevator in the art building will be unavailable from Monday morning through Tuesday evening while technicians replace its control panel. Classes on the first and second floors will continue as scheduled. Anyone who needs step-free access to upper-floor studios should contact the department office today; staff can arrange an accessible room in the nearby design building. Please do not use the service stairs to move equipment.",
+      "questions": [
+        {
+          "q": "What is happening in the art building?",
+          "options": [
+            "The upper floors are closing for classes",
+            "The design building is moving",
+            "The service stairs are being repaired",
+            "The elevator control panel is being replaced"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Who should contact the department office?",
+          "options": [
+            "Technicians replacing the panel",
+            "Anyone carrying a small notebook",
+            "People needing step-free access to upper-floor studios",
+            "Students in first-floor classes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What should people avoid doing?",
+          "options": [
+            "Contacting the department today",
+            "Moving equipment on the service stairs",
+            "Attending classes on the second floor",
+            "Using an accessible room"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_904",
+      "title": "Community Film Night",
+      "text": "The community center’s film night has moved from the courtyard to Room 12 because rain is expected this evening. The screening will still start at 7:30. Seating is limited, so guests should reserve a place through the center’s website. The documentary is suitable for general audiences, and a short discussion with the filmmaker will follow. Refreshments will be available for purchase in the lobby.",
+      "questions": [
+        {
+          "q": "Why was the screening moved indoors?",
+          "options": [
+            "The filmmaker requested a smaller audience",
+            "The courtyard is being painted",
+            "The film is not suitable for general audiences",
+            "Rain is expected"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "How can guests reserve a place?",
+          "options": [
+            "At the lobby after the screening",
+            "At Room 12 on the previous day",
+            "Through the center’s website",
+            "By calling the filmmaker"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What will happen after the film?",
+          "options": [
+            "Free dinner in Room 12",
+            "A discussion with the filmmaker",
+            "A second screening outdoors",
+            "A workshop in the courtyard"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "ann_905",
+      "title": "Chemistry Stockroom",
+      "text": "Students collecting laboratory supplies should visit the chemistry stockroom between 9 a.m. and noon on Monday. Bring your course list and student identification. Items will be placed in labeled bins by class, but chemicals requiring special handling must be collected directly from the technician. The stockroom will not distribute supplies during afternoon lab sessions, so plan to arrive in the morning.",
+      "questions": [
+        {
+          "q": "When should students collect supplies?",
+          "options": [
+            "Monday afternoon",
+            "During their lab session",
+            "Any time on Tuesday",
+            "Monday morning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What should students bring?",
+          "options": [
+            "A note from the technician",
+            "Their laboratory equipment",
+            "A course list and student identification",
+            "A labeled bin and safety glasses only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which items must be collected directly from the technician?",
+          "options": [
+            "Student identification cards",
+            "Chemicals requiring special handling",
+            "All labeled bins",
+            "Course lists"
           ],
           "answer": 1
         }
@@ -9191,6 +10245,100 @@
           "answer": 0
         }
       ]
+    },
+    {
+      "id": "talk_901",
+      "title": "Why Some Materials Absorb Sound",
+      "text": "Sound absorption describes how a material reduces the energy of sound waves that reach it. Soft, porous materials such as felt often absorb sound because air can move into their tiny openings. As the air vibrates, some sound energy becomes a small amount of heat. A hard surface, by contrast, tends to reflect more sound back into a room.\n\nThis difference matters in spaces such as classrooms and recording studios. Adding panels to a wall can reduce echoes, making speech easier to understand. But covering every surface is not always desirable. Musicians, for example, may want some reflections because they help an instrument sound full. Designers therefore consider both the material and the purpose of the room.\n\nA simple test is to clap in an empty space and listen to how long the sound continues. That does not provide a precise measurement, but it can reveal whether a room has strong echoes. A more complete design uses measurements as well as careful listening.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "Why all rooms should be covered with soft panels",
+            "How musicians manufacture felt",
+            "Why echoes cannot be measured",
+            "How materials affect sound and how designers use that knowledge"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Why can porous materials absorb sound?",
+          "options": [
+            "Their hard surfaces reflect every wave",
+            "They remove air from the room",
+            "Vibrating air in their openings converts some energy to heat",
+            "They make sound waves travel faster"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the speaker mention musicians?",
+          "options": [
+            "To introduce a different kind of material",
+            "To show that some sound reflection can be useful",
+            "To explain why studios should be empty",
+            "To argue that instruments absorb all sound"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the speaker say about clapping in a room?",
+          "options": [
+            "It is a simple way to notice strong echoes",
+            "It gives a precise measurement of heat",
+            "It should replace all professional design work",
+            "It shows whether walls are porous"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "talk_902",
+      "title": "The Spread of the Printing Press",
+      "text": "When movable-type printing spread through Europe, it changed how written material could be produced. Instead of copying an entire book by hand, a printer arranged reusable letters into lines, applied ink, and pressed the page onto paper. Once the type was set, many copies could be made with less repeated labor.\n\nThe new process did not make books immediately cheap or widely available. Paper, skilled workers, and equipment still cost money, and readers needed to be able to read the language in which a book was printed. However, printers could serve a larger audience than a single scribe could. They also produced pamphlets and practical manuals, not just lengthy religious or scholarly books.\n\nPrinting encouraged texts to circulate among more people and made it easier for readers in different places to encounter similar versions of a work. At the same time, printers chose which texts to publish, so the technology expanded access while still reflecting commercial and cultural priorities.",
+      "questions": [
+        {
+          "q": "What is the talk mainly about?",
+          "options": [
+            "Why handwritten books were always cheaper",
+            "How paper was invented in Europe",
+            "Why printers refused to publish manuals",
+            "How movable-type printing changed the production and circulation of texts"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What advantage did movable type provide?",
+          "options": [
+            "Readers no longer needed to learn to read",
+            "Printers did not need skilled workers",
+            "Many copies could be made after the type was arranged",
+            "Each book could be copied without paper"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why does the speaker mention pamphlets and manuals?",
+          "options": [
+            "To argue that religious texts were never printed",
+            "To illustrate that printers made practical texts as well as books",
+            "To show that long books disappeared entirely",
+            "To explain how type was designed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What limitation does the speaker identify?",
+          "options": [
+            "Publishing choices still reflected costs and cultural priorities",
+            "Printed texts could not reach other towns",
+            "Only handwritten works could be read",
+            "The process required no special equipment"
+          ],
+          "answer": 0
+        }
+      ]
     }
   ],
   "build_sentence": [
@@ -9796,6 +10944,93 @@
         "their replacement ID cards",
         "this afternoon?"
       ]
+    },
+    {
+      "id": "bs_901",
+      "parts": [
+        "could you tell me",
+        "whether the campus café",
+        "serves breakfast",
+        "on Saturdays?"
+      ]
+    },
+    {
+      "id": "bs_902",
+      "parts": [
+        "do you know",
+        "where the photography club",
+        "will meet",
+        "before the trip?"
+      ]
+    },
+    {
+      "id": "bs_903",
+      "parts": [
+        "can you explain",
+        "why the evening lecture",
+        "was moved",
+        "to another room?"
+      ]
+    },
+    {
+      "id": "bs_904",
+      "parts": [
+        "do you remember",
+        "which form students",
+        "need to submit",
+        "for the grant?"
+      ]
+    },
+    {
+      "id": "bs_905",
+      "parts": [
+        "could you tell me",
+        "when the art supply shop",
+        "closes",
+        "during the holiday?"
+      ]
+    },
+    {
+      "id": "bs_906",
+      "parts": [
+        "do you know",
+        "if the library workshop",
+        "requires advance registration?"
+      ]
+    },
+    {
+      "id": "bs_907",
+      "parts": [
+        "can you tell me",
+        "how long the shuttle",
+        "usually takes",
+        "to reach the airport?"
+      ]
+    },
+    {
+      "id": "bs_908",
+      "parts": [
+        "do you know",
+        "who is responsible for",
+        "updating the volunteer schedule?"
+      ]
+    },
+    {
+      "id": "bs_909",
+      "parts": [
+        "could you explain",
+        "whether guests",
+        "may attend",
+        "the department reception?"
+      ]
+    },
+    {
+      "id": "bs_910",
+      "parts": [
+        "do you remember",
+        "where we should return",
+        "the borrowed recording equipment?"
+      ]
     }
   ],
   "email": [
@@ -9846,6 +11081,10 @@
     {
       "id": "we_801",
       "prompt": "You are planning a weekend photography trip with several classmates. You need to choose a location, decide what equipment people should bring, and arrange a meeting place before departure. You want to ask your friend Taylor for help organizing the trip.\n\nWrite an email to Taylor. In your email, do the following.\nSuggest a location for the photography trip and explain why it is a good choice.\nDescribe what equipment everyone should bring.\nAsk for help choosing a meeting place before departure.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Taylor\nSubject: Photography trip planning"
+    },
+    {
+      "id": "we_901",
+      "prompt": "You are helping organize a small welcome event for new students in your department. You would like your classmate Jordan to help you prepare.\n\nWrite an email to Jordan. In your email, do the following.\nSuggest an activity that would help new students meet one another and explain why it would work well.\nDescribe two things the organizers should prepare before the event.\nAsk Jordan to take responsibility for one specific task.\nWrite as much as you can and in complete sentences.\n\nYour Response:\n\nTo: Jordan\nSubject: Welcome event planning"
     }
   ],
   "discussion": [
@@ -9896,6 +11135,10 @@
     {
       "id": "ad_801",
       "prompt": "Your professor is teaching a class on environmental studies. Write a post responding to the professor's question.\n\nIn your response, you should do the following.\nExpress and support your opinion.\nMake a contribution to the discussion in your own words.\nAn effective response will contain at least 100 words.\n\nDr. Morales\n\nThis week we are discussing transportation choices on university campuses. Some people think universities should invest more money in bicycle paths and pedestrian areas, while others think improving shuttle buses should be the priority. Which approach do you think would benefit students more, and why?\n\nAisha\tI think campuses should focus on bicycle paths and walking areas. These changes encourage students to be active and reduce traffic near classroom buildings. They can also make the campus feel safer and more pleasant.\n\nBen\tI would prioritize shuttle buses. Not all students live close enough to bike or walk, and some students have mobility limitations. Reliable buses help more people get to class on time, especially during bad weather."
+    },
+    {
+      "id": "ad_901",
+      "prompt": "Your professor is teaching a class on education and technology. Write a post responding to the professor’s question.\n\nIn your response, you should do the following.\nExpress and support your opinion.\nMake a contribution to the discussion in your own words.\nAn effective response will contain at least 100 words.\n\nProfessor Lee\n\nSome universities are considering recording more lectures so students can review them later. Do you think recorded lectures should be available in every course, or should instructors decide individually? Explain your reasoning.\n\nNora\tI support making recordings available in every course. Students sometimes need to review a difficult explanation, and recordings can help people who miss class for a valid reason. They should still attend when possible, but having access makes learning more flexible.\n\nEthan\tI think instructors should decide. In some classes, discussion and group activities are central, and a recording may not capture what students learn from participating. Instructors also need time and equipment to create useful recordings, so a single rule may not fit every course."
     }
   ],
   "repeat": [
@@ -10458,6 +11701,62 @@
       "scenario_intro": "You are working at a campus event information table. A coordinator is teaching you how to help visitors check in and find activities. Listen to the coordinator and repeat what the coordinator says. Repeat only once.",
       "sequence": 7,
       "level": "Hard"
+    },
+    {
+      "id": "rep_901",
+      "text": "Please keep the equipment cards beside the sign-in sheet.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 1,
+      "level": "Easy"
+    },
+    {
+      "id": "rep_902",
+      "text": "Ask each visitor to show a campus identification card.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 2,
+      "level": "Easy"
+    },
+    {
+      "id": "rep_903",
+      "text": "Write the return time clearly before handing over a device.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 3,
+      "level": "Medium"
+    },
+    {
+      "id": "rep_904",
+      "text": "If a charger is missing, note it on the checkout form.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 4,
+      "level": "Medium"
+    },
+    {
+      "id": "rep_905",
+      "text": "Place returned tablets in the numbered cabinet near the desk.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 5,
+      "level": "Medium"
+    },
+    {
+      "id": "rep_906",
+      "text": "Before closing, compare the equipment list with every item on the shelves.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 6,
+      "level": "Hard"
+    },
+    {
+      "id": "rep_907",
+      "text": "If a visitor needs an extension, contact the supervisor before changing the return time.",
+      "scenario_id": "repeat_906_service_desk",
+      "scenario_intro": "You are working at a campus service desk. A supervisor is explaining how to check out shared equipment and help visitors. Listen to the supervisor and repeat what the supervisor says. Repeat only once.",
+      "sequence": 7,
+      "level": "Hard"
     }
   ],
   "interview": [
@@ -10572,6 +11871,22 @@
     {
       "id": "int_804",
       "prompt": "Do you agree or disagree that students should work part time while studying? Give reasons and examples."
+    },
+    {
+      "id": "int_901",
+      "prompt": "Describe a place on campus where you like to study. What makes it a good place for you?"
+    },
+    {
+      "id": "int_902",
+      "prompt": "Some students prefer to plan their week carefully, while others make plans day by day. Which approach works better for you, and why?"
+    },
+    {
+      "id": "int_903",
+      "prompt": "Talk about a skill you learned outside a classroom. How did you learn it, and when have you used it?"
+    },
+    {
+      "id": "int_904",
+      "prompt": "Do you think students learn more from working alone or working with classmates? Give reasons and an example."
     }
   ]
 }
