@@ -2403,29 +2403,32 @@
         {
           "q": "Why was the orientation rescheduled?",
           "options": [
-            "The teaching lab is being inspected",
             "The coordinator is at a conference",
-            "Students requested a later time"
+            "Students requested a later time",
+            "The service is available only after students make an additional request.",
+            "The teaching lab is being inspected"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What should a student do if unable to attend?",
           "options": [
-            "Email Priya by Tuesday noon",
             "Visit the lab on Monday",
-            "Ask a classmate to sign in"
+            "Ask a classmate to sign in",
+            "Email Priya by Tuesday noon",
+            "The notice says students should confirm this arrangement again at the end of the term."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What can be inferred about entering the lab?",
           "options": [
-            "The group will go in after meeting outside",
             "Students should arrive in lab coats",
-            "The session takes place online"
+            "The session takes place online",
+            "The group will go in after meeting outside",
+            "Readers who do not follow the instructions may need to contact the office later."
           ],
-          "answer": 0
+          "answer": 2
         }
       ]
     },
@@ -2441,7 +2444,8 @@
           "options": [
             "Rooms may be reserved for at most two hours daily",
             "All rooms now require staff supervision",
-            "Bookings must be made in person"
+            "Bookings must be made in person",
+            "The service is available only after students make an additional request."
           ],
           "answer": 0
         },
@@ -2450,18 +2454,20 @@
           "options": [
             "Starting at 7 a.m. on Wednesday",
             "Any time the previous week",
-            "Only after arriving at the library"
+            "Only after arriving at the library",
+            "The notice says students should confirm this arrangement again at the end of the term."
           ],
           "answer": 0
         },
         {
           "q": "What may happen if a group arrives late?",
           "options": [
-            "Its room may be given to someone else",
             "It can extend the booking",
-            "It must pay a fee"
+            "Its room may be given to someone else",
+            "It must pay a fee",
+            "Readers who do not follow the instructions may need to contact the office later."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -2475,30 +2481,32 @@
         {
           "q": "Why has the meeting location changed?",
           "options": [
-            "Rain is expected",
             "The outdoor area is being replanted",
-            "The greenhouse has new tools"
+            "The greenhouse has new tools",
+            "The service is available only after students make an additional request.",
+            "Rain is expected"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What should participants bring?",
           "options": [
-            "A notebook",
             "A gardening tool",
-            "A bag of soil"
+            "A bag of soil",
+            "The notice says students should confirm this arrangement again at the end of the term.",
+            "A notebook"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What can a person infer about the waiting list?",
           "options": [
-            "A place is not guaranteed, but cancellations may create an opening",
             "Everyone on it will attend the workshop",
+            "A place is not guaranteed, but cancellations may create an opening",
             "The volunteer will provide gardening tools",
             "It closes after the workshop begins"
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -2514,27 +2522,30 @@
           "options": [
             "To explain a temporary change to equipment returns",
             "To announce new cameras",
-            "To recruit students for inventory"
+            "To recruit students for inventory",
+            "The service is available only after students make an additional request."
           ],
           "answer": 0
         },
         {
           "q": "How should a student return a microphone on Thursday?",
           "options": [
-            "Return it in person Friday",
             "Leave it in the drop box",
-            "Mail it to the office"
+            "Mail it to the office",
+            "The notice says students should confirm this arrangement again at the end of the term.",
+            "Return it in person Friday"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What is true about extension requests?",
           "options": [
-            "They must be sent by Wednesday at 5 p.m.",
             "They are automatically approved",
-            "They can only be requested in person"
+            "They must be sent by Wednesday at 5 p.m.",
+            "They can only be requested in person",
+            "Readers who do not follow the instructions may need to contact the office later."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -2548,20 +2559,22 @@
         {
           "q": "Where will résumé reviews take place next week?",
           "options": [
-            "In Room 118",
             "In the usual lobby",
-            "At the library desk"
+            "At the library desk",
+            "In Room 118",
+            "The service is available only after students make an additional request."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What should a student do to receive a full practice interview?",
           "options": [
-            "Book a separate appointment",
             "Arrive before 1 p.m.",
-            "Bring two printed résumés"
+            "Book a separate appointment",
+            "Bring two printed résumés",
+            "The notice says students should confirm this arrangement again at the end of the term."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     }
@@ -4501,38 +4514,42 @@
         {
           "q": "What is the passage mainly about?",
           "options": [
-            "How wetlands store carbon and what affects that storage",
             "Why wetland plants grow only in deep water",
-            "How marshes are converted into farms"
+            "How wetlands store carbon and what affects that storage",
+            "How marshes are converted into farms",
+            "The passage focuses mainly on the financial cost of carrying out the process."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "“Scarce” is closest in meaning to",
           "options": [
-            "limited",
             "harmful",
-            "unchanged"
+            "unchanged",
+            "The author argues that the method is useful only in a limited number of cases.",
+            "limited"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why can draining a wetland release stored carbon?",
           "options": [
-            "Oxygen speeds the breakdown of organic material",
             "Plants stop receiving sunlight",
-            "Researchers can no longer collect samples"
+            "Researchers can no longer collect samples",
+            "Oxygen speeds the breakdown of organic material",
+            "The passage describes a recent change that made the earlier approach unnecessary."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Why does the author say one measurement can mislead?",
           "options": [
-            "Wetland conditions vary and require continued study",
             "Carbon is absent from wetland soil",
-            "Plant growth cannot be observed"
+            "Wetland conditions vary and require continued study",
+            "Plant growth cannot be observed",
+            "The passage focuses mainly on the financial cost of carrying out the process."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -4548,36 +4565,40 @@
           "options": [
             "Printing spread maps, but their purposes and assumptions still shaped them",
             "Travelers immediately stopped using guides",
-            "Mapmakers had complete information about distant regions"
+            "Mapmakers had complete information about distant regions",
+            "The author argues that the method is useful only in a limited number of cases."
           ],
           "answer": 0
         },
         {
           "q": "“Circulate” is closest in meaning to",
           "options": [
-            "be distributed",
             "be corrected",
-            "be hidden"
+            "be hidden",
+            "be distributed",
+            "The passage describes a recent change that made the earlier approach unnecessary."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What influenced the details included on a map?",
           "options": [
-            "Its intended users",
             "The age of the traveler",
-            "Only the cost of printing"
+            "Only the cost of printing",
+            "Its intended users",
+            "The passage focuses mainly on the financial cost of carrying out the process."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Why mention disputed borders?",
           "options": [
-            "To show maps could shape people’s beliefs",
             "To explain all borders were easy to measure",
-            "To argue publishers avoided politics"
+            "To argue publishers avoided politics",
+            "The author argues that the method is useful only in a limited number of cases.",
+            "To show maps could shape people’s beliefs"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -4593,36 +4614,40 @@
           "options": [
             "How recalling information can support learning with suitable practice and feedback",
             "Why students should stop taking notes",
-            "Why every quiz should be difficult"
+            "Why every quiz should be difficult",
+            "The passage describes a recent change that made the earlier approach unnecessary."
           ],
           "answer": 0
         },
         {
           "q": "“Secure” is closest in meaning to",
           "options": [
-            "well learned",
             "recently assigned",
-            "widely discussed"
+            "widely discussed",
+            "well learned",
+            "The passage focuses mainly on the financial cost of carrying out the process."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Why recommend feedback after a retrieval attempt?",
           "options": [
             "It helps students check answers and correct misunderstandings",
             "It removes the need for instruction",
-            "It lets students avoid reviewing difficult material"
+            "It lets students avoid reviewing difficult material",
+            "The author argues that the method is useful only in a limited number of cases."
           ],
           "answer": 0
         },
         {
           "q": "What does revisiting a concept over several days illustrate?",
           "options": [
-            "Retrieval practice can be distributed over time",
             "Students should study only after class",
-            "Concepts are best learned in one session"
+            "Concepts are best learned in one session",
+            "The passage describes a recent change that made the earlier approach unnecessary.",
+            "Retrieval practice can be distributed over time"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -4636,36 +4661,40 @@
         {
           "q": "What is the passage mainly about?",
           "options": [
-            "Principles for making public signs easy to use",
             "The history of transport symbols",
-            "Why travelers should avoid unfamiliar stations"
+            "Principles for making public signs easy to use",
+            "Why travelers should avoid unfamiliar stations",
+            "The passage focuses mainly on the financial cost of carrying out the process."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "“Contrast” is closest in meaning to",
           "options": [
-            "difference in appearance",
             "distance from a doorway",
-            "amount of written information"
+            "difference in appearance",
+            "amount of written information",
+            "The author argues that the method is useful only in a limited number of cases."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "Why might an unfamiliar icon need a label?",
           "options": [
-            "People may not understand the symbol by itself",
             "Icons cannot be used near ticket machines",
-            "Travelers prefer long explanations"
+            "Travelers prefer long explanations",
+            "The passage describes a recent change that made the earlier approach unnecessary.",
+            "People may not understand the symbol by itself"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "Why mention visitors stopping or turning around?",
           "options": [
             "Designers can observe this behavior when evaluating signs",
             "It proves public buildings are too large",
-            "It shows travelers dislike asking questions"
+            "It shows travelers dislike asking questions",
+            "The passage focuses mainly on the financial cost of carrying out the process."
           ],
           "answer": 0
         }
@@ -5678,23 +5707,23 @@
       "id": "lcr_1002",
       "prompt": "I thought the guest lecture started at two.",
       "options": [
-        "It was moved to half past two this morning.",
         "The guest brought a suitcase.",
         "I usually eat at two.",
+        "It was moved to half past two this morning.",
         "I’ll check and let you know."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_1003",
       "prompt": "Where can I return this borrowed tablet?",
       "options": [
-        "The help desk on the first floor handles returns.",
         "I borrowed a novel yesterday.",
         "The screen is bright.",
-        "I’ll check and let you know."
+        "I’ll check and let you know.",
+        "The help desk on the first floor handles returns."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_1004",
@@ -5711,23 +5740,23 @@
       "id": "lcr_1005",
       "prompt": "Would you mind moving your bag so someone can sit?",
       "options": [
-        "Not at all. I’ll put it under my chair.",
         "The bag belongs to my roommate.",
         "I sat near the window.",
+        "Not at all. I’ll put it under my chair.",
         "I’ll check and let you know."
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "id": "lcr_1006",
       "prompt": "The printer keeps stopping halfway through the report.",
       "options": [
-        "Try sending it in smaller sections; the file may be large.",
         "I printed it last week.",
         "The printer is upstairs.",
-        "I’ll check and let you know."
+        "I’ll check and let you know.",
+        "Try sending it in smaller sections; the file may be large."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_1007",
@@ -5744,56 +5773,56 @@
       "id": "lcr_1008",
       "prompt": "I can’t find the article the professor mentioned.",
       "options": [
-        "It’s linked under Week Four on the course site.",
         "The professor speaks clearly.",
+        "It’s linked under Week Four on the course site.",
         "I read about gardening.",
         "I’ll check and let you know."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_1009",
       "prompt": "Could we meet earlier to rehearse our presentation?",
       "options": [
-        "Yes, I can get to the media room by three.",
         "It was about transport.",
+        "Yes, I can get to the media room by three.",
         "I rehearse in the morning.",
         "I’ll check and let you know."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_1010",
       "prompt": "I forgot to register for the campus tour.",
       "options": [
-        "There are still a few places on the afternoon tour.",
         "The campus has old buildings.",
         "I registered my bicycle.",
-        "I’ll check and let you know."
+        "I’ll check and let you know.",
+        "There are still a few places on the afternoon tour."
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "id": "lcr_1011",
       "prompt": "Should I bring anything to the project meeting?",
       "options": [
-        "A copy of the survey results would be helpful.",
         "The project is due next month.",
+        "A copy of the survey results would be helpful.",
         "I brought lunch last time.",
         "I’ll check and let you know."
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "id": "lcr_1012",
       "prompt": "The bus stop outside the science building is closed.",
       "options": [
-        "Then let’s use the temporary stop across the street.",
         "Science was my favorite subject.",
         "The building closes at six.",
+        "Then let’s use the temporary stop across the street.",
         "I’ll check and let you know."
       ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "conversations": [
@@ -8671,20 +8700,22 @@
         {
           "q": "Why does the student want to change the reservation?",
           "options": [
-            "The samples will not be ready",
             "The technician is unavailable",
-            "The lab is being repaired"
+            "The lab is being repaired",
+            "The samples will not be ready",
+            "The speakers agree to wait until the next scheduled meeting before acting."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What will the student probably do next?",
           "options": [
-            "Move the booking online",
             "Cancel the project",
-            "Ask for another technician"
+            "Ask for another technician",
+            "The staff member offers to contact another office on the student’s behalf.",
+            "Move the booking online"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -8722,20 +8753,22 @@
         {
           "q": "What does the student want to do?",
           "options": [
-            "Borrow a book containing the article",
             "Print an entire paper",
-            "Reserve a scanner"
+            "Reserve a scanner",
+            "Borrow a book containing the article",
+            "The student decides to ask the course instructor to resolve the issue."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What does the librarian say about scanning?",
           "options": [
-            "It is possible near the service desk",
             "It requires an appointment",
-            "It is limited to one page"
+            "It is possible near the service desk",
+            "It is limited to one page",
+            "The speakers agree to wait until the next scheduled meeting before acting."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -8775,18 +8808,20 @@
           "options": [
             "Their poster is too wide",
             "The print center lost their files",
-            "They do not have a table"
+            "They do not have a table",
+            "The staff member offers to contact another office on the student’s behalf."
           ],
           "answer": 0
         },
         {
           "q": "What will the second student bring?",
           "options": [
-            "Clips and a table cover",
             "The resized files",
-            "A display board"
+            "A display board",
+            "The student decides to ask the course instructor to resolve the issue.",
+            "Clips and a table cover"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -8826,18 +8861,20 @@
           "options": [
             "Audio files will not play on a phone",
             "The course password expired",
-            "The lab is closed"
+            "The lab is closed",
+            "The speakers agree to wait until the next scheduled meeting before acting."
           ],
           "answer": 0
         },
         {
           "q": "What does the staff member suggest?",
           "options": [
-            "Download files on a computer",
             "Buy a different phone",
-            "Ask for a new course"
+            "Download files on a computer",
+            "Ask for a new course",
+            "The staff member offers to contact another office on the student’s behalf."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -8871,20 +8908,22 @@
         {
           "q": "Why does one student need to change the review time?",
           "options": [
-            "An exam conflicts with it",
             "The draft is not finished",
-            "The center is closed"
+            "An exam conflicts with it",
+            "The center is closed",
+            "The student decides to ask the course instructor to resolve the issue."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What should they do after agreeing to trade?",
           "options": [
-            "Confirm the change online",
             "Ask a professor to approve the draft",
-            "Cancel Friday"
+            "Cancel Friday",
+            "Confirm the change online",
+            "The speakers agree to wait until the next scheduled meeting before acting."
           ],
-          "answer": 0
+          "answer": 2
         }
       ]
     },
@@ -8924,18 +8963,20 @@
           "options": [
             "Returning equipment while the desk is closed",
             "Finding a charger",
-            "Extending a recording session"
+            "Extending a recording session",
+            "The staff member offers to contact another office on the student’s behalf."
           ],
           "answer": 0
         },
         {
           "q": "What should the student do before using the box?",
           "options": [
-            "Include the charger and identify the envelope",
             "Call the desk tomorrow",
-            "Remove the battery"
+            "Remove the battery",
+            "The student decides to ask the course instructor to resolve the issue.",
+            "Include the charger and identify the envelope"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     }
@@ -10029,18 +10070,20 @@
         {
           "q": "What change begins Monday?",
           "options": [
-            "The east shuttle adds a residence-hall stop",
             "The express shuttle runs less often",
-            "The station stop closes"
+            "The station stop closes",
+            "The east shuttle adds a residence-hall stop",
+            "Listeners are asked to check with the office again later for confirmation."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Which shuttle should train-station passengers use?",
           "options": [
             "The blue express shuttle",
             "The east campus shuttle",
-            "Any bus after Monday"
+            "Any bus after Monday",
+            "The announcement says the change will remain in effect for the entire term."
           ],
           "answer": 0
         },
@@ -10049,7 +10092,8 @@
           "options": [
             "On buses and the transportation website",
             "At the athletics center only",
-            "From residence staff"
+            "From residence staff",
+            "Students should make a separate appointment before following these instructions."
           ],
           "answer": 0
         }
@@ -10063,29 +10107,32 @@
         {
           "q": "What is the program about?",
           "options": [
-            "A photography exhibition",
             "A café renovation",
-            "A student film"
+            "A student film",
+            "Listeners are asked to check with the office again later for confirmation.",
+            "A photography exhibition"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What should visitors do before attending?",
           "options": [
-            "Reserve a place online",
             "Buy food at the café",
-            "Bring a photograph"
+            "Bring a photograph",
+            "The announcement says the change will remain in effect for the entire term.",
+            "Reserve a place online"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What can be inferred about the gallery?",
           "options": [
-            "It cannot accommodate unlimited visitors",
             "It closes before the program",
-            "It allows drinks"
+            "It cannot accommodate unlimited visitors",
+            "It allows drinks",
+            "Students should make a separate appointment before following these instructions."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -10097,29 +10144,32 @@
         {
           "q": "Why are hours extended?",
           "options": [
-            "To help students choose fall courses",
             "To register graduates",
-            "To introduce new advisors"
+            "To help students choose fall courses",
+            "To introduce new advisors",
+            "Listeners are asked to check with the office again later for confirmation."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What is the limit of evening sessions?",
           "options": [
-            "They are intended for brief questions",
             "They are only for first-year students",
-            "They require a degree plan"
+            "They require a degree plan",
+            "They are intended for brief questions",
+            "The announcement says the change will remain in effect for the entire term."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "Who will be seen first?",
           "options": [
-            "Students with appointments",
             "Walk-ins arriving late",
-            "Students choosing one course"
+            "Students with appointments",
+            "Students choosing one course",
+            "Students should make a separate appointment before following these instructions."
           ],
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -10133,25 +10183,28 @@
           "options": [
             "Friday morning",
             "Thursday afternoon",
-            "Friday after nine"
+            "Friday after nine",
+            "Listeners are asked to check with the office again later for confirmation."
           ],
           "answer": 0
         },
         {
           "q": "What should lab students do?",
           "options": [
-            "Fill a bottle in the library",
             "Avoid all sinks",
-            "Move their class"
+            "Move their class",
+            "The announcement says the change will remain in effect for the entire term.",
+            "Fill a bottle in the library"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What is expected after nine?",
           "options": [
             "Classes should continue normally",
             "The building will close",
-            "Sinks will stop"
+            "Sinks will stop",
+            "Students should make a separate appointment before following these instructions."
           ],
           "answer": 0
         }
@@ -10165,29 +10218,32 @@
         {
           "q": "What must students submit by March 12?",
           "options": [
-            "An image and short description",
             "A framed original",
-            "A faculty letter"
+            "A faculty letter",
+            "An image and short description",
+            "Listeners are asked to check with the office again later for confirmation."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "How will students learn if selected?",
           "options": [
-            "By email",
             "At the circulation desk",
-            "Through a class meeting"
+            "By email",
+            "Through a class meeting",
+            "The announcement says the change will remain in effect for the entire term."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What responsibility remains with selected artists?",
           "options": [
-            "Delivering their work to the library",
             "Providing all frames",
-            "Choosing committee members"
+            "Choosing committee members",
+            "Students should make a separate appointment before following these instructions.",
+            "Delivering their work to the library"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     }
@@ -11342,38 +11398,42 @@
         {
           "q": "What is the talk mainly about?",
           "options": [
-            "Reasons birds migrate at night and cues they use",
             "How birds build winter nests",
-            "Why all birds follow one route"
+            "Why all birds follow one route",
+            "Reasons birds migrate at night and cues they use",
+            "The speaker recommends repeating the study with a larger group of participants."
           ],
-          "answer": 0
+          "answer": 2
         },
         {
           "q": "What is one advantage of night travel?",
           "options": [
-            "It may reduce heat exposure",
             "It provides more food",
-            "It makes landmarks easier to see"
+            "It makes landmarks easier to see",
+            "The talk argues that the process has little practical value outside a classroom.",
+            "It may reduce heat exposure"
           ],
-          "answer": 0
+          "answer": 3
         },
         {
           "q": "What does the speaker say about young birds?",
           "options": [
             "They may begin with an inherited general direction",
             "They rely only on city lights",
-            "They wait until adulthood to migrate"
+            "They wait until adulthood to migrate",
+            "The speaker says more evidence is needed before the method can be used."
           ],
           "answer": 0
         },
         {
           "q": "Why mention reducing city lights?",
           "options": [
-            "It is a change that can help migrating birds",
             "Birds cannot navigate without people",
-            "Migration happens only in cities"
+            "Migration happens only in cities",
+            "The speaker recommends repeating the study with a larger group of participants.",
+            "It is a change that can help migrating birds"
           ],
-          "answer": 0
+          "answer": 3
         }
       ]
     },
@@ -11385,38 +11445,42 @@
         {
           "q": "What is the talk mainly about?",
           "options": [
-            "How food labels communicate and how design affects usefulness",
             "Why shoppers should ignore labels",
-            "How markets choose products"
+            "How food labels communicate and how design affects usefulness",
+            "How markets choose products",
+            "The talk argues that the process has little practical value outside a classroom."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What does “hierarchy” mean here?",
           "options": [
             "Arranging details so important information is easier to find",
             "Listing products from oldest to newest",
-            "Using one color for every product"
+            "Using one color for every product",
+            "The speaker says more evidence is needed before the method can be used."
           ],
           "answer": 0
         },
         {
           "q": "Why test labels with different groups?",
           "options": [
-            "To see whether people understand terms and symbols as intended",
             "To learn which product is cheapest",
-            "To make every label the same length"
+            "To see whether people understand terms and symbols as intended",
+            "To make every label the same length",
+            "The speaker recommends repeating the study with a larger group of participants."
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "q": "What can be inferred about a confusing label?",
           "options": [
-            "It may fail to help shoppers decide",
             "It is always more informative",
-            "It has necessarily been tested"
+            "It has necessarily been tested",
+            "It may fail to help shoppers decide",
+            "The talk argues that the process has little practical value outside a classroom."
           ],
-          "answer": 0
+          "answer": 2
         }
       ]
     }
@@ -12133,9 +12197,8 @@
     {
       "id": "bs_1003",
       "parts": [
-        "do you remember",
-        "which folder",
-        "contains",
+        "where",
+        "did you save",
         "the interview notes?"
       ]
     },
@@ -12151,9 +12214,8 @@
     {
       "id": "bs_1005",
       "parts": [
-        "would you mind telling me",
-        "where visitors",
-        "should leave",
+        "where should visitors",
+        "leave",
         "their bicycles?"
       ]
     },
@@ -12178,7 +12240,6 @@
     {
       "id": "bs_1008",
       "parts": [
-        "do you remember",
         "who is leading",
         "the discussion",
         "after the break?"
@@ -12187,18 +12248,15 @@
     {
       "id": "bs_1009",
       "parts": [
-        "can you tell me",
-        "how long the equipment",
-        "can be borrowed",
-        "for?"
+        "how long",
+        "can the equipment",
+        "be borrowed?"
       ]
     },
     {
       "id": "bs_1010",
       "parts": [
-        "do you know",
-        "when the revised schedule",
-        "will appear",
+        "when will the revised schedule appear",
         "on the course website?"
       ]
     }
