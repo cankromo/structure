@@ -42,6 +42,17 @@ function hashText(text) {
   return crypto.createHash("sha1").update(text).digest("hex").slice(0, 12);
 }
 
+function hasAudio(wavPath) {
+  try {
+    const data = fs.readFileSync(wavPath);
+    const marker = data.indexOf(Buffer.from("data"));
+    const start = marker >= 0 ? marker + 8 : data.length;
+    return data.length > 8000 && start < data.length && data.subarray(start).some((sample) => sample !== 0);
+  } catch (error) {
+    return false;
+  }
+}
+
 function loadExistingManifest() {
   try {
     return JSON.parse(fs.readFileSync(MANIFEST_PATH, "utf8"));
@@ -59,7 +70,7 @@ function writeAudio(id, text, voice, existingManifest) {
   const hash = hashText(`${voice}|${RATE}|${AUDIO_BUILD}|${clean}`);
   const previous = existingManifest.files && existingManifest.files[id];
 
-  if (fs.existsSync(wavPath) && previous && previous.text_hash === hash) {
+  if (fs.existsSync(wavPath) && hasAudio(wavPath) && previous && previous.text_hash === hash) {
     return { id, file: `assets/audio/${id}.wav`, text_hash: hash, skipped: true };
   }
 
@@ -142,8 +153,11 @@ function main() {
 
   const questions = JSON.parse(fs.readFileSync(QUESTIONS_PATH, "utf8"));
   const existingManifest = loadExistingManifest();
-  const items = collectItems(questions);
-  const files = {};
+  const filter = process.env.TOEFL_AUDIO_ID_SUFFIX_PREFIX;
+  const items = collectItems(questions).filter((item) =>
+    !filter || Number(item.id.split("_").pop()) >= Number(filter)
+  );
+  const files = { ...(existingManifest.files || {}) };
   let generated = 0;
   let skipped = 0;
 

@@ -832,6 +832,145 @@
           }
         ]
       }
+    },
+    {
+      "id": "mock_007",
+      "name": "Mock 007",
+      "durations": {
+        "reading": 30,
+        "listening": 29,
+        "writing": 23,
+        "speaking": 8
+      },
+      "sections": {
+        "reading": [
+          {
+            "type": "complete_words",
+            "ids": [
+              "cw_1001",
+              "cw_1002"
+            ]
+          },
+          {
+            "type": "daily_life",
+            "ids": [
+              "rdl_1001",
+              "rdl_1002",
+              "rdl_1003",
+              "rdl_1004",
+              "rdl_1005"
+            ]
+          },
+          {
+            "type": "academic_passage",
+            "ids": [
+              "rap_1001",
+              "rap_1002",
+              "rap_1003",
+              "rap_1004"
+            ]
+          }
+        ],
+        "listening": [
+          {
+            "type": "choose_response",
+            "ids": [
+              "lcr_1001",
+              "lcr_1002",
+              "lcr_1003",
+              "lcr_1004",
+              "lcr_1005",
+              "lcr_1006",
+              "lcr_1007",
+              "lcr_1008",
+              "lcr_1009",
+              "lcr_1010",
+              "lcr_1011",
+              "lcr_1012"
+            ]
+          },
+          {
+            "type": "conversations",
+            "ids": [
+              "conv_1001",
+              "conv_1002",
+              "conv_1003",
+              "conv_1004",
+              "conv_1005",
+              "conv_1006"
+            ]
+          },
+          {
+            "type": "announcements",
+            "ids": [
+              "ann_1001",
+              "ann_1002",
+              "ann_1003",
+              "ann_1004",
+              "ann_1005"
+            ]
+          },
+          {
+            "type": "academic_talks",
+            "ids": [
+              "talk_1001",
+              "talk_1002"
+            ]
+          }
+        ],
+        "writing": [
+          {
+            "type": "build_sentence",
+            "ids": [
+              "bs_1001",
+              "bs_1002",
+              "bs_1003",
+              "bs_1004",
+              "bs_1005",
+              "bs_1006",
+              "bs_1007",
+              "bs_1008",
+              "bs_1009",
+              "bs_1010"
+            ]
+          },
+          {
+            "type": "email",
+            "ids": [
+              "we_1001"
+            ]
+          },
+          {
+            "type": "discussion",
+            "ids": [
+              "ad_1001"
+            ]
+          }
+        ],
+        "speaking": [
+          {
+            "type": "repeat",
+            "ids": [
+              "rep_1001",
+              "rep_1002",
+              "rep_1003",
+              "rep_1004",
+              "rep_1005",
+              "rep_1006",
+              "rep_1007"
+            ]
+          },
+          {
+            "type": "interview",
+            "ids": [
+              "int_1001",
+              "int_1002",
+              "int_1003",
+              "int_1004"
+            ]
+          }
+        ]
+      }
     }
   ]
 }
